@@ -1,0 +1,3336 @@
+JLPT,,JAP-RULE,JAP-PRON,ROMAJI-RULE,DEFINITION,IMPL,EXAMPLES,,COLOR
+N1,https://jlptsensei.com/,XがXなら、YもYだ,,[x] ga [x] nara [y] mo [y] da,"like [father] like [son] (negative meaning)
+XがXなら、YもYだ
+XもXなら、YもYだ
+X = Noun 1
+Y = Noun 2",1,"子供が子供なら、親も親だ。
+あのカフェは、味も味なら、サービスもサービスだ。
+自分の子供が問題を起こして学校に呼び出されているのに、それを無視する親がいる。子供が子供なら親も親だ。",,#800000
+N1,https://japanesetest4you.com/,案の定,,an no jou,"just as one thought; sure enough
+案の定 + phrase",1,"あの堤防は、案の定今回の台風で決壊してしまった。
+案の定、山田さんだった。
+彼女は車庫へと駆け出した。案の定、父の車はなかった。",,#800000
+N1,https://jlptsensei.com/,あっての,,atte no,"which owes everything to
+Noun1 + あっての + Noun2",1,"健康な体あっての人生です。
+お客様あっての仕事だから、言葉遣いに気を付けてください。
+私の幸せは家族あってのものだ。みんな病気をせず元気でいてほしい。",,#800000
+N1,https://japanesetest4you.com/,それまでだ,,ba sore made da,"if… then it’s over
+Verb (ば conditional) + それまでだ",1,"この機械は水に弱い。水がかかればそれまでだ。
+どんなに美しい花でも、散ってしまえばそれまでだ。",,#808000
+N1,https://japanesetest4you.com/,べからず,,bekarazu,"must not; should not; do not
+Verb (dictionary form) + べからず/べからざる",1,"経営者にとって決断力は欠くべからざるものである。
+ここまで来るはよいが、先へ進むべからず。
+関係者以外立ち入るべからず。",,#808000
+N1,https://japanesetest4you.com/,べく,,beku,"in order to; for the purpose of
+Verb (dictionary form) + べく
+Exception: する => するべく/すべく",1,"彼はサッカー選手になるべく、毎日厳しい練習をしている。
+ウイルスの感染経路を明らかにすべく調査が行われた。
+恩師に会うべく、久し振りに母校を訪れた。",,#808000
+N1,https://japanesetest4you.com/,べくもない,,beku mo nai,"can’t; cannot possibly be
+Verb (dictionary form) + べくもない
+Exception: する => すべくもない",1,"それは、否定すべくもない。
+この絵が偽者であることなど、素人のわたしは知るべくもない。
+彼が衝撃を受けているのは疑うべくもない。",,#808000
+N1,https://japanesetest4you.com/,びる,,biru,"seeming to be; behaving as
+Noun/い-adjective #い# + びる/びて
+Noun/い-adjective #い# + びた + Noun
+Exception: 古い => 古びた; 悪い => 悪びれる",1,"彼の片手には屋根部屋のにちがいない古びたさびだらけの鍵をもっている。
+市中にちかい割に田舎びた閑静な場所です。
+彼は中学生になったとたん、大人びたことを言うようになった。",funktioniert nicht da tokenizer,#808000
+N1,https://japanesetest4you.com/,ぶり,,buri,"style; manner
+Verb #ます# (stem form) + ぶり/っぷり
+Noun + ぶり",1,"だいぶ驚かしてしまったようですね。まず、わたしの怠慢ぶりで。それから、わたしの考え方で。
+自分のチームの信頼性を疑われたとでも言いたげな口ぶりだ。
+みんなが彼女の笑いっぶりを見ている。",,#808000
+N1,https://japanesetest4you.com/,だに,,dani,"Even
+Verb (dictionary form) + だに
+Noun + だに",1,"こんなことになるとは、夢にだに思わなかった。
+思い出すだに怒りで熱くなる。
+全国にこの病気が広まったら、百万人もの人が死ぬなど、想像するだに恐ろしい。",,#008000
+N1,https://jlptsensei.com/,だの～だの,,dano~dano,"and; and the like; and so forth
+Pattern
+[A] + だの + [B] + だの
+
+Conjugations
+Verb + だの
+Noun (だった) + だの
+な-adjective (だった) + だの
+い-adjective + だの",1,"僕の毎月の小遣いは、飲み会だのカラオケだので消えていく。
+彼女は、風邪を引いただの、頭が痛いだのと言って、よく授業を休む。
+彼女は立派な家に住んでいるのに、掃除が大変だのキッチンが使いにくいだのと文句ばかり言っている。",,#008000
+N1,https://jlptsensei.com/,であれ/であろうと,,de are/de arou to,"whoever / whatever / however
+Noun + であれ/であろうと",1,"嘘をつくとは、どんな理由であれ、許されないことだ。
+彼女が誰であれ、特別扱いするのはダメでしょう。
+どの大学であろうと、進学先が決まってほっとした。",,#008000
+N1,https://jlptsensei.com/,であれ～であれ,,de are~de are,"whether [A] or [B]
+Noun / な-adjective + であれ + Noun / な-adjective + であれ
+Noun / な-adjective + であろうと + Noun / な-adjective + であろうと",,,,#008000
+N1,https://japanesetest4you.com/,でも何でもない,,demo nan demo nai,"not in the least
+Noun/な-adjective + でも何でもない",1,"あなたがそれをいかに見るかによりけりですよ。ある角度から見れば偶然の符合でも何でもない。
+彼は病気でも何でもない。ただずる休みしたいだけかもしれない。
+これはただの石で、金目のものでも何でもありません。",,#008000
+N1,https://japanesetest4you.com/,でなくてなんだろう,,denakute nan darou,"must be; is definitely
+Noun + でなくてなんだろう",1,"戦争で多くの人が殺されているとは、悲劇でなくてなんだろう。
+このようなところに道路を作るのは、税金の無駄遣いでなくてなんだろう。
+彼女に対するこの気持ちは、愛でなくてなんだろう。",,#008000
+N1,https://japanesetest4you.com/,ではあるまいか,,dewa aru mai ka,"I wonder if it’s not…
+Verb (casual form) + のではあるまいか
+Noun + ではあるまいか
+な-adjective + ではあるまいか",1,"あの男の父親がジョンソンのために没落したのではあるまいか。
+このごろはあまり彼の姿を見かけない。どこかへ行ってしまったのではあるまいか。
+彼女は変わり者の友だちを怒らせたのではあるまいかと心配になった。",,#008000
+N1,https://japanesetest4you.com/,ではあるまいし,,dewa aru mai shi,"it’s not like; it isn’t as if
+Verb + ではあるまいし/じゃあるまいし
+Noun + ではあるまいし/じゃあるまいし",1,"子供じゃあるまいし、もう泣くのをよして。
+面接試験は初めてではあるまいし、どうしてそんなに緊張するの？
+子供ではあるまいし、暗いところが怖いなんて、おかしいね。",,#008000
+N1,https://japanesetest4you.com/,ではすまない,,dewa sumanai,"it doesn’t end with just…
+Noun + ではすまない/ではすまされない
+Verb (casual form) + ではすまない/ではすまされない",1,"どういうつもりか知らないが、あなたは免職どころではすまないぞ。
+課長である以上、そんな大事なことを知らなかったではすまされないだろう。
+この事件で、これまでのように単なる不安感ではすまなくなり、パニック状態が起こった。",,#008000
+N1,https://japanesetest4you.com/,どうにも,,dou nimo~nai,"not … by any means; no matter how hard one tries, cannot…
+どうにも + Verb (ない form)",1,"彼はどうにも身の置き場がないような様子だ。
+僕はこれがどうにも理解できない。
+どうにも寝つかれないものですから、あきらめて読みかけの小説でも読むつもりで、起きて電気をつけました。",,#008000
+N1,https://jlptsensei.com/,が早いか,がはやいか,ga hayai ka,"as soon as~
+Verb (dictionary) + が早いか",1,"その人は、信号の色が変わるが早いか、走り出した。
+デパートが開店するが早いか、主婦たちが特売場に押し寄せた。
+隣席のクラスメイトは、授業の終わりのベルが鳴るが早いか、教室を出て行った。",,#000080
+N1,https://jlptsensei.com/,がてら,,gatera,"while; on the same occasion; at the same time; coincidentally~
+Noun + がてら
+Verb #ます# + がてら",1,"散歩がてら、コンビニに行ってくるよ。
+遊びがてらお立ち寄りください。
+新年会の下見がてら飲みに行った居酒屋は、あまりよくなかった。",,#000080
+N1,https://japanesetest4you.com/,ごとき/ごとく,,gotoki/gotoku,"like; as if; the same as
+Verb (casual form) + ごとく
+Noun + のごとく/ごとき",1,"パトカーはサイレンを鳴らしてナイフのごとく車の群れを切り裂きました。
+泥棒が脱兎のごとく店を飛び出した。
+今回のごとき事件は二度と起こしてはならない。",,#000080
+N1,https://jlptsensei.com/,ぐるみ,,gurumi,"together (with); -wide
+Noun + ぐるみ",1,"私たちは家族ぐるみで仲良くしている。
+町ぐるみで自然環境の保全に努めている。
+その企業が会社ぐるみで脱税をしてたのが発覚した。",,#000080
+N1,https://japanesetest4you.com/,羽目になる,はめになる,hame ni naru,"to end up with (something unpleasant)
+Verb (dictionary form) + 羽目になる",1,"彼はこれで落ちつくねぐらも愛する女も、いっぺんに失う羽目になった。
+うっかりしてデータを消してしまったので、もう一度入力する羽目になった。
+この家で何かがおかしくなると、やはり僕がとがめられる羽目になった。",,#9acd32
+N1,https://japanesetest4you.com/,ほかに～ない,,hoka ni~nai,"no other; nothing else
+ほかに + Verb (ないform)",1,"愛はほかに類のない携行可能な魔法だ。
+こうするほかに選択の余地はないんだわ。
+それだけ？ほかに条件はないんですか？",,#9acd32
+N1,https://japanesetest4you.com/,ほうがましだ,,hou ga mashi da,"would rather
+Verb (casual) + ほうがましだ",1,"大阪で警察に逮捕されたほうがましだったかもしれないと思う。
+あんなことになるなら、死んだほうがましだ。
+そんな奴なら、死んだ方がましだ。",,#9acd32
+N1,https://japanesetest4you.com/,いかんでは,,ikan dewa,"depending on
+Noun + いかんだ/いかんで (は)/いかんによって (は)",1,"出席状況・学業成績のいかんでは、奨学金の支給を停止することもある。
+筆記試験はパスした。明日の面接の結果いかんで採用が決まるそうだ。
+成功するかどうかはみんなの努力いかんだ。",,#8fbc8f
+N1,https://japanesetest4you.com/,いかなる,,ikanaru,"any kind of
+いかなる + Noun",1,"信仰にはいかなる物質的な裏づけも必要無い。
+彼がいかなる理由で、突然に考えを変えたかはうかがい知ることはできない。
+面接の結果についてはいかなる点から考えても満足すべきものだ。",,#8fbc8f
+N1,https://japanesetest4you.com/,いかにも,,ikanimo,"indeed; really
+いかにも + sentence",1,"姉がいかにも満足そうに、明るい様子に見えた。
+小さな娘はいかにもうまく泣きだした。
+いかにも鈴木さんはあまり口をききませんでした。",,#8fbc8f
+N1,https://japanesetest4you.com/,いずれにせよ,,izure nise yo,"at any rate; anyway; in any case
+いずれにせよ/いずれにしろ/いずれにしても + sentence",1,"いずれにせよ、きみには援護など必要ない。
+いずれにせよ、わたしは試験のことを考えたくない。
+いずれにせよ時間がない。",,#8fbc8f
+N1,https://japanesetest4you.com/,じみた,,jimita,"to look like
+Noun + じみた + Noun",1,"ゆうべは、あたし、気ちがいじみた事をしてしまった。
+あの子はよく年寄りじみたことを言う。
+彼女はあんな子供じみたことは止めたんだなと思ったのです。",,#8b008b
+N1,https://japanesetest4you.com/,か否か,かいなか,ka ina ka,"whether or not
+Verb-casual + か否か
+Noun + である + か否か
+い-adjective + か否か
+な-adjective + である + か否か",1,"いまいちど、被告とハンニバル・レクターとが同一人か否かということを証人たちに尋問したいのです。
+話を逸らすな。いまはショーンという男子とデート中か否か？
+彼のアリバイは真物か否か、それを判断しなければなりません。",,#b03060
+N1,https://jlptsensei.com/,限りだ,かぎりだ,kagiri da,"to feel strongly
+い-adjective + い	+ 限りだ
+な-adjective + な	+ 限りだ",1,"妹の結婚式に出られないとは、残念な限りだ。
+心配していた試験に合格して嬉しい限りだ。
+宝くじに当たったなんて、何とも羨ましい限りだ。",,#b03060
+N1,https://japanesetest4you.com/,かいもなく,,kai mo naku,"even though
+Verb (casual, past) + かいもなく
+Noun + のかいもなく",1,"待ったかいもなく、彼はとうとう帰ってこなかった。
+必死の練習のかいもなく、オリンピックの代表選手には選ばれなかった。
+手術のかいもなく、ガンが移転してしまった。",,#b03060
+N1,https://jlptsensei.com/,からある/からする/からの,,kara aru/kara suru/kara no,"at least; approximately X or more
+Noun + からある/からする/からの",0,,,#b03060
+N1,https://japanesetest4you.com/,かれ～かれ,,kare~kare,"or
+い-adjective #い# + かれ + い-adjective #い# + かれ",1,"では、どうすればいいんです。おそかれ早かれ…
+今後は良かれ悪しかれ彼の家族に干渉しないほうがいいと思う。
+多かれ少なかれ、みんな悩みを抱えている。",doesnt work because of tokenizer,#b03060
+N1,https://jlptsensei.com/,かたがた,,katagata,"while; at the same time; for the purpose of
+Noun + かたがた",1,"本日はお礼かたがたお伺いました。
+近くまで来ましたので、ご挨拶かたがたお伺いしました。
+ご挨拶かたがた、一言お礼を述べさせていただきます。",,#b03060
+N1,https://jlptsensei.com/,かたわら,,katawara,"while; at the same time; in addition
+Noun + の + かたわら ~[B]
+Verb (dictionary) + かたわら ~[B]",1,"母は農業のかたわら、夜はバイトをやっている。
+この小説家は執筆のかたわら、趣味でピアノを弾いている。
+彼女は子供を育てるかたわら、家で料理教室も開いています。",,#b03060
+N1,https://japanesetest4you.com/,かつて,,katsute,"once; before; never before
+かつて + sentence",1,"わたしはかつて、ある手術をうけたことがあった。
+目の前にあるのは、彼がかつて見たこともない異様な絵図だった。
+彼女は美しかったことはかつていちどもない。",,#b03060
+N1,https://japanesetest4you.com/,きっての,,kitte no,"the most … of all
+Noun + きっての + Noun",1,"あの娘なら知らないものはありません。この付近きっての美人です。
+彼はこの地方きっての大地主です。
+めぐれ警部は警視庁きっての敏腕家とうたわれます。",,#b03060
+N1,https://jlptsensei.com/,こそあれ,,koso are,"although; even though
+Noun + こそあれ/こそあるが
+な-adjective + で + こそあれ/こそあるが",,,,#b03060
+N1,https://jlptsensei.com/,こそ「～が・けれど」,,koso ga/keredo,"but; although (emphasis)
+Noun + こそ	～が…/～けれど…",,,,#b03060
+N1,https://jlptsensei.com/,こそすれ,,koso sure,"only the first point is true, the second point cannot be true
+Noun + こそすれ + Point 2
+Verb #ます# (stem form) + こそすれ + Point 2",1,"勝ちこそすれ決して負けません。
+白髪は普通増えこそすれ、減ることはない。
+君のやったことは、褒められこそすれ、非難されるものではない。",,#b03060
+N1,https://jlptsensei.com/,ことなしに,,koto nashi ni,"without doing something
+Verb (dictionary form)	+ ことなしに (は)",1,"今日は朝食を食べることなしに学校へ行った 。
+努力することなしにN１に合格はできない。
+教えられることなしにできるようになる。",,#b03060
+N1,https://jlptsensei.com/,ことのないように,,koto no nai you ni,"so as not to; to not~
+Verb (casual, non-past) + ことのないよう (に)
+な-adjective + な + ことのないよう (に)
+い-adjective + ことのないよう (に)",0,,,#b03060
+N1,https://jlptsensei.com/,くらいなら,,kurai nara,"rather than (do …)
+Verb (dictionary form)	+ くらいなら/ぐらいなら",1,"そんなことをするくらいなら、死んだほうがましだ。
+家で休むくらいならむしろ外出したい。
+友人を傷つけるくらいなら、自分が我慢したほうがいい。",,#b03060
+N1,https://jlptsensei.com/,くらいのものだ,,kurai no mono da,"only (emphasis)
+Noun + くらい/ぐらい + のものだ/なものだ",1,"そんな事をするのは君くらいのものだ。
+あの学校は生徒が四五百くらいのものだ。
+彼女が仕事を辞めないように説得できるのは、君ぐらいのものだ。",,#b03060
+N1,https://jlptsensei.com/,までだ,,made da,"only; just; nothing else
+Verbる + まで (のこと) だ
+Verbた + まで (のこと) だ
+それ + までだ
+これ + までだ",1,"ちょっと聞いてみたまでだ。
+給料が下がるなら、会社を辞めるまでです。
+妻が反対だと言えば、諦めるまでです。",,#ffa500
+N1,https://jlptsensei.com/,までもない,,made mo nai,"it is not necessary to~
+Verb (dictionary form)	+ までもない",1,"それは問題にするまでもないことだ。
+アメリカが広いということは、言うまでもない。
+その件については、部長に許可を取るまでもない。",,#ffa500
+N1,https://japanesetest4you.com/,まじき,,majiki,"should not; must not
+Verb (dictionary form) + まじき",1,"親を騙すなんて、子供にあるまじき行為だ。
+弱いものをいじめるなんて、許すまじきことです。
+彼のやったことは、人としてあるまじき残酷な行為だ。",,#ffa500
+N1,https://jlptsensei.com/,まみれ,,mamire,"covered with; stained; smeared with
+Noun + まみれ",1,"ビーチへ行ったとき、砂まみれになって遊んだ。
+彼女は汗まみれになって、一生懸命バレーボールの練習をしている。
+誰か救急車を呼んでください！この人が血まみれになって倒れている。",,#ffa500
+N1,https://jlptsensei.com/,も同然だ,もどうぜんだ,mo douzen da,"just like; same as~
+Verb (た / ない) +も + 同然 + だ/の
+Noun+ (も) + 同然 + だ/の",,,,#ffa500
+N1,https://japanesetest4you.com/,もしないで,,mo shinaide,"without even doing
+Verb #ます# (stem form) + もしないで",1,"聞きもしないで、どうしてそんなことがわかるんだい？
+彼女は好きなワルツが始まってもふりむきもしないで、窓ガラスに額をおしつけた。
+父は手紙を受けとって、読みもしないでポケットにおしこんだ。",,#ffa500
+N1,https://japanesetest4you.com/,もはや,,mohaya,"already; no longer; not any more
+もはや + sentence",1,"言いきれることなど、もはや何もない。
+僕はもはや自分が誰なのかわからない。
+助けが来るころに、自分の命はもはやあるまい。",,#ffa500
+N1,https://japanesetest4you.com/,もので,,mono de,"because; for that reason
+
+もので is a conjunctive particle that indicates a cause or reason.
+Verb-casual + もので",1,"そういう連中は、普通は昼間眠っているもので、夜になってかせぎに出るものらしい。
+あの人はあなたが社長に信用されているのを知っているもので、いろいろと聞きだしに来たんだよ。
+そういう失敗は誰にでもあるもので、その錯誤を自覚して、是正する人がえらいのだ。",,#ffa500
+N1,https://jlptsensei.com/,ものを,,mono o,"although; but; even though; I wish that
+～ば/～たら + Verb (casual form) + ものを
+～ば/～たら + い-adjective + ものを
+～ば/～たら + な-adjective + な + ものを
+～ば/～たら + Noun + である + ものを",,,,#ffa500
+N1,https://jlptsensei.com/,ものとする,,mono to suru,"shall; to assume; understood as
+Verb (casual form) + ものとする",1,"契約の延長は、双方の同意によるものとする。
+住所変更の通知は、その到達によって効力が発生するものとする 。
+科料は2万円を超えないものとする。",,#ffa500
+N1,https://jlptsensei.com/,ものとして,,mono toshite,"to assume; to suppose
+Verb (casual form) + ものとして
+Noun + である + ものとして
+い-adjective + ものとして
+な-adjective + である/な + ものとして",1,"スミスさんはもう来ないものとして、始めましょう。
+初級漢字は出来るものとして、中級漢字のクラスを取った。
+私はいないものとして、授業を続いてください。",,#ffa500
+N1,https://jlptsensei.com/,ないまでも,,nai made mo,"even if [A] is not done, then [B]
+Verb (ない form) + までも
+Noun + でない + までも",1,"電話をしないまでもメッセージぐらいをしてください。
+プロになれないまでも、サイクリングのレースに出るつもりだ。
+毎日はしないまでも、週に1回くらいは部屋の掃除をしましょう。",,#7cfc00
+N1,https://japanesetest4you.com/,ないものか,,nai mono ka,"can’t we…?; can’t I…?
+Verb (ない form) + もの (だろう) か",1,"何とかしてこの束縛を断つ方法はないものか？
+このにおい、なんとかならないものか
+何とかして超自然でない説明がつけられないものか",,#7cfc00
+N1,https://jlptsensei.com/,なくして,,nakushite,"without
+Noun + なくして (は)
+Verb + すること + なくして (は)",1,"努力なくしては成功はありえない。
+健康な体なくしてどんなにお金があっても幸せとは言えない。
+二国間の相互理解なくしては両国の友好関係を保つことはできません。",,#7cfc00
+N1,https://jlptsensei.com/,並み,なみ,nami,"same level as; equal to; on par with; each; row of
+Noun + 並み",1,"君の料理はプロ並みだ。
+クラスメートはテニスが趣味で、腕前はプロ並みだということだ。
+英語の先生としては世間並みだ。",,#7cfc00
+N1,https://jlptsensei.com/,ならでは,,nara dewa,"distinctive of~; special to~
+Noun + ならでは",1,"それはあなたならではの発想です。
+彼ならではとてもこの仕事は扱えない。
+これは当店ならではの特別価格です。",,#7cfc00
+N1,https://jlptsensei.com/,なり,,nari,"as soon as
+Verb (dictionary form) + なり",1,"社長は電話を切るなり、部屋を出て行った。
+うちの息子は学校から帰るなり、パソコンばっかり。
+窓を開けるなり、変な虫が入ってきた。",,#7cfc00
+N1,https://jlptsensei.com/,なりに / なりの,,nari ni/nari no,"In one's own way/style
+Verb + なりに.../なりの + Noun
+Noun + なりに.../なりの + Noun
+い-adjective + なりに.../なりの + Noun
+な-adjective + なりに.../なりの + Noun",1,"山田は彼なりに良いやつだ。
+出来ないなら出来ないなりに、無理をしないで少しずつやりましょう。
+貧しいなら貧しいなりの生活をしないといけません。",,#7cfc00
+N1,https://jlptsensei.com/,なりとも,,nari tomo,"at least; even a little
+Noun + なりとも",1,"ちょっとなりとも会いたい。
+その若者と話してみて、多少なりとも共感できることがあった。
+理事長に一目なりとも合わせていただけませんでしょうか。",,#7cfc00
+N1,https://jlptsensei.com/,なり～なり,,nari~nari,"or
+Noun + なり + Noun + なり
+Verb (dictionary form) + なり + Verb (dictionary form) + なり
+
+Special use
+～なりなんなり",1,"メールなり電話なりで、彼女に連絡してください。
+顔色が悪いですよ。座るなり横になるなり、楽にしてください。
+もう使わないなら、人にあげるなり捨てるなりしたほうがいいと思います。",,#7cfc00
+N1,https://jlptsensei.com/,なしに,,nashi ni,"without
+Noun + なしに (は)/なしでは",1,"この映画は涙なしに観ることができない。
+先生の許可なしに、それは使えないよ。
+皆さんの協力なしには、できません。",,#7cfc00
+N1,https://japanesetest4you.com/,にあたらない,,ni ataranai,"it’s not worth; there’s no need to
+Verb (dictionary form) + に(は)あたらない",1,"そんなことはべつにたいして驚くにはあたらないことだ。
+彼に振られたからといって、泣くにはあたらない。
+その程度のことで怒るにはあたらない。",,#7cfc00
+N1,https://jlptsensei.com/,にあって,,ni atte,"at; on; during; in the condition of
+Noun + にあって (は)",1,"母は大学講師だが、家庭にあっては普通の母親だ。
+困難な状況にあっても彼は絶対にあきらめない。
+この状況にあって、利益を伸ばすのは相当難しい。",,#7cfc00
+N1,https://japanesetest4you.com/,に至るまで,にいたるまで,ni itaru made,"Until
+Noun + に至るまで",1,"今日に至るまで、彼の死因は判明しておらぬ。
+帰宅途中、夕立にあい、頭から足先に至るまで全身びしょ濡れになった。
+優勝にいたるまでの過程を話してくれませんか。",,#7cfc00
+N1,https://japanesetest4you.com/,に至っては,にいたっては,ni itatte wa,"when it comes to; as for
+Noun + に至っては",1,"美智子に至っては、うきうきしているようだった。
+パーカーに至っては、彼女が殺したのでない事が決定的だ。
+青山さんにいたってはなんら督励の必要もなく、だまっていようなどという気はさらさらなかったのでした。",,#7cfc00
+N1,https://jlptsensei.com/,に言わせれば,,ni iwasereba,"if you ask...; if one may say…
+Noun (person only) + に言わせれば",1,"我々の世代の人間に言わせれば、あの人の行動は普通ではない。
+父は天才と言われているが、私に言わせれば、単なる努力家だ。
+私に言わせれば、日本の一番美味しい料理はやっぱりラーメンだ。",,#7cfc00
+N1,https://jlptsensei.com/,に限ったことではない,,ni kagitta koto de wa nai,"not limited to only~
+Noun + に限ったことで +  は/も + ない",1,"若者のマナーが悪いのは、この国に限ったことではない。
+漢字が書けなくなったのは、最近に限ったことではなく、スマートフォンを使うようになってからずっとだ。
+今学期にインフルエンザがはやったのは、今年に限ったことではなく、昨年も同様だった。",,#7cfc00
+N1,https://japanesetest4you.com/,にかたくない,,ni katakunai,"it’s not hard to
+Verb-dictionary form + にかたくない
+Noun + にかたくない",1,"その三ヶ月のあいだに、どんなことが起ったか？　それは想像にかたくない。
+愛する人を失った彼女の悲しみは察するにかたくない。
+オスカー受賞者の喜びは、察するにかたくない。",,#7cfc00
+N1,https://japanesetest4you.com/,にまつわる,,ni matsuwaru,"to be related to
+Noun + にまつわる",1,"どうしてもおまえに、家族にまつわる真実を伝えなくては…
+この辺りには、この池にまつわる伝説が伝わっている。
+千年にわたってこの秘密にまつわるさまざまな伝説が伝えられてきた。",,#7cfc00
+N1,https://japanesetest4you.com/,にもまして,,ni momashite,"more than…; above…
+Noun + にもまして",1,"彼女は前にもまして元気なくうなずいた。
+けれども彼には、これにもまして悪い行いがあるのです。
+彼女は以前にもまして美しい。",,#7cfc00
+N1,https://japanesetest4you.com/,に則って,にのとって,ni nottotte,"in accordance with
+Noun + に則って",1,"国会は、先例に則って運営されています。
+古くからの伝統に則って祭りが行われている。
+ルールに則って行動しましょう。",,#7cfc00
+N1,https://japanesetest4you.com/,に先駆けて,にさきがけて,ni saki gakete,"to be the first
+Noun + に先駆けて",1,"世界各国の小規模メーカーが、他社に先駆けて「空飛ぶ車」を発売しようとしのぎを削っている。
+その映画は、世界に先駆けて、イギリスでの上映が決まった。",,#7cfc00
+N1,https://japanesetest4you.com/,にしたって,,ni shitatte,"even; even if
+Verb (dictionary form) + にしたって/にしたところで
+Noun + にしたって/にしたところで
+いadj + にしたって/にしたところで
+なadj + にしたって/にしたところで",1,"僕にしたってひとりよりか相棒のあったほうがいいからねえ。
+全員が参加するにしたって、せいぜい２０人だ。
+しかし、それでも最近の不景気は株にひびかずにはいないでしょう。どんなに安全な株にしたところで。",,#7cfc00
+N1,https://jlptsensei.com/,にして,,ni shite,"only; just because; although; even; at (place, time); in (time span)
+Noun + にして",1,"彼女は、医者にして、漫画家でもある。
+竜巻が一瞬にして隣の家を吹き飛ばした。
+天才の彼にして間違えるのだから、できないのは当然である。",,#7cfc00
+N1,https://japanesetest4you.com/,に即して,にそくして,ni sokushite,"to agree with; in keeping with; to be based on
+Noun + に即し / に即して / に即した",1,"会社の現状に即して経営計画を考えましょう。
+新聞には、事実に即して、正確な情報を提供してほしい。
+実状に即して計画を練らなければならない。",,#7cfc00
+N1,https://japanesetest4you.com/,に照らして,にてらして,ni terashite,"in comparison with, according to, in light of, in view of
+Noun + に照らして",1,"宝石を盗んだ犯人は、法に照らして処罰できます。
+自分の経験に照らして後輩にアドバイスした。
+この事件は目下警察の手に移っているが、従来の前例に照らしてもその努力が報いられる見込みは少ない。",,#7cfc00
+N1,https://japanesetest4you.com/,にとどまらず,,ni todomarazu,"not limited to; not only… but also
+Verb (dictionary form) + にとどまらず
+Noun + にとどまらず",1,"それはひとつの苦痛にとどまらず、ひとつの苦役でもあった。
+彼女の侮辱はあなたひとりだけにとどまらず、実に法を犯すものです。
+ビッグバンは韓国だけにとどまらず、海外でも大人気がある。",,#7cfc00
+N1,https://japanesetest4you.com/,によらず,,ni yorazu,"regardless of
+Noun + によらず",1,"見かけによらずあの人はたくらみ深く険悪な人物ですね。
+何によらず物事を知るのは、わたしの商売です。
+職種によらず、賃金によらず、仕事があれば何でもやります。",,#7cfc00
+N1,https://japanesetest4you.com/,にもほどがある,,nimo hodo ga aru,"to have a limit; to go too far
+Verb (dictionary form) + にもほどがある
+Noun + にもほどがある
+い-adjective + にもほどがある
+な-adjective + にもほどがある",1,"冗談にもほどがある。
+途中で仕事を投げ出すなんて、無責任にもほどがある。
+ずうずうしいにもほどがある。",,#7cfc00
+N1,https://japanesetest4you.com/,には及ばない,にはおよばない,niwa oyobanai,"there’s no need to; does not match
+Verb-dictionary form + に(は)及ばない
+Noun + に(は)及ばない",1,"かすり傷をしただけですから、心配におよびません。
+時間があるから、急ぐには及ばない。
+どんなに頑張っても、彼の成績には及ばない。",,#7cfc00
+N1,https://japanesetest4you.com/,の至り,にいたり,no itari,"utmost; extremely
+の至り is usually used with 光栄, 恐縮 and 感激.:
+Noun + の至り",1,"大統領にお目にかかれて、実に光栄の至りです。
+言葉遣いの間違いを指摘され、赤面の至りだった。
+こんな立派な賞をいただきまして、光栄の至りです。",,#7cfc00
+N1,https://japanesetest4you.com/,の極み,のきわみ,no kiwami,"the utmost
+Noun + の極み",1,"本人の前であんなことを言うなんて、非常識の極みだ。
+残業続きで、疲労の極みに達している。
+世界的に有名な俳優と握手できたなんて、感激の極みだ。",,#7cfc00
+N1,https://jlptsensei.com/,のやら・ものやら・ことやら,,no yara/mono yara/koto yara,"I wonder..; unsure
+Verb + のやら/ものやら/ことやら
+な-adjective + な + のやら/ものやら/ことやら
+い-adjective + い + のやら/ものやら/ことやら",1,"今の不景気はいつまで続くのやら？
+奥さんをガンで亡くした彼に、どう声をかけたらいいものやら。
+言葉も話せないのに、来年半年間ベトナムに行くことにした。どうなることやら。",,#7cfc00
+N1,https://jlptsensei.com/,のやら～のやら,,no yara~no yara,"contemplating two opposing choices
+[A]のやら + [B]のやら
+Verb + のやら
+い-adjective + のやら
+な-adjective + なのやら",1,"仕事がないので毎日友達と遊んでいる。暇なのやら忙しいのやら。
+嘘なのやら本当なのやら、彼氏が｢愛してる｣と言ってくれた。
+喜んでいいのやら悲しんでいいのやら、最近フリーランス仕事の依頼が多く、趣味の時間が全くとれない。",,#7cfc00
+N1,https://japanesetest4you.com/,のみか,,nomika,"not only… but also
+Noun + のみか + Noun",1,"大災害により財産のみか肉親までも失った。
+彼女は日本語のみか、中国語もぺらぺらだ。",,#7cfc00
+N1,https://japanesetest4you.com/,を踏まえて,をふまえて,o fumaete,"based on
+Noun + を踏まえ / を踏まえて",1,"現在の状況を踏まえて、今後の計画を考え直す必要がある。
+消費者の意見を踏まえて商品開発をしましょう。
+先行研究を踏まえて、卒論のテーマを決める。",,#0000ff
+N1,https://japanesetest4you.com/,を経て,をへて,o hete,"through; after; via
+Noun + を経て",1,"確実だとは申しかねますが、そこはお含みおき下さいまし、この情報はたくさんの手を経て来ておりますので。
+わたしたちは５年の交際期間を経て結婚した。
+難民はオーストリアを経て、ドイツに列車で続々と到着している。",,#0000ff
+N1,https://japanesetest4you.com/,を顧みず,をかえりみず,o kaerimizu,"despite; regardless of
+Noun + を/も + 顧みず",1,"彼はジャックの疑惑の眼もかえりみずにジョージ老人の生命を救った。
+彼は自らの命もかえりみず戦場に向かった。
+おじゃま申し上げておゆるしいただきます。東京から何かおよろしいおしらせでもあったかと存じまして、失礼をかえりみずおうかがい申しあげますので。",,#0000ff
+N1,https://jlptsensei.com/,を限りに,をかぎりに,o kagiri ni,"starting from..; to the full extent of
+Noun + を限り + に/で",1,"今日を限りに酒をやめることにした。
+来月限りでこのレストランは閉店します。
+新築の家を買った。今週を限りにこのマンションともお別れだ。",,#0000ff
+N1,https://japanesetest4you.com/,を兼ねて,をかねて,o kanete,"also for the purpose of
+Noun + を兼ねて/も兼ねて",1,"父の退職祝いを兼ねて家族旅行に行った。
+日本語の勉強を兼ねて漫画を読んでいる。
+観光を兼ねてイギリスへ研修に行った。",,#0000ff
+N1,https://jlptsensei.com/,を皮切りに,をかわきりに,o kawakiri ni,"starting with
+Noun + を皮切りに (して)/を皮切りとして",1,"山田さんの発言を皮切りにして、会議は大混乱となった。
+東京を皮切りに全国２０ヶ所でコンサートを開く。
+花より男子に主演したのを皮切りに、小栗旬はスターへの道を歩み始めていた。",,#0000ff
+N1,https://japanesetest4you.com/,を機に,をきに,o ki ni,"as an opportunity to
+Noun + を機に",1,"入院したのを機に、お酒をやめた。
+転勤を機に、何か新しい技術へチャレンジをしたいと考えています。
+結婚を機に新しい人生を迎える。",,#0000ff
+N1,https://japanesetest4you.com/,を禁じ得ない,をきんじえない,o kinjienai,"can’t help but; can’t refrain from
+Noun + を禁じ得ない",1,"その名前をきいて彼はある不快な印象を禁じえなかった。
+大災害で家族を失った人の話を聞いて、涙を禁じえなかった。
+彼はおそれてはいなかった、しかしまさにおこらんとすることを考えると、戦慄を禁じえなかった。",,#0000ff
+N1,https://japanesetest4you.com/,をものともせず,,o monotomo sezu,"in defiance of
+Noun + をものともせず (に)",1,"彼は危険をものともせずに、行方不明の子の捜索を続けた。
+彼女は親の反対をものともせずに、彼と結婚した。
+エジソンは周囲の非難をものともせずに、実験を続けた。",,#0000ff
+N1,https://japanesetest4you.com/,をもって,,o motte,"1) by means of; with. 2) at the time
+Meaning 1 - method
+Noun + をもって
+N = 手段/方法
+Meaning 2 - time
+Noun + をもって
+N = 期限",1,"わたしたちはできるだけのことをしたつもりなのです。まごころをもってお仕えしました。
+敬意をもって接してくれるだろうな。
+彼は人一倍の努力をもってメダルを手にすることができました。",,#0000ff
+N1,https://japanesetest4you.com/,をよそに,,o yoso ni,"despite; without regards to
+Noun + をよそに",1,"丸子は、親の心配をよそに、遊んでばかりいる。
+住民たちの抗議行動をよそに、公園の建設計画が進められている。
+彼女は親の心配をよそに、一人でイラクに行った。",,#0000ff
+N1,https://japanesetest4you.com/,さもないと,,samonaito,"otherwise; else; if not so
+Sentence 1 + さもないと / さもなければ + Sentence 2",1,"止まりなさい！　さもないとこれを壊すわよ！
+別の計画を立てねばならなくなりました。さもないと、殺人犯がまだ車内にひそんでいることが皆に知られてしまうからです。
+指輪をよこせ、さもないと、こいつと同じ目に遭うぞ。",,#8a2be2
+N1,https://japanesetest4you.com/,始末だ,しまつだ,shimatsu da,"end up; in the end
+Verb (dictionary form) + 始末だ
+この/その/あの + 始末だ",1,"彼は静かな部屋に隔離され、一時間休んでからテストを受ける始末だった。
+うちの娘は、ダイエットのしすぎで病気になり、入院する始末だ。
+体を鍛えようとジョギングを始めたが、走りすぎて膝を痛めてしまい、病院に通う始末だ。",,#8a2be2
+N1,https://jlptsensei.com/,そばから,,soba kara,"as soon as
+Verbる + そばから
+Verbた + そばから
+Verbている + そばから",1,"母は、スマートフォンの使い方を教えても、教えるそばから忘れてしまいます。
+名前を聞いたそばから忘れてしまう。
+うちの子は、片付けているそばから部屋を散らかしてしまう。",,#8a2be2
+N1,https://jlptsensei.com/,すら / ですら,,sura/de sura,"even (with emphasis)
+Noun + (で) すら/(に) すら",1,"結婚なんてとんでもない。私は男の人と話したことすらないのです。
+この悩みは家族にすら言えない。
+盗みが悪いことであるのは、小さい子供ですら知っている。",,#8a2be2
+N1,https://japanesetest4you.com/,た拍子に,たひょうしに,ta hyoushi ni,"the moment; the instance
+Verb (casual, past) + 拍子に",1,"こちらを向いた拍子にあらわれたその顔の表情は、彼を驚かせた。
+つまずいた拍子に、石にぶつかってしまったんで、ほんとに偶然だったんです。
+くしゃみをした拍子にメガネが落ちた。",,#ff7f50
+N1,https://jlptsensei.com/,たことにして,,ta koto ni shite,"expresses a decision or news that does not reflect the truth
+Verb (た form) + (という) ことにする/(という) ことになる",,,,#ff7f50
+N1,https://japanesetest4you.com/,た瞬間に,としゅんかんに,ta shunkan ni,"the moment (something happens)
+Verb (casual, past) + 瞬間(に)
+Noun + の瞬間(に)",1,"その言葉が口をついた瞬間、しまったと思った。
+ぼくは、きみの写真を見た瞬間から、きみを愛してしまった。
+私はそう言った瞬間、息子との合意に違反したことに気づいた。",,#ff7f50
+N1,https://jlptsensei.com/,たところで,,ta tokoro de,"even if~
+Verb (casual past) + ところで",1,"どんなに走ったところで、絶対に間に合わないだろう。
+何回読んだところで、意味は全く理解できない。
+そんな多額の借金は、家を売ったところで、到底返せない。",,#ff7f50
+N1,https://japanesetest4you.com/,ただ～のみだ,,tada~nomi da,"just; can do nothing but; only
+ただ + Verb (casual, non-past) + のみだ
+ただ + Noun + のみだ",1,"事故はあまりにも突然で、わたしは何もできず、ただ呆然とするのみだった。
+いまはただ中央の拠点が残っているのみだった。
+こうなったら、ただ一生懸命やるのみだ。",,#ff7f50
+N1,https://jlptsensei.com/,たが最後,たがさいご,taga saigo,"once [A] occurs, [B] happens
+Verb (past) + が最後/ら最後",1,"奥さんは、いったん寝たが最後、朝まで起きない。
+彼はゲームセンターに入ったが最後、なかなか出てこない。
+娘は頑固でいったん言い出したら最後、誰の言うことにも耳を傾けない。",,#ff7f50
+N1,https://japanesetest4you.com/,ためしがない,,tameshi ga nai,"is never the case; has never happened
+Verb (casual, past) + ためしがない",1,"車掌が、自分で乗客の荷物の世話をしてくれるとは！聞いたためしがない！
+あなたは奇妙な男だねえ、何にも満足したためしがないんだからなあ。
+やつは時間どおりに来たためしがないんだよ。",,#ff7f50
+N1,https://jlptsensei.com/,たら～たで,,tara~tade,"whether or not
+Verb (たら) + Verb (たで)
+い-adjective + いかったら + い-adj + いかったで
+い-adjective + いかったら + い-adj + いで
+な-adjective + なら + な-adj + で
+Noun + なら + Noun + で",,,,#ff7f50
+N1,https://jlptsensei.com/,たりとも,,tari tomo,"(not) even; (not) any
+Noun + たりとも　～ない",1,"お米一粒たりとも粗末にするなと、よく祖母に言われた。
+その店は、一円たりともまけてくれないよ。
+一日たりとも、日記を欠かしたことはない。",,#ff7f50
+N1,https://jlptsensei.com/,たる,,taru,"(those) who are; (that) which is;
+Noun 1 + たるもの + Noun 2",1,"親たる者、子どもが悪いことをしたときに、きちんと叱るべきだ。
+大学生たる者が、パソコンを使えないのは恥ずかしい。
+一国の大統領たる者が、このような発言をしてはいけない。",,#ff7f50
+N1,https://japanesetest4you.com/,てからというもの,,te kara to iu mono,"after; since
+Verb (てform) + からというもの",1,"彼女の料理の腕は、ネックレスをあげてからというもの劇的に進歩した。
+わたしはあの娘を雇ってからというもの、一度でもこの家の近所を独りで歩かしたことはありません。
+あなたが負傷してからというもの、彼女はいつも泣いてばかりいる。",,#ff7f50
+N1,https://jlptsensei.com/,手前,てまえ,temae,"considering; before; in front of; one’s standpoint
+Verb (casual form) + 手前
+Noun + の + 手前",1,"熱があるから学校を休むと言ってしまった手前、外に出て誰かに見られてはまずい。
+お任せしますと言った手前、友達が買ってきた弁当が嫌とは言えなかった。
+この仕事は先生に紹介してもらった手前、すぐにはやめることはできない。",,#ff7f50
+N1,https://jlptsensei.com/,とあれば,,to areba,"if; if it is the case that
+Verb (casual form) + とあれば
+Noun + とあれば
+い-adjective + とあれば
+な-adjective + とあれば",1,"父は、たとえ日曜であっても、仕事とあればどこへでも行きます。
+娘のためとあれば、どんなことでもするよ。
+息子のためとあればどんな苦労も我慢できるものだ。",,#ff7f50
+N1,https://jlptsensei.com/,とあって,,to atte,"because of; due to the fact
+Verb (casua forml) + とあって
+Noun + とあって
+い-adjective + とあって
+な-adjective + とあって",1,"久しぶりの再会とあって、彼らは何時間も話していた。
+ゴールデンウィークとあって、どこに行っても混んでいる。
+決勝戦とあって、その試合の入場券はすぐに売り切れた。",,#ff7f50
+N1,https://jlptsensei.com/,とばかりに,,to bakari ni,"as if to say; as though~
+Phrase + とばかりに",1,"あッとばかりに驚いた。
+彼は出て行けとばかりに、ドアを開けた。
+カッコいいだろうとばかりに新車を自慢してくる。",,#ff7f50
+N1,https://jlptsensei.com/,といえども,,to ie domo,"even; even if
+Verb + といえども
+Noun + といえども
+な-adjective + といえども
+い-adjective + といえども",1,"当たらずといえども遠からずだ。
+三歳の小児といえどもこれを知る。
+たとえ兄弟といえども、憎しみ会うこともある。",,#ff7f50
+N1,https://jlptsensei.com/,といい～といい,,to ii~to ii,"and; or; both; regarding
+Noun + といい + Noun + といい",1,"運動といい勉強といい、私は何をやっても駄目だ。
+彼はまだ若いけれど、経験といい能力といい申し分のない男性だ。
+デザインといい、色といい、すごく気に入ったシャツがあったんだけれど、サイズがなかった。",,#ff7f50
+N1,https://jlptsensei.com/,というか～というか,,to iu ka~to iu ka,"not sure whether [A] or [B]
+[A]というか + [B]というか
+[A]/[B] can be Nouns or Adjectives",1,"それは、面白いというか、珍しいというか、とにかく変わったものだ。
+私は合格したが、親友は不合格だった。嬉しいというか、残念というか、複雑な気持ちだ。
+そんなことをするとは、無茶というか、無知というか、彼女のすることは理解できません。",,#ff7f50
+N1,https://jlptsensei.com/,というもの,,to iu mono,"during/over a period of time; since; after~
+Noun + というもの",1,"彼はこの一ヶ月というもの、授業を休んでいる。
+結婚してからというもの、外食をしていない。
+結婚してからというもの、外食をしていない。",,#ff7f50
+N1,https://jlptsensei.com/,というところだ,,to iu tokoro da,"about; approximately
+Noun + というところ(だ)",1,"日本語の勉強時間は2、3時間というところだ。
+時給は850円から1,000円というところだ。
+ジムに行くのは週2、3回というところだ。",,#ff7f50
+N1,https://jlptsensei.com/,というわけだ,,to iu wake da,"this means; this is why; it is the case that
+Phrase + というわけだ",1,"それが私たちの目的というわけです。
+あの男と結婚するというわけだね。
+結局は損をせずにすんだというわけだ。",,#ff7f50
+N1,https://jlptsensei.com/,というわけではない,,to iu wake dewa nai,"it’s not that; it doesn’t mean that
+Verb (casual form) + というわけで + は/も + ない
+Noun + というわけで + は/も + ない
+な-adjective + だ + というわけで + は/も + ない
+い-adjective + というわけで + は/も + ない",1,"人生では何もかもが楽しいというわけではない。
+それは全くウソというわけではない。
+両方とも好きというわけではない。",,#ff7f50
+N1,https://jlptsensei.com/,といわず,,to iwazu,"not only; both (without distinction)
+N1 + といわず + N2 + といわず",1,"日本人は、子どもといわず、大人といわず、漫画をよく読みます。
+娘の部屋は、壁といわず天井といわず、ディズニープリンセスのポスターだらけである。
+僕は、鶏肉といわず、牛肉といわず、肉は食べません。",,#ff7f50
+N1,https://japanesetest4you.com/,ときている,,to kite iru,"because
+Verb-casual + ときている
+Noun + ときている
+い-adjective + ときている
+な-adjective + ときている",1,"観察が鋭くて頭脳の働きが早いときているので、情報を集めてくる手先としては理想的だった。
+このレストランは安くておいしいときているから、いつも客でいっぱいだ。
+子供の頃から、とても感じ易い性ときているものだから、わたしは、ちらと血を見ただけでも、気が遠くなる。",,#ff7f50
+N1,https://jlptsensei.com/,とみられる,,to mirareru,"regarded as; appears/expected to..
+Noun + とみられる
+Verb (dictionary form) + とみられる
+い-adjective + とみられる
+な-adjective + とみられる",1,"その大学の再建は難しいとみられる。
+兄の普段の成績から、合格は間違いないとみられている。
+愛知県では、今後も大きい地震が来るとみられている。",,#ff7f50
+N1,https://jlptsensei.com/,とみると,,to miru to,"upon realizing
+Noun + (だ) + とみると
+Verb (casual form) + とみると
+い-adjective + とみると
+な-adjective + とみると",1,"同僚は問題がちょっと難しいとみると、自分で考えないで私に聞く。
+妹は、男の人にお金げないとみると、急にその人に興味がなくなるようだ。
+彼女は、店員が中国人だとみると、必ず中国語で話しかける。",,#ff7f50
+N1,https://japanesetest4you.com/,とみるや,,to miru ya,"at the sight of; upon seeing
+Verb (casual) + とみるや",1,"いたずらをしていた生徒たちは、教師が来たとみるやいっせいに逃げ出した。
+夫が逮捕されるとみるや、彼女は現場を立ち去った。
+士官がうなずくとみるや、彼は足の鉄輪についてた鎖を鉄槌の一撃でうちくだいた。",,#ff7f50
+N1,https://jlptsensei.com/,と思いきや,,to omoikiya,"To think [A], but [B]
+[A] (か) と思いきや [B]",1,"宝くじに当たったかと思いきや、番号を見間違えてしまった。
+やっと富士山の頂上に着いたと思いきや、まだ8合目だった。
+やっと試験が終わって休めるかと思いきや、宿題をたくさん出されました。",,#ff7f50
+N1,https://jlptsensei.com/,とされる,,to sareru,"is considered to; it is said that~
+Verb (dictionary) + とされる/とされている
+Noun + とされる/とされている
+い-adjective + とされる/とされている
+な-adjective + とされる/とされている",0,,,#ff7f50
+N1,https://jlptsensei.com/,としたって,,to shitatte,"even if...
+Noun + としたって/としたところで
+Verb + としたって/としたところで
+い-adjective + としたって/としたところで
+な-adjective + としたって/としたところで",1,"今から急いだとしたって間に合わないだろう。
+これは忘れようとしたところで、忘れられない出来事です。
+走ったとしたって間に合わないだろうから、次の電車にしよう。",,#ff7f50
+N1,https://japanesetest4you.com/,,,tokitara,"when it comes to…; concerning…
+Noun + ときたら",1,"アンソニーときたら、大ばかですよ！
+うちの息子ときたら、夏休みになると部屋にこもってゲームばかりする。
+あの辺ときたら、とてもたくさんの人が歩いていました。",,#ff7f50
+N1,https://japanesetest4you.com/,ところがある,,tokoro ga aru,"to have; there is
+Verb (casual) + ところがある
+Noun + のところがある
+い-adjective + ところがある
+な-adjective + なところがある",1,"わたしたちには似たところがない。
+その話に妙なところがあるのは疑いなかった。
+彼には細心なところがあった。",,#ff7f50
+N1,https://japanesetest4you.com/,ところから,,tokoro kara,"because; from the fact that
+Phrase + ところから",1,"みな高橋留美子の愛読者だったところから、彼らは自分たちの集まりを犬夜叉・クラブと呼ぶことにした。
+金原先生はいつも赤い帽子をかぶっていたところから、「赤い帽子先生」と呼ばれていた。
+このなかで少なくとも十二、三人は、ものすごい顔つきや、安全灯を持っているところから、坑夫だとわかる。",,#ff7f50
+N1,https://jlptsensei.com/,ところを,,tokoro o,"although/despite a certain time/situation
+Noun + の + ところを
+Verb (casual form) + ところを
+い-adjective + ところを
+な-adjective + な + ところを",1,"お忙しいところをお集りいただき、ありがとうございます。
+いつもは電車で会社に行くところを、今日は車で行った。
+交通事故で命が危ないところを、その医者に助けてもらいました。",,#ff7f50
+N1,https://jlptsensei.com/,ともあろう,,tomo arou,"of all people (expression showing surprise at a high standing person's misbehavior)
+N1 + ともあろう + N2",1,"親ともあろう者、子どもが悪いことをしたときに、きちんと叱るべきだ。
+大学生ともあろう者が、パソコンを使えないのは恥ずかしい。
+一国の大統領ともあろう者が、このような発言をしてはいけない。",,#ff7f50
+N1,https://japanesetest4you.com/,となると/となれば,,tomo naru to/tomo nareba,"if; when it comes to…; where … is concerned; if it’s the case that…
+Verb (dictionary form) + と(も)なると/と(も)なれば
+Noun + と (も)なると/と (も) なれば",1,"社会人ともなると、服装や言葉遣いにも気をつけなければならない。
+書くのが難しい演説ともなれば、それを伝えることはもっと難しい。
+休日ともなると、朝から観光客の車で道路が渋滞する。",,#ff7f50
+N1,https://jlptsensei.com/,とも～とも,,tomo~tomo,"unable to draw a conclusion; unable to judge
+[A]とも + [B]とも
+[A] / [B] can be a N, V, or adj",1,"彼女は質問に対する肯定とも否定ともとれる返事が上手い。
+最近のゲームは、子供にいいとも悪いとも言えません。
+これは本物とも偽物とも判断が出来ません。",,#ff7f50
+N1,https://jlptsensei.com/,ともなく,,tomonaku,"uncertainty; lack of intent
+Verb (dictionary form) + ともなく/ともなしに",1,"何を買うともなく、デパートの中をブラブラしていたら、友人に会った。
+休みの日にはどこへ行くともなしにドライブすることが多い。
+チラシを見るともなく見ていたら、友達が映っていた。",,#ff7f50
+N1,https://japanesetest4you.com/,とりわけ,,toriwake,"especially
+とりわけ + sentence",1,"スターリンは自分のカードを決して見せなかった。とりわけ世界最強の資本主義国家の大統領が相手の場合には。
+とりわけ、経営者と連携して労働スケジュールの柔軟性を高める必要がある。
+改正の目的は、不公平な解雇に関する条項がとりわけ中小企業に強いていた重い負担を軽くすることだった。",,#ff7f50
+N1,https://japanesetest4you.com/,として～ない,,toshite~nai,"not even one
+として + Verb (ないform)",1,"このあいだ一日として家をあけたことなんかありません。
+わたしの計画は一つとして狂わなかった。
+僕とサミー以外は誰一人として知らない。",,#ff7f50
+N1,https://japanesetest4you.com/,とて,,tote,"even
+Noun + とて",1,"違反すれば、未成年者とて許すわけにはいかない。
+病気とて、無断休むのはけしからん。
+新聞記事とて、決していつも正確とは言えません。",,#ff7f50
+N1,https://jlptsensei.com/,とは,,towa,"indicates word or phrase being defined with emphasis/surprise
+Verb (casual form) + とは
+Noun (だ/だった) + とは
+な-adjective (だ/だった) + とは
+い-adjective + とは",1,"サンフランシスコは家賃が高いと聞いていたが、こんなに高いとは驚きだ。
+妹の結婚式に出られないとは、残念な限りだ。
+才能のある彼女が急に亡くなるとは、とても残念です。",,#ff7f50
+N1,https://japanesetest4you.com/,とはいうものの,,towa iu mono no,"having said that; be that as it may
+Sentence 1 + とはいうものの + sentence 2",1,"大学時代はフランス文学専攻だった。とはいうものの、フランス語はほとんどしゃべれない。
+組織にはそんな弱い男は一人だっていやしない。みんな筋金いりばかりだ。とはいうものの、ピーターのようなやつもいるからな。
+あんたには独自の行き届いた手段がおありのことと思いました。とはいうものの力を貸さぬと申すのではないがな。",,#ff7f50
+N1,https://jlptsensei.com/,とはいえ,,towaie,"although; nonetheless; be that as it may
+Verb (casual forml) + とはいえ
+Noun + とはいえ
+な-adjective + とはいえ
+い-adjective + とはいえ",1,"知らなかったこととはいえ失礼なことをしてしまい、大変申し訳ありませんでした。
+教師とはいえ、答えられないこともある。
+入社したばかりとはいえ、もう少しまともな挨拶が出来ないのだろうか。",,#ff7f50
+N1,https://jlptsensei.com/,つ～つ,,tsu~tsu,"two contrasting actions
+Verb1#ます#つ + Verb2#ます#つ",1,"その映画は、警官と犯人が追いつ追われつの展開でハラハラするものだったよ。
+今日のサイクリングレースでは、二人の選手が最後まで抜きつ抜かれつ一番争いをしていた。
+あのストーカーはカメラを持って、人気のアイドルの家の前を行きつ戻りつした。",,#ff7f50
+N1,https://japanesetest4you.com/,ってば,,tteba,"I said; I told you to
+You use ってば/ったら to express your annoyance with someone.
+
+Phrase + ってば/ったら
+Noun/な-adjective + だってば",1,"はやく持ってきなさいってば。ねえ、聞こえないの？
+ニヤニヤするのはやめろってば！
+ほんとだってば。彼を見たんだ！",,#ff7f50
+N1,https://jlptsensei.com/,うと～うと/うが～うが,,uto~uto/uga~uga,"whether/even if [A] or [B].
+Verb (よう form) + が/と + repeat
+Noun / な-adjective + だろう + が/と + repeat
+Noun / な-adjective + であろう + が/と + repeat
+い-adjective + #い#かろう + が/と + repeat",,,,#00fa9a
+N1,https://japanesetest4you.com/,はおろか,,wa oro ka,"let alone; not to mention; needless to say
+Noun + はおろか",1,"腰を痛めてしまい、歩くことはおろか立つことも難しい。
+幼稚園のころの友達の名前はおろか、顔さえ忘れてしまった。
+弟は内気で、人前でスピーチはおろか簡単なあいさつさえできない。",,#ee82ee
+N1,https://japanesetest4you.com/,はさておき,,wa sateoki,"setting aside
+Noun + はさておき",1,"数字はさておき、あなたから見てこのメッセージの一番奇妙な点はどこですか？
+実現できるかどうかはさておき、まずは新商品のアイデアをみんなで出してみよう。
+ミランダ・カーは、他の事はさておき、とにかく美人だ。",,#ee82ee
+N1,https://jlptsensei.com/,や否や,やいなや,ya ina ya,"as soon as; the moment~
+Verb (dictionary form) + や/や否や",1,"社長は部屋に入るや否や、静かになりました。
+彼は電車を降りるや否や走り出したがどうやら乗り換えの電車に間に合わなかったようだ。
+あの子どもは、それを口に入れるや、吐き出した。",,grey
+N1,https://japanesetest4you.com/,やしない,,yashinai,"not (emphatic negative)
+Verb #ます# (stem form) + やしない",1,"わたしは一度も自分の部屋を出やしない。
+何かやってみようとする人は一人もいやしない。
+僕は誰とだって、金のために結婚するような事はしやしない。",,grey
+N1,https://japanesetest4you.com/,ようによっては,,you ni yotte wa,"depending on
+Verb #ます# (stem form) + ようによっては",1,"まだ見習いでバイト扱いだが、働きようによっては正社員にしてやってもいい。
+この古新聞も、使いようによっては、何かの役に立つのではないかと思いますが。
+考えようによっては彼の人生も幸せだったと言えるかもしれない。",,grey
+N1,https://jlptsensei.com/,(よ)うと～まいと・(よ)うが～まいが,,you to~mai to/you ga~mai ga,"whether or not; regardless
+V(volational) +と + V(dict.) + まいと
+V(volational) +が + V(dict.) + まいが
+
+Special Rules
+(ru-V) Vるまい / V#ます#まい
+(u-V) Vるまい
+くる => こまい / くるまい",,,,grey
+N1,https://japanesetest4you.com/,ざる,,zaru,"not; un-
+Verb (ない form) #ない#  + ざる
+Exception: する => せざる",1,"招かれざる見学者が誰なのかを察した。
+彼はここから脱出することになる。本人が望むと望まざるとにかかわらず。
+知られざる異常者が、この屋敷のどこかに潜んでいるにちがいない！",,#add8e6
+N1,https://japanesetest4you.com/,ずじまい,,zu jimai,"never; did not (have the chance to)
+Verb (ない form) #ない# + ずじまい",1,"彼のボスが何とおっしゃったやら、正確には聞けずじまいだった。
+父に聞かずじまいになってしまったことが、あまりにも多い。
+アイデアはよかったが、実現せずじまいだった。",,#add8e6
+N1,https://japanesetest4you.com/,ずとも,,zu tomo,"even without doing
+Verb (ない form) #ない# + ずとも",1,"言われずとも最後はそうしてやろう。
+彼は目が見えずともすばらしい演奏をしました。
+彼があなたのことを愛するということは、言わずとも分かる。",,#add8e6
+N1,https://jlptsensei.com/,ずくめ,,zukume,"completely; entirely; nothing but
+Noun + ずくめ",1,"黒ずくめの服装をするのが好きだ。
+旅行をしている間ずっと、ごちそうずくめで、少し太ってしまった。
+規則ずくめのこのバイトを辞めたい。",,#add8e6
+N2,https://jlptsensei.com/,あげく,,ageku,"to end up; in the end; finally; after all~
+Verb (た form) + あげく (に)
+Noun + の + あげく (に)",1,"2時間も待たされたあげく、結局に試合は延期になった。
+毎日の残業のあげく、彼女は倒れて入院することになりました。
+人気のラーメン店に２時間も並んだあげく、売り切れで食べられなかった。",adverbien sind alles nomen,#800000
+N2,https://jlptsensei.com/,あるいは,,aruiwa,"or; either; maybe; perhaps; possibly~
+あるいは + other option",1,"今日中にファックス、あるいは、メールで送ってください。
+来週の火曜日の午後はどうですか。あるいは水曜日の午前でも構いませんが．．．
+進学するか、あるいは就職するか私は迷っています。",,#800000
+N2,https://jlptsensei.com/,ばかりだ,,bakari da,"continue to (go in negative direction)
+Verb (dictionary) + ばかりだ/ばかりです",1,"あの二人の関係は悪くなるばかりだ。
+日本の人口が減るばかりです。
+この傷が深くなるばかりだ。",,#808000
+N2,https://jlptsensei.com/,ばかりか,,bakari ka,"not only.. but also; as well as~
+Verb (casual) + ばかりか
+Noun + ばかりか
+な-adjective + な + ばかりか
+い-adjective + い + ばかりか",1,"このマンションは狭いばかりか、暗いです。
+私は、漢字ばかりか、ひらがなもカタカナも書けません。
+このレストランは、味が悪いばかりか、店員の態度も悪い。",,#808000
+N2,https://jlptsensei.com/,ばかりに,,bakari ni,"simply because; on account of~ (negative result)
+Verb (casual) + ばかりに
+Noun (+ である) + ばかりに
+な-adjective + な/である + ばかりに
+い-adjective + ばかりに",1,"お金がないばかりに、今度の旅行に行けなかった。
+外国人であるばかりに、アパート探しには苦労した。
+顔が似ていたばかりに犯人と間違われた。",,#808000
+N2,https://jlptsensei.com/,ちなみに,,chinamini,"by the way; in this connection; incidentally; (conjunction)
+ちなみに + phrase",1,"これ、お土産だよ。ちなみにベトナムで買ったんだよ。
+ちなみに、私のことを覚えていますか？
+ちなみに、私は刺身と寿司は好きではない。",,#483d8b
+N2,https://jlptsensei.com/,ちっとも～ない,,chitto mo~nai,"(not) at all; (not) in the least~
+ちっとも + Verb (ない form)",1,"彼は酒はちっとも飲まない。
+この商品はちっとも売れない。
+俺の妻は英語をちっとも知らない。彼女は日本語しか話せない。",,#483d8b
+N2,https://jlptsensei.com/,だけあって,,dake atte,"being the case; precisely because; as expected from~
+Verb (casual) + だけあって/だけのことはあって
+Noun + だけあって/だけのことはあって
+な-adjective + な + だけあって/だけのことはあって
+い-adjective + だけあって/だけのことはあって",1,"このアパートは駅に近いだけあって、やっぱり家賃も高い。
+さすが大都会だけあって何かしら仕事がある。
+料理教室に通っているだけあって、彼女の作る料理はとても美味しい。",,#008000
+N2,https://jlptsensei.com/,だけましだ,,dake mashi da,"it’s better than; one should feel grateful for~
+Verb (casual) + だけましだ
+Noun + である + だけましだ
+な-adjective + な + だけましだ
+い-adjective + だけましだ",1,"今日は暑いが、湿度が高くないだけましだ。
+君は仕事があるだけましだよ。俺は首になってしまった。
+僕のアパートは、狭くて高いけれど、便利なだけましだ。",,#008000
+N2,https://jlptsensei.com/,だけに,,dake ni,"being the case; precisely because; as one would expect
+Verb (casual) + だけに
+Noun + だけに
+な-adjective + な + だけに
+い-adjective + だけに",1,"駅が近いだけに家賃も高い。
+このホテルは５つ星ホテルなだけに、サービスが充実している。
+彼女は日本語を20年教えているだけに、教え方がとても上手だ。",,#008000
+N2,https://jlptsensei.com/,だけのことはある,,dake no koto wa aru,"no wonder; as expected of; not ... for nothing; not ... with nothing to show for it
+Verb (casual) + だけ (のことは) ある
+Noun + だけ (のことは) ある
+な-adjective + な + だけ (のことは) ある
+い-adjective + だけ (のことは) ある",1,"山田さんは英語が上手だ。アメリカに留学していただけのことはある。
+このホテルはサービスが素晴らしい。5つ星ホテルだけのことはある。
+料理教室に通っているだけのことはある、彼女の手作り料理はとても美味しい。",,#008000
+N2,https://jlptsensei.com/,だけは,,dake wa,"to do all that one can
+Verb (dictionary form) + だけは + Same verb (past form)",1,"走れるだけは速く走った。
+私はあなたを手伝えるだけは手伝ったよ。
+彼氏のことは親に話すだけは話しました。",,#008000
+N2,https://jlptsensei.com/,だって,,datte,"even; too
+Noun + だって",1,"彼だって人間だ。
+私だってあなたに会いたい。
+誰だってそんなことは知っているさ。",,#008000
+N2,https://jlptsensei.com/,でしかない,,de shikanai,"merely; nothing but; no more than; there is only~
+Noun + でしかない",1,"これらの考えは推測でしかない。
+この作業は時間の無駄でしかない。
+もし薬で治らなかったら、手術でしかない。",,#008000
+N2,https://jlptsensei.com/,どころではない,,dokoro dewa nai,"not the time for; not the place for; far from; anything but~
+Verb (casual) + どころではない/どころじゃない
+Noun + どころではない/どころじゃない",1,"彼はよく間違いをするが、バカどころではない。
+宿題がたくさんあってテレビを見るどころではない。
+風邪がひどくて、遊びに行くどころじゃない。",,#008000
+N2,https://jlptsensei.com/,どころか,,dokoro ka,"far from; anything but; let alone; not to mention; much less~
+Verb (casual, non-past) + どころか
+Noun + どころか
+な-adjective + (な) + どころか
+い-adjective + どころか",1,"もっと勉強しないと、N2どころかN3も無理だ。
+そんな食べ物、健康になるどころか、病気になっちゃうよ。
+私は彼に役に立つどころか、迷惑もかけた。",,#008000
+N2,https://jlptsensei.com/,得ない,えない,enai,"unable to; cannot; it is not possible to~
+Verb #ます# (stem form) + 得ない",1,"あの人が結婚したって本当！？え～！あり得ないよ！
+あの真面目な彼が犯人？そんなことはあり得ない。
+今回は予測し得ないことが起きたけど、皆さんは落ち着いてください。",,#008b8b
+N2,https://jlptsensei.com/,得る,える / うる,eru/uru,"can; to be able to; is possible to~
+Verb #ます# (stem form) + 得る (える/うる)",1,"この不況では大手企業の倒産もあり得る。
+タバコを吸いすぎや、お酒を飲み過ぎは病気の原因になり得ます。
+事故はいつでも起こり得るので、気をつけてください。",,#008b8b
+N2,https://jlptsensei.com/,ふうに,,fuu ni,"this way; that way; in such a way; how
+どんな + ふうに + Verb
+あんな + ふうに + Verb
+こんな + ふうに + Verb
+どういう + ふうに + Verb
+Verb (casual) + ふうに + Verb",1,"こんなふうにやりなさい。
+私もあんなふうになりたいです。
+あなたの説明はこういうふうに理解してもよろしいでしょうか。",,#4682b4
+N2,https://jlptsensei.com/,がきっかけで /をきっかけに,,ga kikkake de/o kikkake ni,"with… as a start; as a result of; taking advantage of~
+Verb (た form) + の/こと + がきっかけで/をきっかけに
+Noun + がきっかけで/をきっかけに",0,,,#000080
+N2,https://jlptsensei.com/,げ,,ge,"looks like; seems like; appears to~
+な-adjective + げ
+い-adjective + #い# + げ
+Irregular: いい/よい => よさ + げ
+Verb #ます# (stem form) + げ
+Verb た#い# (tai form) + げ
+Noun (very limited) + げ",1,"何か、言いたげだね。
+あの人は寂しげな目をしている。
+ずいぶん、自信ありげだね。",,#000080
+N2,https://jlptsensei.com/,反面,はんめん,hanmen,"while, although; on the other hand~
+Verb (casual, non-past) + 反面
+Noun + である + 反面
+な-adjective + な/である + 反面
+い-adjective + 反面
+Phrase 1 + その反面 + Phrase 2",1,"この部屋は日当たりがいい反面、夏はかなり暑いです。
+子供の成長は嬉しい反面、どこか寂しい。
+子供にとって、インターネットは便利な反面、悪い影響を与えることもあります。",,#9acd32
+N2,https://jlptsensei.com/,以外（いがい）,,igai,"with the exception of; excepting~
+Noun + 以外 + (の、は、に)",1,"食事以外には何ができる？
+彼女以外誰もいない。
+水以外何も見えない。",,#8fbc8f
+N2,https://jlptsensei.com/,以上に（いじょうに）,,ijou ni,"more than; not less than; beyond~
+Verb (casual) + 以上に
+Noun + 以上に
+な-adjective + 以上に
+以上の + Noun",1,"今まで以上に仕事を頑張ります。
+必要以上にたくさんのお金を使わないでください。
+私が予想していた以上に彼の様態はよくなかった。",,#8fbc8f
+N2,https://jlptsensei.com/,以上は,いじょうは,ijou wa,"because; since; seeing that~
+Verb (casual) + 以上 (は)
+Noun + である + 以上 (は)
+な-adjective + である + 以上 (は)",1,"約束した以上、きちんと守ってくださいね。
+学生である以上、アルバイトではなく勉強が大事ですよ。
+給料がこんなに安い以上は、転職を考える人がいるのも当然だ。",,#8fbc8f
+N2,https://jlptsensei.com/,一方で,いっぽうで,ippou de,"on one hand, on the other hand; although~
+Verb (casual) + 一方 (で)
+Noun + である + 一方 (で)
+な-adjective + である + 一方 (で)
+い-adjective + 一方 (で)",1,"お母さんは優しい一方で、お父さんはこわい。
+彼は俳優である一方で、歌手としても活躍している。
+彼女の仕事は夏は非常に忙しい一方、冬は暇になる。",,#8fbc8f
+N2,https://jlptsensei.com/,いわゆる,,iwayuru,"what is called; as it is called; the so-called; so to speak
+いわゆる + Noun",1,"彼はいわゆる語学の天才だ。
+彼女はいわゆる「やり手」だ。
+兄はいわゆるポップミュージックに興味があります。",,#8fbc8f
+N2,https://jlptsensei.com/,上,じょう,jou,"for the sake of; from the standpoint of; as a matter of; in terms of~
+Noun + 上",1,"健康上ではポテトフライや揚げ物などは食べない方がいいと思います。
+日本の法律上はお酒を飲んで車を運転するのは禁止です。
+理論上はこれが可能だが、実用化には時間がかかりそうだ。",,#8b008b
+N2,https://jlptsensei.com/,かのように,,ka no you ni,"as if; just like~
+Noun + であるかのように
+な-adjective + であるかのように
+Verb (casual) + かのように + Verb
+Verb (casual) + かのような + Noun
+Verb (casual) + かのようだ",1,"怖いものを見たかのように、彼女は震えた。
+友達は自分が合格したかのように喜んでくれた。
+彼は今日初めて会うのに、前に何度も会ったことがあるかのような態度で話してくる。",,#b03060
+N2,https://jlptsensei.com/,かと思ったら,かとおもったら,ka to omottara,"just when; no sooner than~
+Verb (た form) + かと思ったら
+Verb (た form) + かと思うと
+Verb (た form) + かと思えば",1,"空が急に暗くなってきたかと思うと、雨が降ってきた。
+うちの近くの公園の花が咲いたかと思ったら、もう散ってしまった。
+この時期は、晴れていたかと思うと、急に雨が降り出すことが多いから、傘をもっていったほうがいい。",,#b03060
+N2,https://jlptsensei.com/,か～ないかのうちに,,ka~nai ka no uchi ni,"just as; right after; as soon as~
+Verb + か (dictionary form) + Verb ない + か + のうちに",0,,,#b03060
+N2,https://jlptsensei.com/,限り（かぎり）,,kagiri,"as long as; while… is the case; as far as; while~
+Verb (casual, non-past) + 限り
+Noun + である + 限り",1,"明日は、雨が降らない限り、10時に学校で会いましょう。
+この仕事は、私が生きている限り、ずっと続けていきたい。
+私の知っている限りでは、彼女はまだ結婚していません。",,#b03060
+N2,https://jlptsensei.com/,甲斐がある,かいがある,kai ga aru,"it’s worth one’s efforts to do something
+Verb (casual, past) + 甲斐がある/かいがある/がいがある
+Verb #ます# (stem form)	+ 甲斐がある/かいがある/がいがある
+Noun + の + 甲斐がある/かいがある/がいがある",1,"努力の甲斐があって、希望の大学に合格した。
+美味しいと言ってたくさん食べてくれると、頑張って作った甲斐があります。
+毎日ダイエットを頑張った甲斐があって、５キロ痩せることができました。",,#b03060
+N2,https://jlptsensei.com/,かねない,,kanenai,"(someone) might do something; something might happen
+Verb #ます# (stem form) + かねない",1,"この問題が長期化すれば、会社は倒産しかねない。早く対策を考えましょう。
+休まずに長時間運転したら、事故を起こしかねない。
+毎日ファストフードばっかり食べてると、病気になりかねないよ。",,#b03060
+N2,https://jlptsensei.com/,かねる,,kaneru,"unable to do something; can’t do something
+Verb #ます# (stem form) + かねる/かねます",1,"すぐにお返事はできかねます。
+私はそれに賛同しかねます。
+飛行機で行くか、新幹線で行くか、まだ決めかねている。",,#b03060
+N2,https://jlptsensei.com/,から言うと,からいうと,kara iu to,"in terms of; from the point of view of~
+Noun + から言うと/から言えば/から言って",1,"僕の成績から言えば、国立大学は無理だと思う。
+能力から言って、彼がこの仕事に一番適切だと思います。
+僕の経験から言うと、留学をする前に基本的な文法や単語は復習しておいた方がいい。",,#b03060
+N2,https://jlptsensei.com/,からこそ,,kara koso,"precisely because~
+Verb (casual) + からこそ
+Noun + だ + からこそ
+だからこそ + phrase",1,"早く起きたからこそ私は始発電車に間に合った。
+毎日一生懸命に練習したからこそ、優勝できたのです。
+子どもの将来を考えたからこそ一流の大学に入れたいのです。",,#b03060
+N2,https://jlptsensei.com/,から見ると,からみると,kara miru to,"from the point of view of; by the look of; judging from~
+Noun + から見ると/から見れば/から見て",1,"虫嫌いな私から見ると、ゴキブリを手でつかむなんてありえない。
+緊張している様子から見て、彼らは新入社員だろう。
+専門家から見れば、間違ったダイエットをしている人が多いようだ。",,#b03060
+N2,https://jlptsensei.com/,からには,,kara niwa,"now that; since; so long as; because~
+Verb (dictionary form) + からには
+Verb (casual, past) + からには",1,"約束したからにはその約束を守らなければならない。
+私はJLPT N2 試験を受けるからには、合格したいです。
+自分で決めたからには、大変でも頑張ります。",,#b03060
+N2,https://jlptsensei.com/,からして,,kara shite,"judging from; based on; since; from; even~
+Noun + からして",1,"タイトルからして、面白そうな本ですね。
+その新社員は顔つきからして優しそうだ。
+この子は笑い方からして母親にそっくりだ。",,#b03060
+N2,https://jlptsensei.com/,からすると / からすれば,,kara suru to/kara sureba,"judging from; considering; by the look of~
+Noun + からすると/からすれば",1,"彼の症状からすると、心臓の病気かもしれません。
+親からすると、子供はいくつになっても子供で心配なものだ。
+周りの態度からすると、あの人が有名人ではないでしょうか。",,#b03060
+N2,https://jlptsensei.com/,からと言って,からといって,kara to itte,"just because; even if; even though~
+Verb (casual) + からといって
+Noun + だ + からといって
+な-adjective + だ + からといって
+い-adjective + からといって",1,"お金がたくさんあるからといって使いすぎるのはよくない。
+安いからといって、要らないものまで買うのはよくない。
+野菜が嫌いだからと言って、食べないのはよくないよ。","
+",#b03060
+N2,https://jlptsensei.com/,っこない,,kkonai,"no chance of; …is definitely not possible
+Verb #ます# (stem form) + っこない
+Verb (potential stem form) + っこない",1,"車なんて買えっこないよ、自転車を買うお金もないんだから。
+3歳の子供にそんな難しいことを言っても分かりっこないよ。
+もう新宿駅には100回以上行ったんだから、迷いっこないよ。",,#b03060
+N2,https://jlptsensei.com/,ことだ,,koto da,"should do~ (used for suggestions or giving advice)
+Verb (dictionary form) + ことだ
+Verb (ない form) + ことだ",1,"風邪ぎみなら、早く寝ることですよ。
+無理をしないことだよ。
+N2に合格したかったら、とにかく漢字を覚えることだよ。",,#b03060
+N2,https://jlptsensei.com/,ことだから,,koto dakara,"because; since~
+Noun + の + ことだから
+
+Verb + ことだから/ことだし
+Noun + である + ことだから/ことだし
+な-adjective + な/である + ことだから/ことだし
+い-adjective + ことだから/ことだし",1,"よくできる彼女のことだから、合格は間違いないだろう。
+全員そろったことだから、時間前だけれど始めましょうか。
+それは、私にとって重要なことだから答えて。",,#b03060
+N2,https://jlptsensei.com/,ことか,,koto ka,"how…!; what…!
+Verb (casual) + ことか
+Noun + である + ことか
+な-adjective + な + ことか
+い-adjective + ことか",0,,,#b03060
+N2,https://jlptsensei.com/,ことなく,,koto naku,"without doing something even once
+Verb (dictionary form)	+ ことなく",1,"お父さんは10年間休むことなく会社に通った。
+彼らは試合に勝つために、1日も休むことなく練習に励んだ。
+彼は緊張することなく、最後まで落ち着いて発表した。",,#b03060
+N2,https://jlptsensei.com/,ことに,,koto ni,"emphasize speaker's feelings; to my (surprise/etc)
+Verb (た form) + ことに
+な-adjective + な + ことに
+い-adjective + ことに",1,"嬉しいことに、明日退院できるんです。
+残念なことに、努力して頑張りましたが、失敗しました。
+幸いなことに、やっと自分の好きな人と結婚できました。",,#b03060
+N2,https://jlptsensei.com/,ことにはならない,,koto niwa naranai,"just because… doesn’t mean~
+Verb (casual, past) + (という) + ことにはならない
+な-adjective + だという + ことにはならない
+い-adjective + という + ことにはならない",0,,,#b03060
+N2,https://jlptsensei.com/,くせして,,kuse shite,"although~; despite the fact that~; even though~
+Verb (dictionary form) + くせして
+Noun + の + くせして
+な-adjective + な + くせして
+い-adjective + くせして",1,"大学生のくせして、そんなことも知らないの。
+彼女はおかしいだね。好きなくせして、嫌いだと言っている。
+何も知らないくせして、知っているようなことを言う。",,#b03060
+N2,https://jlptsensei.com/,まだしも,,madashimo,"rather; better~
+Noun + なら + まだしも
+Noun + は + まだしも",1,"一度だけならまだしも、二度も失敗してしまった。
+あの人、wordやexcelが使えないのはまだしも、メールもできないらしいよ。
+僕の英語力では、旅行はまだしも、留学なんて無理です。",,#ffa500
+N2,https://jlptsensei.com/,まい,,mai,"will not; will probably not; intend not to; must not~
+U-verb (dictionary form) + まい
+Ru-verb #ます# (stem form) + まい
+Exception: する => すまい
+Exception: くる => こまい",1,"あんなところは二度と行くまい。
+彼はそう簡単に態度を変えるまい。
+信用していた親友が僕の秘密をもらした。絶対に許すまい。",,#ffa500
+N2,https://jlptsensei.com/,ままに,,mama ni,"as, to do as~
+Verb (dictionary form) + (が) + まま (に)
+Verb (られる form) + (が) + まま (に)
+Noun + の + まま (に)",1,"今のままにしておこう。
+思うままにどうぞ意見を言ってください。
+上司に命令されるままに行動していただけだ。",,#ffa500
+N2,https://jlptsensei.com/,全く～ない,まったく～ない,mattaku~nai,"not at all~
+まったく + Verb (ない form)",1,"全く漢字が書けない。
+今日は全く風がない。
+私は彼の言うことがまったく理解できない。",,#ffa500
+N2,https://jlptsensei.com/,もかまわず,,mo kamawazu,"without caring; without worrying about~
+Verb (casual) + (の) + も構わず/もかまわず
+Noun + も構わず/もかまわず",1,"彼女は服が汚れるのもかまわず、公園で犬と遊んでいる。
+あの男は人目もかまわず、電車の中で弁当を食べている。
+あの二人は、みんなが見ているのもかまわず、キスをした。",,#ffa500
+N2,https://jlptsensei.com/,も当然だ,もとうぜんだ,mo touzen da,"it’s only natural; no wonder; might as well~
+Verb (casual) + の + も当然だ
+Verb (て form) + も当然だ",1,"彼女は美人で優しい人だから、みんなが好きになるのも当然だ。
+彼はあんなひどいことを言ったから、彼女が怒るのも当然だ。
+彼が試験に落ちても当然だ。ちっとも勉強しないんだから。",,#ffa500
+N2,https://jlptsensei.com/,ものだ,,mono da,"describe feeling; express memories; state fact
+Verb (dictionary form) + ものだ/もんだ/ものじゃない
+Verb (ない form) + ものだ/もんだ/ものじゃない
+な-adjective + ものだ/もんだ/ものじゃない
+い-adjective + ものだ/もんだ/ものじゃない",1,"人は誰でも間違いをするものだ。
+子供は早く寝るもんだよ。
+人の悪口は言うものじゃない。",,#ffa500
+N2,https://jlptsensei.com/,ものだから,,mono dakara,"so; therefore; the reason for something
+Verb (casual) + ものだから/ものですから/もんだから (spoken)
+Noun + な + ものだから/ものですから/もんだから (spoken)
+な-Adjective + な + ものだから/ものですから/もんだから (spoken)
+い-Adjective + ものだから/ものですから/もんだから (spoken)",1,"目覚まし時計が壊れたものだから、遅刻してしまった。
+すみません、風邪を引いてしまったものですから、今日は欠席です。
+すみません。お酒は苦手なものですから。",,#ffa500
+N2,https://jlptsensei.com/,ものではない,,mono dewa nai,"shouldn’t do something; it’s impossible to~
+Verb (casual, past) + ものではない",1,"何が起こるかわかったものではない。
+目上の人にそんな言い方をするものではない。
+口の中に物を入れたまましゃべるものではない。",,#ffa500
+N2,https://jlptsensei.com/,ものがある,,mono ga aru,"there is such a thing; to be the case that; feels like~
+Verb (dictionary form)	+ ものがある
+な-adjective	+ ものがある
+い-adjective	+ ものがある",1,"彼の話にはどこか納得できないものがある。
+社長の言葉には、こころに響くものがある。この会社を成長させるために、もっと頑張りたい。
+確かに、一人で受付と司会をやるのは厳しいものがある。",,#ffa500
+N2,https://jlptsensei.com/,ものか / もんか,,mono ka,"as if (something untrue were actually true); there's no way~
+Verb (dictionary form)	+ ものか/もんか/ものですか/もんですか
+Noun + な + ものか/もんか/ものですか/もんですか
+な-adjective + な	+ ものか/もんか/ものですか/もんですか
+い-adjective	+ ものか/もんか/ものですか/もんですか",1,"あんな所へ誰が行くものか。
+人の心の秘密がどうしてわかるもんか。
+夏休みの遊園地は人が多いし、アトラクションには１時間待たなければならないこともあるし、絶対に行くものか。",,#ffa500
+N2,https://jlptsensei.com/,ものなら,,mono nara,"if I/we could; if [A] is possible, then [B]; if one can do something, then~
+Verb (potential form れる) + ものなら/もんなら (spoken)",1,"やれるもんなら、やってみろ。
+止められるものなら止めてみるがよい。
+やり直せるものならやり直したい。","
+
+",#ffa500
+N2,https://jlptsensei.com/,もの / もん,,mono/mon,"because; indicates reason/ excuse/ dissatisfaction
+Verb (casual) + (んだ) + もの/もん
+Noun + なんだ + もの/もん
+な-adjective + なんだ + もの/もん
+い-adjective +(んだ) + もの/もん",1,"今日は早く帰ってきたんです。体調がよくないんだもの。
+「だって、全然美味しくないんだもん。」
+高いんですもの、買えません。",,#ffa500
+N2,https://jlptsensei.com/,ものの,,monono,"but; although; even though~
+Verb (casual) + ものの
+Noun + である + ものの
+な-adjective + な + ものの
+い-adjective + ものの",1,"秋であるものの、まだ暑い。
+申し込みはしたものの、試験を受けるかどうか未定です。
+車の免許は持っているものの、ほとんど運転したことがありません。",,#ffa500
+N2,https://jlptsensei.com/,もっとも,,motto mo,"but then; although; though~
+もっとも + phrase",1,"全員が参加しなければなりません。もっとも病気の場合は別です。
+今回の失敗は田中さんの責任だ。もっとも、私たちも責任を一部持ちます。
+検査の前夜から飲食禁止です。もっとも水は飲んでも構いません。",,#ffa500
+N2,https://jlptsensei.com/,もう少しで,もうすこしで,mou sukoshi de,"almost; nearly, close to~
+もう少しで + Verb (ます stem) + そうだった/そうになった
+もう少しで + Verb (dictionary form) + ところだった""",0,,,#ffa500
+N2,https://jlptsensei.com/,ないではいられない,,nai dewa irarenai,"can’t help but feel; can’t help but do~
+Verb (ない form) + ではいられない",1,"試験の前だから、勉強しないではいられない。
+態度悪いの店員に、一言文句を言わないではいられない。
+彼の真似を見るとおかしくて、笑わないではいられない。",,#7cfc00
+N2,https://jlptsensei.com/,ないことには～ない,,nai koto niwa~nai,"unless you~
+Verb (ない form)	+ ことには + Verb (ない form)
+Noun + でない + ことには + Verb (ない form)
+な-adjective + でない	+ ことには + Verb (ない form)
+い-adjective + #い#くない	+ ことには + Verb (ない form)",0,,,#7cfc00
+N2,https://jlptsensei.com/,中を /中では,なかを /なかでは,naka o/naka dewa,"in; on; in the midst of; when; while~
+Verb (casual form)  + 中 + を/では
+Noun + の  + 中 + を/では
+Adjective  + 中 + を/では",1,"私はお店の中をうろうろしていた。
+雨が降っているから彼女は部屋の中を走った。
+お忙しい中を手伝っていただき、本当にありがとうございます。",,#7cfc00
+N2,https://jlptsensei.com/,なくはない,,naku wa nai,"it’s not that; I may (double negative)
+Verb (ない form) な#い# + く + は/も + ない
+Noun + がな	+ く + は/も + ない
+な-adjective + じゃな	+ く + は/も + ない
+い-adjective + #い#くな + く + は/も + ない",1,"自信がなくはないが、ただちょっと緊張している。
+息子は野菜を食べなくはないが、あまり好きではない。
+あなたの気持ちは分からなくはないが、ただその行為には賛成できない。",,#7cfc00
+N2,https://jlptsensei.com/,なくて済む,なくてすむ,nakute sumu,"get by without doing~
+Verb (ない root) + なくて済む/ないで済む",1,"母が車で迎えに来てくれたので、歩かなくて済みました。
+amazonさえあれば外出しなくて済む。
+予約しておいたおかげで、待たなくて済みました。",,#7cfc00
+N2,https://jlptsensei.com/,何も～ない,なにも～ない,nani mo~nai,"nothing; (not) ~ at all; there’s no need to~
+なにも + Verb/Noun/Adj (ない form)",1,"私達はなにもいらない。
+彼女はなにも言わなかった。
+どのみち、何も聞こえなかった。",,#7cfc00
+N2,https://jlptsensei.com/,ねばならない,,neba naranai,"have to do; must; should~
+Verb (ない form) #ない# + ねばならない",1,"歯医者に行かねばならない。
+9時までに戻らねばならない。
+ビザが切れたので、国に帰らねばならない。",,#7cfc00
+N2,https://jlptsensei.com/,にあたって,,ni atatte,"at the time; on the occasion of~
+Verb (dictionary form)	+ にあたって(は)/にあたり
+Noun + にあたって(は)/にあたり",1,"皆さん、JLPTを受けるにあたって、大切なことを伝えておきます。
+アルバイトをするにあたっては、学業や体に無理のないようにすること。
+試験を始めるにあたり、まずは注意事項を読んでおいてください。",,#7cfc00
+N2,https://jlptsensei.com/,にほかならない,,ni hoka naranai,"nothing but; none other than~
+Noun + にほかならない",1,"合格したのは、彼の努力の結果にほかならない。
+緊急時に一番大切なことは、まず落ち着くことにほかならない。
+この大学の学生の質がいいのは選抜がきびしいからにほかならない。",,#7cfc00
+N2,https://jlptsensei.com/,に限らず,にかぎらず,ni kagirazu,"not just; not only.. but also~
+Noun + に限らず",1,"最近は、女性に限らず男性も化粧をする。
+この映画は子供に限らず、大人も楽しめます。
+ディズニー映画は子供に限らず、大人にも人気がある。",,#7cfc00
+N2,https://jlptsensei.com/,に限る,にかぎる,ni kagiru,"is best; nothing is better than~
+Verb (casual, non-past) + に限る
+Noun + に限る",1,"寒い日は、熱いラーメンに限る。
+何といっても我が家に限る。
+風邪を引いたときは、薬など飲むよりゆっくり寝るに限る。",,#7cfc00
+N2,https://jlptsensei.com/,に限って,にかぎって,ni kagitte,"only; in particular~
+Noun + に限って",1,"うちの娘に限って、人をいじめるようなことはしません。
+私は学校に休んだ日に限って、テストがある。
+仕事が忙しい日に限って、なぜかシステムトラブルが発生する。",,#7cfc00
+N2,https://jlptsensei.com/,に関わらず,にかかわらず,ni kakawarazu,"in spite of; regardless of~
+Verb (dictionary form) + に関わらず/にかかわらず
+Noun + に関わらず/にかかわらず
+Adjective + に関わらず/にかかわらず",1,"このバスは距離にかかわらず、どこまで行っても200円だ。
+値段にかかわらず、新しいiPhoneが発売したら買うつもりだ。
+明日の国際交流イベントに来る来ないにかかわらず、連絡してください。",,#7cfc00
+N2,https://jlptsensei.com/,に関わる,にかかわる,ni kakawaru,"to relate to; to have to do with; relating to~
+Verb (casual) + に決まっている
+Noun + に決まっている
+な-adjective + に決まっている
+い-adjective + に決まっている",0,,,#7cfc00
+N2,https://jlptsensei.com/,に決まっている,にきまっている,ni kimatte iru,"certainly; I’m sure/certain that; it must be the case that~
+Verb (casual) + に決まっている
+Noun + に決まっている
+な-adjective + に決まっている
+い-adjective + に決まっている",1,"毎日、一生懸命勉強したから、絶対合格するに決まっている。
+同じ値段なら、質がいいほうがたくさん売れるに決まっている。
+一人で外国へ旅行するなんて、親に反対されるに決まっている。",,#7cfc00
+N2,https://jlptsensei.com/,に越したことはない,にこしたことはない,ni koshita koto wa nai,"it’s best that, there’s nothing better than~
+Verb (casual, non-past) + に越したことはない
+Noun + に越したことはない
+な-adjective + に越したことはない
+い-adjective + に越したことはない",0,,,#7cfc00
+N2,https://jlptsensei.com/,に応えて,にこたえて,ni kotaete,"in response to~
+Noun + に応えて/に応える/に応え",1,"大学は、学生たちの要望にこたえて、図書館の利用時間を延ばした。
+お客様の意見にこたえて、営業時間を延長することいたしました。
+社員の要求にこたえて、労働時間を短縮した。",,#7cfc00
+N2,https://jlptsensei.com/,に加えて,にくわえて,ni kuwaete,"in addition~
+Noun + に加えて",1,"のどの痛みに加えて、熱も出てきたので学校を休むしかない。
+彼女は週末にアルバイトに加えて、ボランティア活動もしている。
+今学期から初級クラスに加えて、中級クラスでも教えるようになった。",,#7cfc00
+N2,https://jlptsensei.com/,に基づいて,にもとづいて,ni motozuite,"based on; on the basis of~
+Noun + に基づいて/に基づき",1,"この小説は実際にあったことに基づいて書かれたそうです。
+私は長年の経験に基づき新入社員を教育する。
+集めた資料に基づいて、卒業の論文を書きました。",,#7cfc00
+N2,https://jlptsensei.com/,に向かって,にむかって,ni mukatte,"to face; to go towards; to head to~
+Noun + に向かって/に向けて",1,"先生に向かって失礼なことを言わないでください。
+彼女は今どこに向かっていますか？
+私は今新幹線に乗って東京に向かっています。",,#7cfc00
+N2,https://jlptsensei.com/,に応じて,におうじて,ni oujite,"depending on; in accordance with~
+Noun + に応じて/に応じた",1,"この学校は生徒の日本語のレベルに応じて、クラスを分けます。
+家具は部屋の広さに応じて決めたほうがいい。
+この店は季節に応じてメニューが異なるからおもしろい。",,#7cfc00
+N2,https://jlptsensei.com/,に際して,にさいして,ni saishite,"on the occasion of; at the time of~
+Verb (dictionary form)	+ に際して (は)
+Noun+ に際して (は)",1,"車を買うに際しては、保険に入らなければならない。
+試験に際して、携帯電話の電源を切ってください。
+お申し込みに際しては、履歴書が必要となります。",,#7cfc00
+N2,https://jlptsensei.com/,に先立ち,にさきだち,ni sakidachi,"before; prior to~
+Verb (dictionary form)	+ に先立ち/に先立って/に先立つ
+Noun + に先立ち/に先立って/に先立つ",1,"会議に先立って、資料を集めておかなければならない。
+日本への留学に先立ち、パスポートの申請をしました。
+新製品の発売に先立って、テレビやネットで連日宣伝しています。",,#7cfc00
+N2,https://jlptsensei.com/,にせよ/ にしろ,,ni seyo/ni shiro,"even if; regardless; whether... or
+Verb (casual) + にせよ/にしろ
+Noun + (である) + にせよ/にしろ
+な-adjective + (である) + にせよ/にしろ
+い-adjective + にせよ/にしろ",1,"熱が下がったにせよ、しばらく安静が必要です。
+欠席するにせよ連絡はしてください。
+事故で自転車がめちゃくちゃになったが、何にしろ、誰もけがをしなくてよかった。",,#7cfc00
+N2,https://jlptsensei.com/,にしろ～にしろ,,ni shiro~ni shiro,"whether… or~
+Verb (dict. Form) + にしろ/にせよ + Verb (ない form) + にしろ/にせよ
+Noun + にしろ/にせよ + Noun + にしろ/にせよ
+な-adj + にしろ/にせよ + な-adjective + にしろ/にせよ
+い-adj + にしろ/にせよ + い-adjective + にしろ/にせよ",1,"明日のパーティーに行くにしろ行かないにしろ、連絡してくださいね。
+就職するにしろ進学するにしろ、自分でよく考えてください。
+犬にしろ猫にしろ、このマンションではペットを飼ってはいけない決まりです。",,#7cfc00
+N2,https://jlptsensei.com/,にしたら / にすれば,,ni shitara/ni sureba,"from one’s perspective; from the point of view of~
+Noun + にしたら/にすれば",1,"あなたにすれば小さなことかもしれないけど、ほかの人にはそうでもないんですよ。
+大きすぎる親の期待は、子供にしたら苦痛だ。
+犬や猫はかわいいが、飼っていない人にすれば迷惑なっこともある。",,#7cfc00
+N2,https://jlptsensei.com/,にしても～にしても,,ni shitemo~ni shitemo,"regardless of whether~
+Verb (dict. Form) +にしても + Verb (dict. Form) +にしても
+Noun +にしても + Noun +にしても
+な-adj +にしても + な-adjective +にしても
+い-adj +にしても + い-adjective +にしても",1,"行くにしても行かないにしても、早く決めてください。
+英語を学ぶにしても中国語を学ぶにしても目的や目標をはっきりしないと続かないよ。
+飲み会に参加するにしても、しないにしても明日までに参加可否を連絡ください。",,#7cfc00
+N2,https://jlptsensei.com/,に沿って,にそって,ni sotte,"along with; in accordance with
+Noun + に沿って/に沿い/に沿う/に沿った",1,"この坂道に沿って自転車で行けば、1時間半ぐらいで頂上に着きます。
+週末は、川の道に沿って二時間ほど仲間とサイクリングしました。
+この道を線路に沿って真っすぐ行くと、左側に美味しいケーキ屋があります。",,#7cfc00
+N2,https://jlptsensei.com/,に相違ない,にそういない,ni soui nai,"without a doubt; certain; sure
+Verb (casual) + に相違ない
+Noun + (である) + に相違ない
+な-adjective + (である) + に相違ない
+い-adjective + に相違ない",1,"冷蔵庫に入れていたアイスクリームを食べたのは、娘に相違ない。
+その情報を漏らしたのは彼女に相違ない。
+この日本語学校は色々な国の学生がいる、楽しいに相違ない。",,#7cfc00
+N2,https://jlptsensei.com/,に過ぎない,にすぎない,ni suginai,"no more than; just; merely; only~
+Verb (casual) + に過ぎない
+Noun + (である) + に過ぎない
+な-adjective + (である) + に過ぎない
+い-adjective + に過ぎない",1,"単に幸運だったにすぎない。
+そんなのは言い訳に過ぎない。
+私はこの会社の一社員にすぎませんから、決定権はありません。",,#7cfc00
+N2,https://jlptsensei.com/,に伴って,にともなって,ni tomonatte,"as; due to; with; along with; following; accordingly~
+Verb (dictionary form) + に伴って/に伴い/に伴う
+Noun + に伴って/に伴い/に伴う",1,"それに伴って私たちの予定は再度変わるかもしれません。
+人口が増えるに伴って、いろいろな問題が起こってきた。
+昇進に伴い、さまざまな責任が増えるだろう。",,#7cfc00
+N2,https://jlptsensei.com/,につけ,,ni tsuke,"every time; whenever; as; whether; in (either case)
+Verb (dictionary form) + につけ/につけて
+Noun + につけ/につけて",1,"その写真を見るにつけ、小学校のころを思い出す。
+環境汚染のニュースを聞くにつけて、健康への影響に不安を感じる。
+謝るにつけ謝らないにつけ私は許しませんよ。",,#7cfc00
+N2,https://jlptsensei.com/,につき,,ni tsuki,"due to; because of; per; each
+Noun + につき",1,"昼休みにつき、事務所は2時まで休みです。
+現在、工事中につき、このエリアは通行ができません。
+店内改装につき、しばらく休業いたします。",,#7cfc00
+N2,https://jlptsensei.com/,にわたって,,ni watatte,"throughout; over a period of~
+Noun + にわたって",1,"道路は数マイルにわたってまっすぐ続いていた。
+広い地域にわたって大雪が降った。
+雨が１週間にわたって降り続いた。",,#7cfc00
+N2,https://jlptsensei.com/,にも関わらず,にもかかわらず,nimo kakawarazu,"despite; in spite of; nevertheless; although~
+Verb (casual) + にも関わらず/にもかかわらず
+Noun + (である) + にも関わらず/にもかかわらず
+な-adjective + (である) + にも関わらず/にもかかわらず
+い-adjective + にも関わらず/にもかかわらず",1,"大学生にも関わらず、基本的な漢字が書けない人もいる。
+問題が易しかったにも関わらず、不注意でミスをしてしまった。
+一生懸命勉強したにも関わらず、入りたかった大学の試験に落ちてしまった。",,#7cfc00
+N2,https://jlptsensei.com/,にて,,nite,"in, at, with, by (formal particle)
+Noun + にて",1,"今回のイベントは駅前にて行います。
+質問があれば電話かメールにて連絡ください。
+この資料は大事なものですので、書留便にて送ります。",,#7cfc00
+N2,https://jlptsensei.com/,のももっともだ,,no mo motto mo da,"no wonder; …is only natural
+Verb (casual) + のも	(は) + もっともだ
+Noun + も + もっともだ",1,"彼が仕事を辞めるのももっともだ。
+彼女は毎日頑張って勉強している。N2に合格したのももっともだ。
+あなたはよく嘘ついたから、みんなが信用しないのももっともだ。",,#7cfc00
+N2,https://jlptsensei.com/,の下で,のもとで,no moto de,"under; with~
+Noun + の + 下で/下に/下/もと",1,"日本語を勉強するなら英語が話せる先生の下で勉強したいです。
+私は小さい時にそれを母の下で教わった。
+法の下では全ての人は平等だ。",,#7cfc00
+N2,https://jlptsensei.com/,の上では,のうえでは,no ue de wa,"according to; from the viewpoint of~
+Noun + の上で (は)/上の",1,"規則の上では彼はまだ学生だ。
+彼は仕事の上では私の先輩だ。
+彼女は健康上の理由で学校をやめた。",,#7cfc00
+N2,https://jlptsensei.com/,のみならず,,nominarazu,"not only; besides; as well as~
+Verb (dictionary form) + のみならず
+Noun + のみならず
+な-adjective + である + のみならず
+い-adjective + のみならず",1,"彼は英語のみならず、スペイン語も話せる。
+健康のためには、食事のみならず、生活リズムも重要になってくる。
+学生のみならず、教師もスポーツ大会に参加することになっている。",,#7cfc00
+N2,https://jlptsensei.com/,ぬ,,nu,"negative verb conjugation; traditional version of ない
+Verb (ない form) #ない# + ぬ",1,"彼は何にも知らぬ。
+どの本も気に入らぬ。
+人は働かねばならぬ。",,#7cfc00
+N2,https://jlptsensei.com/,抜きにして / 抜きで,ぬきにして/ ぬきで,nuki ni shite/nuki de,"without; leaving out; cutting out~
+Noun + 抜きにして (は)/抜きで (は)/抜きに (は)",1,"ハンバーガーはマスタード抜きでお願いします。
+冗談抜きで真面目に考えってください。
+今夜、仕事の話は抜きにして楽しく飲みましょう！",,#7cfc00
+N2,https://jlptsensei.com/,抜く,ぬく,nuku,"to do something from beginning to end; completely, extremely~
+Verb #ます# (stem form) + 抜く",1,"大変な仕事でも、やり抜く自信があります。
+あなたはこの仕事を最後までやり抜くことができますか。
+彼は決めたことは守り抜くでしょう。",,#7cfc00
+N2,https://jlptsensei.com/,を契機に,をけいきに,o keiki ni,"as a good opportunity/chance to; as a result of; make the best of~
+Noun + を契機に/を契機として",1,"入院を契機に、今後はできるだけ毎日運動しようと思った。
+昨年の事故を契機として、安全対策を強化された。
+父は病気を契機にお酒を辞めました。",,#0000ff
+N2,https://jlptsensei.com/,をめぐって,,o megutte,"concerning; in regard to~
+Noun + をめぐって/をめぐる",0,,,#0000ff
+N2,https://jlptsensei.com/,をもとに,,o moto ni,"based on; derived from; building on; beginning with~
+Noun + をもとに/をもとにして",1,"試験の結果をもとにしてクラス分けを行います。
+この映画は実際にあった話をもとに作られた。
+友だちのアドバイスをもとに、新しいビジネスを始めた。",,#0000ff
+N2,https://jlptsensei.com/,を除いて,をのぞいて,o nozoite,"except; with the exception of; excluding~
+Noun + を除いて (は)/を除けば",1,"彼は日曜日を除いて毎日働いている。
+この本は２,３の間違いを除いて、とてもよい本です。
+うちの娘は食事の時を除いてずっと自分の部屋にいる。",,#0000ff
+N2,https://jlptsensei.com/,を問わず,をとわず,o towazu,"regardless of; irrespective of; no matter
+Noun + を問わず",1,"この公園では季節を問わず美しい花が見られます。
+学歴、経験を問わず、やる気がある社員を募集します。
+高い安いの値段を問わず、私はいいものを買いたいです。",,#0000ff
+N2,https://jlptsensei.com/,お～願う,お～ねがう,o~negau,"please do; could you please…; I ask of you to~
+お + Verb #ます# (stem form) + 願います/願えますか
+お/ご + Noun (action) + 願います/願えますか",0,,,#0000ff
+N2,https://jlptsensei.com/,おまけに,,omake ni,"to make matters worse; besides; what's more; in addition; on top of that
+Phrase + おまけに",1,"寒くておまけに風も強かった。
+この部屋は私には大きすぎる。おまけに家賃が高すぎる。
+明日から３連休だ。おまけに宿題もない、最高だ。",,#0000ff
+N2,https://jlptsensei.com/,恐れがある,おそれがある,osore ga aru,"it is feared that; to be in danger of; to be liable to~
+Verb (casual) + 恐れがある/おそれがある
+Noun + の + 恐れがある/おそれがある",1,"梅雨に入ってからほとんど雨が降っていない。このまま降らないと、水不足になる恐れがある。
+大きい地震が来たら、この建物は倒れる恐れがある。
+この番組は子供に悪い影響を与える恐れがある。",,#0000ff
+N2,https://jlptsensei.com/,及び,および,oyobi,"and; as well as~
+Noun + および + Noun",1,"鉛筆及び紙を持ってきてください。
+安全のために観光する時、地図及びホテルの情報を持っていたほうがいい。
+私は兄と外見及び性格が大きく異なる。",,#0000ff
+N2,https://jlptsensei.com/,ろくに～ない,,roku ni~nai,"not well; not enough; improperly; insufficiently; unsatisfactorily~
+ろくに + Verb (ない form)",1,"昨夜はろくに寝なかった。
+彼とはろくに話をしたことも無い。
+若い頃、日本語をたくさん学んだが、今はろくに覚えない。",,#ff1493
+N2,https://jlptsensei.com/,幸いなことに,さいわいなことに,saiwai na koto ni,"fortunately; luckily; thankfully~
+幸いなことに/幸い + phrase",1,"幸い彼は気づかなかった。
+幸いなことに、母の心臓の手術はうまくいった。
+幸いなことに私たちは事故を避けることができた。",,#8a2be2
+N2,https://jlptsensei.com/,せいか,,sei ka,"perhaps because~
+Verb (casual) + せいか
+Noun + の + せいか
+な-adjective + な/だった + せいか
+い-adjective + せいか",1,"たくさん仕事をしたせいか、病気になってしまった。
+薬を飲んだせいか頭痛が治った。
+今日はお天気がよいせいか、とても眠たいです。",,#8a2be2
+N2,https://jlptsensei.com/,せっかく,,sekkaku,"especially; (thank you for) troubling to, going to great pains for~
+せっかく + clause (+ conjunction)",1,"せっかく勉強したのに合格できなかった。
+せっかくレポートを書いたのに提出しなくてもよくなった。
+せっかく母がお弁当を作ってくれたのに家に忘れてしまった。",,#8a2be2
+N2,https://jlptsensei.com/,次第,しだい,shidai,"as soon as, dependent upon
+Verb #ます# (stem form) + 次第",1,"部屋の準備ができ次第、会議を始めます。
+雨がやみ次第、出発することにしましょう。
+詳しいことは情報が入り次第、お伝えします。",,#8a2be2
+N2,https://jlptsensei.com/,次第で,しだいで,shidai de,"depending on; so~
+Noun + 次第で (は)/次第だ",1,"我々が成功できるかどうかは君次第だ。
+花火大会は天気次第で中止になる場合もあります。
+結婚した相手次第で人生が決まってしまうこともある。",,#8a2be2
+N2,https://jlptsensei.com/,しかも,,shikamo,"moreover; furthermore; and yet; what’s more~
+しかも + phrase",1,"この教科書の説明はわかりやすくて、しかも詳しい 。
+今日はとても暑い。しかも、湿度も高いので何もしたくないだ。
+彼は仕事がとても早い。しかも、正確で丁寧だから安心して任せられる。",,#8a2be2
+N2,https://jlptsensei.com/,その上,そのうえ,sono ue,"besides; in addition; furthermore~
+その上 + phrase",1,"その上、そのレストランは私たちのホテルからとても近い。
+この靴の値段は高い、その上デザインも良くない。
+今日は暑いです。その上湿度も高い。",,#8a2be2
+N2,https://jlptsensei.com/,それなのに,,sore na noni,"and yet; despite this; but even so~
+それなのに + phrase",1,"毎日残業しているし、休日も出勤した。それなのに給料がまだ少ない。
+この間に買った時計は高かった。それなのにすぐに壊れた。
+彼の家は誰よりも学校に近い。それなのにいつも遅刻する。",,#8a2be2
+N2,https://jlptsensei.com/,それなら,,sore nara,"if that’s the case; if so~
+それなら + phrase",1,"それなら、アルバイトをして自分で買いなさい。
+それなら、あそこのジムがいいらしいよ。
+それなら、京都がいいよ。",,#8a2be2
+N2,https://jlptsensei.com/,それにしても,,sore ni shitemo,"nevertheless; at any rate; even so; be that as it may~
+それにしても + phrase",1,"それにしてもあなたは絵が上手ですね。
+それにしても私はあなたが優秀だと思います。
+今日は早く帰ると言ったが、それにしても8時半まで残業した。",,#8a2be2
+N2,https://jlptsensei.com/,そう言えば,そういえば,sou ieba,"come to think of it…; now that you mention it…
+そういえば + phrase",1,"そういえば、子供のころ、両親と一緒にここに来たことを覚えている。
+いい家ですね。そういえば、お兄さんは建築家さんでしたよね。
+そういえば、昨日のテストはどうでしたか？　よくできましたか？",,#8a2be2
+N2,https://jlptsensei.com/,そうすると,,sou suru to,"having done that; if that is done; if it is done in that way
+そうすると + phrase",1,"まだ出発しないの？そうすると、約束の時間に間に合わないよ。
+私は大学を早く卒業したいです。そうすると、仕事をやって親に返報できます。
+テニスの練習は土曜日の朝にしよう。そうすると、土曜日の午後は、時間ができる。",,#8a2be2
+N2,https://jlptsensei.com/,末に,すえに,sue ni,"finally; after; following; at the end/ conclusion of~
+Verb (た form) + 末 (に)
+Noun + の + 末 (に)",1,"いろいろ迷った末に、留学することにした。
+3時間にわたる激しい議論の末、ようやく意見がまとまった。
+彼は3年間の闘病生活の末に、亡くなった。",,#8a2be2
+N2,https://jlptsensei.com/,少しも～ない,すこしも～ない,sukoshi mo~nai,"not one bit; not even a little~
+少しも + Verb (ない form)
+少しも + Noun + ではない
+少しも + な-adjective + ではない
+少しも + い-adjective + #い#くない",1,"こんな暑い天気でピクニックするなんて、少しも楽しくないよ。
+この町は10年前と少しも変わらない。
+あなたは少しも日本語が読めないのですか。",,#8a2be2
+N2,https://jlptsensei.com/,少なくとも,すくなくとも,sukunaku tomo,"at least~
+少なくとも + phrase",1,"彼女は少なくとも３０歳だ。
+人数が足りませんね。少なくともあと3人は必要です。
+あなたは少なくとも10時には寝るべきだ。",,#8a2be2
+N2,https://jlptsensei.com/,たまえ,,tamae,"do~; order somebody to do something
+Verb #ます# (stem form) + たまえ",1,"ご飯を食べる前に手を洗いたまえ。
+静かに！ちゃんと上司の説明を聞きたまえ。
+もう8時だよ。早く起きたまえ。",,#ff7f50
+N2,https://jlptsensei.com/,てばかりはいられない,,te bakari wa irarenai,"can’t keep doing~
+Verb (て form) + ばかりは/ばかりも + いられない",0,,,#ff7f50
+N2,https://jlptsensei.com/,てでも,,te demo,"even if I have to; by all means~
+Verb (て form) + でも",1,"何としてでも痩せたい。
+どんな手を使ってでも勝ちとってみせる。
+何としてでも約束を守らなければならない。",,#ff7f50
+N2,https://jlptsensei.com/,て以来,ていらい,te irai,"since; henceforth~
+Verb (てform) + 以来
+Noun + 以来",1,"日本に来て以来、母の料理を食べていない。
+彼女は入学以来、一度も授業を休んでいない。
+その寿司屋の寿司を食べて以来、ずっとそのお店のファンです。",,#ff7f50
+N2,https://jlptsensei.com/,ていては,,te ite wa,"if one keeps doing~
+Verb (て form) + いては",1,"そんなに甘いものばかり食べていては、太りますよ。
+毎日そんなに遅くまで残業をしていては体を壊しますよ。
+いつも親に頼っていては、成長が出来ないよ。",,#ff7f50
+N2,https://jlptsensei.com/,てこそ,,te koso,"now that; since (something happened)
+Verb (て form) + こそ",1,"親になってこそ、親の苦労や気持ちがわかるものだ。
+生活費を自分で稼いでこそ、自立していると言えます。
+会話は、相手が参加してくれてこそ成功します。",,#ff7f50
+N2,https://jlptsensei.com/,てまで,,te made,"even; will go far so as to~
+Verb（て form) + まで
+Noun + までして/までする",0,,,#ff7f50
+N2,https://jlptsensei.com/,てならない,,te naranai,"can't help but; dying to; extremely~
+Verb (て form) + ならない
+な-adjective +  で + ならない
+い-adjective + #い#くて + ならない",1,"うちの息子が大学に合格して、うれしくてならない。
+外国で生活した時、不安でならなかった。
+あの二人はどうして離婚したのか、知りたくてならない。","
+",#ff7f50
+N2,https://jlptsensei.com/,てたまらない,,te tamaranai,"can't help but; dying to; extremely~
+Verb (たくて form) + たまらない
+な-adjective + で + たまらない
+い-adjective + #い#くて + たまらない",1,"あなたに会いたくてたまらない。
+日本の夏は暑すぎてたまらない。
+私は外国へ行きたくてたまらない。",,#ff7f50
+N2,https://jlptsensei.com/,て当然だ,てとうぜんだ,te touzen da,"natural; as a matter of course
+Verb (て form) + 当然だ/当たり前だ
+な-adjective + で + 当然だ/当たり前だ
+い-adjective + いくて + 当然だ/当たり前だ",1,"毎日遅くまで残業しているから、疲れて当然だ。
+人間だから間違いがあって当然です。そんなに落ち込まないでください。
+マンションの近くに電車が走っているから、うるさくて当たり前だ。",,#ff7f50
+N2,https://jlptsensei.com/,てはいられない,,tewa irarenai,"can’t afford to; unable to~
+Verb (て form) + はいられない
+Noun + で + はいられない
+な-adjective + で + はいられない",1,"ぐずぐずしてはいられない。
+今年から大学生になるから、いつまでも親に頼ってはいられない。
+もうすぐ試験だから遊んではいられない。勉強に集中しなきゃ。",,#ff7f50
+N2,https://jlptsensei.com/,てはならない,,tewa naranai,"must not; cannot; should not~
+Verb (て form) + はならない",1,"過去を忘れてはならない。
+教師はいじめを見逃してはならない。
+水は生きるためになくてはならない。",,#ff7f50
+N2,https://jlptsensei.com/,ては / では,,tewa/dewa,"whenever; if; when~; repetitive action
+Verb (て form) + は
+Noun + で + は
+な-adjective + で + は
+い-adjective + #い#くて + は",1,"こんなに雨が降っては、買い物ができないな。
+彼が相手では勝てるわけがない。
+授業をサボっては先生に叱られたりしたあの頃のことが懐かしく思われる。",,#ff7f50
+N2,https://jlptsensei.com/,ては～ては,,tewa~tewa,"repetitive situations/actions
+V1ては + V2て + V1ては + V2て
+V1ては + V2#ます#  + V1ては + V2#ます#",1,"立っては座り、座っては立ち、気分が落ち着かない。
+食べては寝て、寝ては食べの生活は必ず太る。
+雨が降ってはやんで降ってはやんでの日が続いている。",,#ff7f50
+N2,https://jlptsensei.com/,と同時に,とどうじに,to douji ni,"at the same time as; while; simultaneously~
+Verb (casual, non-past) + と同時に
+Noun + と同時に
+な-adjective + である + と同時に",1,"彼らは笑うと同時に泣いた。
+大学に入学すると同時に、私はアルバイトを始めました。
+その店は開店と同時に満席になった。",,#ff7f50
+N2,https://jlptsensei.com/,といった,,to itta,"like; such as~
+Noun + といった",1,"バスケットボール、サッカーといったスポーツは大学生に人気がある。
+とんかつや天ぷらといった揚げ物の料理が好きです。
+彼女はアイスクリームやチョコレートといった甘い物が好きだ。",,#ff7f50
+N2,https://jlptsensei.com/,というふうに,,to iu fuu ni,"in such a way that~
+Phrase + という風に/というふうに",1,"彼女は信じられないというふうに頭を振った。
+日本にはどういう影響があるというふうに見ていますか。
+これは非常に大事なことだという風に思っております。",,#ff7f50
+N2,https://jlptsensei.com/,ということは,,to iu koto wa,"that is to say; so that means; in other words~
+Clause 1 + ということは + clause 2",1,"あなたが会社を辞めるということは本当ですか。
+彼は、まだ来ませんね。ということは、今日は欠席ですね。
+30％割引きということは、２万円なら６千円安くなるんですね。",,#ff7f50
+N2,https://jlptsensei.com/,というものだ,,to iu mono da,"something like; something called~
+Verb (casual form) + というものだ/というものがある
+Noun + だ + というもの + だ/がある
+な-adjective + だ + というもの + だ/がある
+い-adjective + い + というもの + だ/がある",1,"これがいわゆる「天ぷら」というものです。
+辛い時に助けてくれるのが、親友というものだ。
+誰にでも好みというものはあります。",,#ff7f50
+N2,https://jlptsensei.com/,というものではない,,to iu mono dewa nai,"there is no guarantee that…; not necessarily~
+Verb (casual form) + というもので + は/も + ない
+Noun + だ + というもので + は/も + ない
+な-adjective + だ + というもので + は/も + ない
+い-adjective + い + というもので + は/も + ない",1,"お金があれば幸せだというものでもない。
+私の仕事は誰でもできるというものではない！
+日本に留学すれば、日本語が上手になるというものでもない。",,#ff7f50
+N2,https://jlptsensei.com/,と考えられる,とかんがえられる,to kangaerareru,"one can think that; it is conceivable that; considered~
+Phrase + と考えられる",1,"これは今年最高の映画だと考えられている。
+彼が死んだ原因は事故だと考えられる。
+日本人は礼儀正しいと考えられています。",,#ff7f50
+N2,https://jlptsensei.com/,とか（で）,,toka (de),"I heard that~
+Verb (casual form) + とか (で)
+Noun + だ + とか (で)
+な-adjective + だ + とか (で)
+い-adjective + とか (で)",1,"アメリカで育ったとかで。
+今度の試験はかなり難しいとかで。
+今夜の花火大会は、雨で中止だとか。",,#ff7f50
+N2,https://jlptsensei.com/,ところだった,,tokoro datta,"was just about to do something; something almost happened
+Verb (dictionary form) + ところだった",1,"危ないところだった。
+ちょうど寝るところだった。
+ああ, もう少しで忘れるところだった。",,#ff7f50
+N2,https://jlptsensei.com/,ところに,,tokoro ni,"at the time; just as I was~
+Verb (た / ている / ていた) + ところに/ところへ/ところを
+Noun + の + ところに/ところへ/ところを
+Adjective + ところに/ところへ/ところを",0,,,#ff7f50
+N2,https://jlptsensei.com/,ところを見ると,ところをみると,tokoro o miru to,"judging from; seeing that~
+Verb (casual) + ところを見ると",1,"彼女はラーメンを食べているところを見ると、ダイエットはやめたんだね。
+顔が赤くなっているところを見ると、私が言ったことは本当だ。
+叱られて何も言わないところを見ると、やっぱり反省しているんだろう。",,#ff7f50
+N2,https://jlptsensei.com/,とも,,tomo,"even if; no matter (who, what, when, where, why, how); though~
+Verb な#い#く + とも
+い-adjective #い#く + とも
+Phrase + とも",1,"え、そうですとも。
+辛くとも、頑張る！
+言わなくとも分かるはず。",,#ff7f50
+N2,https://jlptsensei.com/,としても,,toshitemo,"assuming; even if~
+Verb (casual form) + としても
+Noun + だ + としても
+な-adjective + だ + としても
+い-adjective + としても",1,"今回の試験で不合格になったとしても、諦めずに次回も受験するつもりです。
+たとえ買えるとしても，そんな家は買わないだろう。
+学校を卒業後、国に帰ったとしても、日本語の勉強は続けるつもりです。",,#ff7f50
+N2,https://jlptsensei.com/,つつ,,tsutsu,"while; even though; despite~
+Verb #ます# (stem form) + つつ (も)",1,"彼は時々車を運転しつつ、電話をする。
+健康に良くないとは知りつつ、タバコがやめられない。
+ダイエットしようと思いつつ、甘いものを見ると食べてしまう。",,#ff7f50
+N2,https://jlptsensei.com/,つつある,,tsutsu aru,"to be doing; to be in the process of doing~
+Verb #ます# (stem form) + つつある",1,"スマホの登場で、デジタルカメラの人気がなくなりつつある。
+最近はゴルフをしていないので、下手になりつつあります。
+日本は高齢化が進みつつある。",,#ff7f50
+N2,https://jlptsensei.com/,上は,うえは,ue wa,"now that; since; as long as~
+Verb (dictionary form) + 上は
+Verb (た form) + 上は",1,"約束した上は、どんなことがあっても守ります。
+プロ選手になると決めた上は、苦しくても頑張らなければならない。
+N2を受験する上は、高得点で合格したいです。",,#00fa9a
+N2,https://jlptsensei.com/,はもとより,,wa moto yori,"also; let alone; from the beginning
+Noun + は + もとより + ~も",1,"私は車はもとより自転車もないんです。
+見た目はもとより味も最高ですよ！
+キャベツはサラダで食べるのはもとより、炒めても美味しい。",,#ee82ee
+N2,https://jlptsensei.com/,はともかく,,wa tomokaku,"anyhow; anyway; regardless; in any case; whether or not~
+Noun + はともかく (として)",1,"行くか行かないかはともかく、レストランの予約だけはしておこう。
+この店の品物は、質はともかく種類は多い。
+奥さんの料理は見た目はともかく味は美味しい。",,#ee82ee
+N2,https://jlptsensei.com/,やら～やら,,yara~yara,"such things as A and B; A and B and so on~
+Verb (dictionary)	+ やら + [B]やら
+Noun + やら + [B]やら
+い-adjective + やら + [B]やら",0,,,grey
+N2,https://jlptsensei.com/,よりほかない,,yori hoka nai,"to have no choice but~
+Verb (dictionary) (より) ほか (は) ない/(より) ほか (しかたが) ない",1,"この仕事は君に信頼するよりほかはない。
+バスがないので、歩いていくよりほか仕方がない。
+頼れる人はいないから、自分がやるよりほか仕方がない。",,grey
+N2,https://jlptsensei.com/,ようでは,,you dewa,"if~ (bad result)
+Verb (casual form) + ようでは + bad result",1,"この問題が分からないようではN２には合格できないよ。
+試験の前の日に勉強を始めるようでは、合格はできない。
+この問題が解決できないようでは困るよ。",,grey
+N2,https://jlptsensei.com/,ようではないか,,you dewa nai ka,"let’s do (something); why don’t we~
+Verb (volitional form) + ではないか/じゃないか",1,"困った時はお互いに助け合っていこうではありませんか。
+日本語を身につけるために頑張ろうではないか。
+今日はお祝いだ。みんなで飲もうではないか。",,grey
+N2,https://jlptsensei.com/,ようか～まいか,,you ka~mai ka,"whether or not; considering options
+V (volational) + か	V + まいか
+
+Special rules for 2nd verb
+Ru-verb: dictionary form OR #ます# + まい
+U-verb: dictionary form + まい
+くる: こまい / くるまい
+する: しまい / すまい / するまい",0,,,grey
+N2,https://jlptsensei.com/,ざるを得ない,ざるをえない,zaru o enai,"cannot help (doing); have no choice but to~
+Verb (ない form) #ない# + ざるを得ない
+Exception: しない => せ",1,"こういう事を認めざるを得なかった。
+同意せざるを得ないだろうね。
+わたしたちは、新工場計画を廃止せざるを得なかった。",,#add8e6
+N2,https://jlptsensei.com/,ずに済む,ずにすむ,zu ni sumu,"get by without doing~
+Verb (ない form) #ない# + ずに済む
+Exception: する => せずに済む",1,"今年は涼しかったので、エアコンを使わずに済みました。
+ここでは1日中雨が降らずに済むことはほとんどない。
+損をせずに済んだ。",,#add8e6
+N3,https://jlptsensei.com/,上げる,あげる,ageru,"to finish doing~
+Verb ます (stem form) + あげる/あがる",1,"彼女は小説を書き上げた。
+みんなの意見を取り入れて、とてもいいプランが出来上がった。
+この粉を練り上げると、おいしい和菓子になります。",,#800000
+N3,https://jlptsensei.com/,あまり,,amari,"so much… that
+Verb (dictionary form) + あまり
+Verb (casual, past) + あまり
+Noun + の + あまり",1,"嬉しさのあまり、彼女は涙を流しました。
+プレゼンのとき、緊張のあまり間違えてしまった。
+父は娘を心配するあまり、倒れてしまった。",,#800000
+N3,https://jlptsensei.com/,あまりにも,,amari ni mo,"too much; so much… that; excessively~
+あまりに(も) + Verb
+あまりに(も) + Adverb
+あまりに(も) + Adjective
+あまりの + Noun",1,"最近あまりに暑すぎる。
+彼はあまりにも変わった。
+あまりにも人数が多いので、彼に気付かなかった。",,#800000
+N3,https://jlptsensei.com/,合う,あう,au,"do something together
+Verb #ます# (stem form) + 合う/あう",1,"彼女は仲間とうまく付き合っている。
+私たちはお互い助け合うべきだ。
+チームだから、困った時は助け合いましょう。",,#800000
+N3,https://jlptsensei.com/,ばいい,,ba ii,"should, can, it’d be good if~
+Verb (ば conditional form) + いい",1,"どうすればいいですか？
+何を歌えばいいですか。
+もう少し雨が降ればいいな。",,#808000
+N3,https://jlptsensei.com/,ばよかった,,ba yokatta,"should have; would have been better if~
+Verb (ば conditional form) + よかった (のに)",1,"そうすればよかった。
+傘を持ってくればよかった。
+遅刻してしまった。もっと早く家を出ればよかった。",,#808000
+N3,https://jlptsensei.com/,ば～ほど,,ba~hodo,"the more… the more
+Verb (ば conditional form) + same Verb + ほど
+な-adjective + なら + same な-adj + なほど
+い-adjective #い# + ければ + same い-adj + ほど",1,"ビートルズの音楽は聞けば聞くほど好きになります。
+考えれば考えるほどわからなくなる。
+パソコンは操作が簡単なら簡単なほどいいです。",,#808000
+N3,https://jlptsensei.com/,ば～のに,,ba~noni,"would have; should have; if only~
+Verb (conditional form) + clause + のに
+Noun + なら + clause + のに
+な-adjective + なら + clause + のに
+い-adjective + #い#ければ + clause + のに",1,"このかばん、欲しいけど高いなあ。もっと安ければいいのに。
+もうちょっと早く来れば、大好きなアイドルが見えるのに。
+日本語がもっと上手なら、仕事が見つけれるのになあ。",,#808000
+N3,https://jlptsensei.com/,ばかりで,,bakari de,"only; just (negative description)
+Verb (casual) + ばかりで
+な-adjective + な + ばかりで
+い-adjective + い + ばかりで",1,"夏は暑いばかりで楽しくないですよ。
+うちの子は毎日遊んでいるばかりで勉強をしない。
+あの人は背が高いばかりで、あまり力はない。",,#808000
+N3,https://jlptsensei.com/,ばかりでなく,,bakari denaku,"not only.. but also; as well as~
+Verb (casual) + ばかりでなく… (も)
+Noun + ばかりでなく… (も)
+な-adjective + な + ばかりでなく… (も)
+い-ajective + い + ばかりでなく… (も)",1,"このマンションは狭いばかりでなく、暗いです。
+彼は歌ばかりでなくダンスも上手です。
+うちの子は6歳なのに日本語ばかりでなく英語まで喋れるよ。",,#808000
+N3,https://jlptsensei.com/,べきだ,,beki da,"should do; must do~
+Verb (dictionary form) + べき (だ)
+Special verb + べき (だ)
+する OR す#る# + べき (だ)
+な-adjective + である + べき (だ)
+い-adjective #い# + くある + べき (だ)",1,"私はそれについてもっと知るべきだ。
+おもちゃは、先ず安全であるべきです。
+早く帰宅すべきだ。",,#808000
+N3,https://jlptsensei.com/,べきではない,,beki dewa nai,"should not do~; must not do~
+Verb (dictionary form) + べきではない
+Special verb: する/す#る#  + べきではない
+な-adjective + である + べきではない
+い-adjective + いくある + べきではない",1,"そんなことをすべきではない。
+寝る前にアイスを食べるべきではない。
+私達は遅く寝るべきではありません。",,#808000
+N3,https://jlptsensei.com/,別に～ない,べつに～ない,betsu ni~nai,"not really, not particularly
+別に + Verb (ない form)
+別に + Noun + ではない
+別に + な-adjective + ではない
+別に + い-adjective + #い#くない",1,"それは別に悪いことでもない。
+別に彼のために作ったわけではない。
+この仕事には別に期限はない。",,#808000
+N3,https://jlptsensei.com/,ぶりに,,buri ni,"for the first time in (period of time)
+Noun (measurement of time) + ぶり (に)",1,"今日、やく2週間ぶりに雨が降った。
+この街に帰ってくるのはもう１０年ぶりだなあ。
+先週からずっと雨が降った。一週間ぶりにようやく晴れてきた。",,#808000
+N3,https://jlptsensei.com/,中,ちゅう,chuu/juu,"currently; during; at some point; throughout; before the end of~
+Noun + 中",1,"私は一晩中泣いていた。
+午前中がいちばん調子がいいです。
+英語は世界中で話されています。",,#483d8b
+N3,https://jlptsensei.com/,だけでなく,,dake de naku,"not only… but also
+Verb (dictionary form) + だけでなく
+Noun (である) + だけでなく
+な-adjective + な/である + だけでなく
+い-adjective + だけでなく",1,"ここのレストランはどれも安いだけでなく、美味しい。
+君だけでなく僕も悪かった。
+彼女は日本語が上手なだけでなく、英語もペラペラだ。",,#008000
+N3,https://jlptsensei.com/,どんなに～ても,,donna ni~temo,"no matter how (much)
+どんなに + Verb (ても form)
+どんなに + Noun + でも
+どんなに + な-adjective + でも
+どんなに + い-adjective + #い#くても",1,"どんなに頑張っても、70点しか取れなかった。
+どんなに苦しくても最後まで走り抜くつもりだ。
+どんなに暑くても寝る時はクーラーを消して寝る。",,#008000
+N3,https://jlptsensei.com/,ふりをする,,furi o suru,"to pretend; to act as if~
+Verb (casual) + ふりをする
+Noun + の + ふりをする
+な-adjective + な + ふりをする
+い-adjective + ふりをする",1,"彼は聞こえないふりをした。
+宿題をし終わったふりをしてテレビを見ている。
+山田さんは独身のふりをしているが、結婚していて２人も子供がいる。",,#4682b4
+N3,https://jlptsensei.com/,がち,,gachi,"tend to; tendency to; frequently; often; to do something easily
+Noun + がち
+Verb #ます# (stem form) + がち",1,"私は、仕事でミスしがちです。
+ずっと曇りがちの天気が続いている。
+パソコンの使いすぎで目が疲れがちです。",,#000080
+N3,https://jlptsensei.com/,がたい,,gatai,"very difficult to; hard to~
+Verb #ます# (stem form) + がたい",1,"信じがたいことだが、これは事実だ。
+許しがたいことです。
+彼の話は信じがたい内容でした。",,#000080
+N3,https://jlptsensei.com/,気味,ぎみ,gimi,"-like; -looking; -looked; tending to~
+Verb #ます# (stem form) + 気味/ぎみ
+Noun + 気味/ぎみ",1,"彼は人の名前を忘れ気味である。
+私も最近太り気味なので、運動しないといけません。
+本日の株価は下がり気味です。",,#000080
+N3,https://jlptsensei.com/,ごとに,,goto ni,"each; every; at intervals of~
+Verb (dictionary form) + ごとに
+Noun + ごとに",1," オリンピックは４年ごとに開催される。
+彼は6か月ごとに新作の小説を出している。
+このフェリーは３０分ごとに通っている。",,#000080
+N3,https://jlptsensei.com/,程,ほど,hodo,"degree; extent; bounds; upper limit
+Verb (casual, non-past) + 程/ほど
+Noun + 程/ほど
+な-adjective + な + 程/ほど
+い-adjective + 程/ほど",1,"君ほど美しい人はいません！
+死ぬほどのどがかわいている。
+今年ほど雨の降った年はなかった。",,#9acd32
+N3,https://jlptsensei.com/,ほど～ない,,hodo~nai,"is not as… as~
+Noun + ほど + Verb (ない form)
+Noun + ほど + Adjective (ない form)",1,"彼女ほど優しい人はいない。
+英語の文法は日本語ほど難しくありません。
+東京ほど家賃の高いところはない。",,#9acd32
+N3,https://jlptsensei.com/,いくら～ても,,ikura~temo,"no matter how~
+いくら + Verb (ても form)
+いくら + Noun + でも
+いくら + な-adjective + でも
+いくら + い-adjective + #い#くても",1,"お金はいくらあっても困りません。
+これはいくら安くても、買いたくない。
+いくら調べても分からなかったので、先生に聞いた。",,#8fbc8f
+N3,https://jlptsensei.com/,一方だ,いっぽうだ,ippou da,"more and more; continue to~
+Verb (dictionary form)	+ 一方だ",1,"最近、この町の人口は減る一方だ。
+日本に来る外国人の数は増える一方だ。
+交通事故は増える一方だ。",,#8fbc8f
+N3,https://jlptsensei.com/,じゃない,,janai,"maybe; most likely; confirmation of information; express surprise towards listener
+Phrase + じゃない",1,"ちょっと！危ないじゃない。
+リモコン？テーブルの上にあるんじゃない？
+明日雨が降るんじゃないかと心配だ。",,#8b008b
+N3,https://jlptsensei.com/,か何か,かなにか,ka nani ka,"or something~
+Noun + か何か",1,"彼は病気か何かだろう。
+帰りは寒いから上着か何か持っていった方がいいよ 。
+昼ご飯はサンドイッチか何かを作ってあげましょうか。",,#b03060
+N3,https://jlptsensei.com/,かける,,kakeru,"half-; not yet finished; in the middle of~
+Verb #ます# (stem form) + かける/かけの",1,"お風呂に入りかけたときに電話が鳴った。
+この本はまだ読みかけだ。
+テーブルの上に食べかけのケーキが置いてある。",,#b03060
+N3,https://jlptsensei.com/,から〜にかけて,,kara~ni kakete,"through; from [A] to [B]
+Noun-1 + から + Noun-2 + にかけて",1,"東京から京都にかけて新幹線で行くのは何時間かかるの？
+午後から夕方にかけて昼寝をした。
+日本では、大学の入学試験は、普通２月から３月にかけて行われる。",,#b03060
+N3,https://jlptsensei.com/,代わりに,かわりに,kawari ni,"instead of; as a substitute for; in exchange for; in return for
+Verb (casual) + 代わりに
+Noun + の + 代わりに
+その + 代わりに",1,"私が部長の代わりに出張に行きます。
+今朝はコーヒーの代わりにお茶を飲んだ。
+お箸がないので、その代わりにフォークを使う。",,#b03060
+N3,https://jlptsensei.com/,結果,けっか,kekka,"as a result of; after~
+Verb (casual, past) + 結果/けっか
+Noun + の + 結果/けっか
+その + 結果/けっか",1,"彼は仕事をサボった結果として首になった。
+みんなで相談した結果、今回は参加しないことにした。
+ほとんど勉強をしなかった。その結果、試験に落ちてしまった。",,#b03060
+N3,https://jlptsensei.com/,決して～ない,けっして～ない,kesshite~nai,"never; by no means~
+決して + Verb (ない form)
+決して + Noun + ではない
+決して + な-adjective + ではない
+決して + い-adjective + #い#くない",1,"あなたのことは決して忘れません。
+私は決して夢をあきらめない。
+この部屋には決して入ってはいけませんよ。",,#b03060
+N3,https://jlptsensei.com/,切れない,きれない,kirenai,"unable to do; too much to finish/complete
+Verb #ます# (stem form) + 切れない",1,"この部屋に100人は入り切れない。
+彼は使い切れないほど金がある。
+このお酒は強すぎて、飲み切れなかった。",,#b03060
+N3,https://jlptsensei.com/,きり,,kiri,"only; just; since; after~
+Verb (た form) + きり/っきり
+Noun + きり/っきり",1,"私は一人きりで暮らすのは嫌だ。
+二人っきりで話をしたいです。
+彼女とは別れたきり、一度も会っていない。",,#b03060
+N3,https://jlptsensei.com/,切る,きる,kiru,"to do something completely to the end
+Verb #ます# (stem form) + 切る/切れる",1,"今日はもう魚を全部売り切れた。
+どんなに食べ物が多くても食べ切れるぐらいお腹すいた。
+10キロを走り切るのはすごく大変なことだ。",,#b03060
+N3,https://jlptsensei.com/,っけ,,kke,"a casual suffix to confirm something you are trying to remember
+Verb + っけ
+Noun + (だ / だった) + っけ
+な-adjective + (だ / だった) + っけ
+い-adjective #い# + かった + っけ",1,"次のテストっていつだっけ？
+自己紹介したっけ？
+何の話をしていたっけ？",,#b03060
+N3,https://jlptsensei.com/,込む,こむ,komu,"to do something for a long time or to move something inside
+Verb #ます# (stem form) + 込む/こむ",1,"この紙に必要な情報を書き込んでください。
+あなたの口座にお金を振り込んだよ。
+すみません、この商品をどこに入れ込んだほうがいいですか。",,#b03060
+N3,https://jlptsensei.com/,こそ,,koso,"for sure (emphasize preceding word); precisely; definitely~
+Noun + こそ",1,"こちらこそありがとうございます。
+健康こそが、私の一番の財産だ。
+ゆっくりした方法こそ安全な方法だ。",,#b03060
+N3,https://jlptsensei.com/,ことから,,koto kara,"from the fact that~
+Verb (casual) + ことから
+Noun + である/だった + ことから
+な-adjective + である/だった + ことから
+い-adjective + ことから",1,"道路が濡れていることから、雨が降ったということが分かる。
+教室で席が隣だったことから友人になった。
+日本語能力試験のN3に合格していないことから、彼は日本に行くことができない。",,#b03060
+N3,https://jlptsensei.com/,ことになっている,,koto ni natteiru,"to be expected to; to be scheduled to; it has been decided as a rule that
+Verb (dictionary form)
+Verb (ない form) + ことになっている
+Noun + という + ことになっている",1,"この図書館では2週間まで本が借りられることになっています。
+日本では、車は左側を走ることになっている。
+授業中は、携帯電話を使ってはいけないことになっている。",,#b03060
+N3,https://jlptsensei.com/,ことはない,,koto wa nai,"there is no need to; (something) never happens; there is no possibility that~
+Verb (dictionary form) + ことはない",1,"謝ることはないよ。
+明日のテストは簡単だから、心配することはないよ。
+何も怖がることはない。",,#b03060
+N3,https://jlptsensei.com/,こと,,koto2,"(must) do
+Verb (dictionary form) + こと
+Verb (ない form) + こと",1,"大声を出さないこと。
+休むときは、必ず学校に連絡すること。
+どうしても必要な場合以外には使わないこと。",,#b03060
+N3,https://jlptsensei.com/,くらい・ぐらい,,kurai/gurai,"approximately; about; around; to the extent~
+Verb (casual form) + くらい/ぐらい
+Noun + くらい/ぐらい
+な-adjective + な + くらい/ぐらい
+い-adjective + くらい/ぐらい",1,"今は100人くらいが部屋にいる。
+彼女が私と同じくらい背が高いんだ。
+カレーが大好き。毎日食べたいくらいだ。",,#b03060
+N3,https://jlptsensei.com/,くせに,,kuse ni,"and yet; although; despite the fact that~
+Verb (dictionary form) + くせに
+Noun + の + くせに
+な-adjective + な + くせに
+い-adjective + くせに",1,"背が高いくせに早く走れない。
+元気なくせに、病気のふりをしている。
+医者でもないくせに。",,#b03060
+N3,https://jlptsensei.com/,まるで,,maru de,"as if; as though; just like~
+まるで + Verb (casual form) + よう
+まるで + Noun + のよう",1,"合格した！まるで夢のようだ。
+すごい！まるで魔法のようだ！
+あの女の人は、美しくて、優しくて、まるで天使のようだ。",,#ffa500
+N3,https://jlptsensei.com/,まさか,,masaka,"there's no way; that's impossible; you must be joking
+まさか + Negative clause",1,"まさかそうなるとは思わなかった。
+僕はまさかそんなことはできないよ。
+私はまさかここで彼に会えるとは思わなかった。",,#ffa500
+N3,https://jlptsensei.com/,滅多に～ない,,metta ni~nai,"hardly; rarely; seldom
+めったに + Verb (ない form)
+Noun + は + めった/滅多に + ない",1,"彼はめったに本を読まない。
+このところでは滅多に雪が降りません。
+こんなチャンスは滅多にないよ。",,#ffa500
+N3,https://jlptsensei.com/,も～ば～も,,mo~ba~mo,"and; also; as well; either/or; neither/nor
+Noun-1 + も + Verb (ば form) + Noun-2 + も
+Noun-1 + も + Noun + なら + Noun-2 + も
+Noun-1 + も + な-adj + なら + Noun-2 + も
+Noun-1 + も + い-adj + #い#ければ + Noun-2 + も",,,,#ffa500
+N3,https://jlptsensei.com/,もしかしたら,,moshika shitara,"perhaps; maybe; perchance; by any chance~
+もしかしたら/もしかすると + phrase + かもしれない",1,"もしかしたら、明日行けないかもしれない。
+もしかすると彼の話はうそかもしれない。
+もしかしたら彼は気が変わるかもしれません。",,#ffa500
+N3,https://jlptsensei.com/,もしも〜たら,,moshimo~tara,"if; in the case; supposing~
+もしも + Verb (た form) + ら",1,"もしも明日は晴れたらピクニックに行きましょう。
+もしも日本に行けたら、大阪の友達に会いたいです。
+もしも試験を受けたら、合格したいです。",,#ffa500
+N3,https://jlptsensei.com/,向け,むけ,muke,"intended for; aimed at~
+Noun + 向け/むけ",1,"初心者向けのコースがありますか。
+この映画は子供向けなので、大人は見てもつまらない。
+この家は、部屋が多くて、ファミリー向けだ。",,#ffa500
+N3,https://jlptsensei.com/,向き,むき,muki,"suitable for~
+Noun + 向き/むき",1,"このプレゼントは10歳の女の子向きだ。
+若い女性向きの小説を書いています。
+こういう本は若い読者向きではない。",,#ffa500
+N3,https://jlptsensei.com/,ながらも,,nagara mo,"but; although; despite~
+Verb #ます# (stem form) + ながら (も)
+Verb (て form) + い + ながら (も)
+Noun + ながら (も)
+な-adjective + ながら (も)
+い-adjective + い + ながら (も)",1,"狭いながらも、このマンションは大好きだ。
+残念ながらも、今日のイベントに行けません。
+うちは貧しいながらも、家族の仲がいいし、幸せだ。",,#7cfc00
+N3,https://jlptsensei.com/,ないことはない,,nai koto wa nai,"can do; is not impossible to~
+Verb (ない form) + ことはない
+Noun + ではない/じゃない + ことはない
+な-adjective + ではない/じゃない + ことはない
+い-adjective + #い#くない + ことはない",1,"走れば間に合わないことはないよ。急ごう！
+嬉しくないことはないが、1位が良かった。
+車を運転できないことはないんですが、ほとんどしません。",,#7cfc00
+N3,https://jlptsensei.com/,ないと,,naito,"must do; unless/if you don't~
+Verb (ない form) + と
+Noun + でない / じゃない + と
+な-adjective + でない / じゃない + と
+い-adjective #い# + くない + と",1,"もう行かないと...
+宿題をやらないと。
+もう暗くなって、帰らないと。",,#7cfc00
+N3,https://jlptsensei.com/,直す,なおす,naosu,"to do something again; to do over
+Verb #ます# (stem form) + 直す/なおす",1,"この作文はミスが多いから、書き直したほうがいいよ。
+彼に電話を掛け直すようにお願いしてもらえますか。
+私はその仕事をやり直すことになる。",,#7cfc00
+N3,https://jlptsensei.com/,んだって,,ndatte,"I hear that; heard that~
+Verb (casual) + んだって/んですって
+Noun + な + んだって/んですって
+な-adjective + な + んだって/んですって
+い-adjective + んだって/んですって",1,"彼、彼女ができたんだって。
+試験の範囲は、教科書の100ページから150ページまでなんですって。
+この店のカレー、美味しいんだって。",,#7cfc00
+N3,https://jlptsensei.com/,に違いない,にちがいない,ni chigai nai,"I’m sure/ certain; no doubt that~
+Verb (casual form) + に違いない
+Noun + に違いない
+な-adjective + に違いない
+い-adjective + に違いない",1,"それは痛いに違いない。
+彼はまだ寝ているに違いない。
+トムさんは車を７台も持っているから、お金持ちに違いない。",,#7cfc00
+N3,https://jlptsensei.com/,に反する,にはんする,ni hansuru,"against; contrary to; in contrast to~
+Noun + に反する",1,"彼の話は事実に反する。
+予想に反して彼は成功した。
+それは私の主義に反する。",,#7cfc00
+N3,https://jlptsensei.com/,にかけて,,ni kakete,"over (a period); through~; concerning~; regarding~
+Noun + にかけて (は/も)",1,"テニスにかけては、彼に勝てる人はいない。
+マンガにかけては、私より詳しい人はいません。
+弟は勉強はできないが、泳ぎにかけては誰にも負けない。",,#7cfc00
+N3,https://jlptsensei.com/,に関する / に関して,にかんする / にかんして,ni kan suru/ni kan shite,"about; regarding; related to~
+Noun + に関して (は)/に関する",1,"それに関しては彼は初心者だ。
+配送に関して希望はありますか？
+この本には、交通規則に関することが書いてあります。",,#7cfc00
+N3,https://jlptsensei.com/,にかわって / にかわり,,ni kawatte/ni kawari,"instead of~; replacing~; on behalf of~
+Noun (person) + にかわって/にかわり",1,"弟は、母にかわってご飯を作った。
+部長にかわり、私は会議に参加しました。
+DVDにかわり、ブルーレイが使われるようになった。",,#7cfc00
+N3,https://jlptsensei.com/,に比べて,にくらべて,ni kurabete,"compared to~; in comparison to~
+Noun + に比べて/に比べると/に比べれば/に比べ",1,"昨日に比べて、今日は少し寒いね。
+ロンドンはパリに比べると大きい。
+以前に比べて、彼の日本語は上手になった。",,#7cfc00
+N3,https://jlptsensei.com/,に慣れる,になれる,ni nareru,"to be used to something
+Noun + に慣れる/になれる",1,"私は日本の生活に慣れるまでが大変だった。
+私は早起きするのに慣れていない。
+あなたはすぐに新しい大学生活に慣れるだろう。",,#7cfc00
+N3,https://jlptsensei.com/,において / における,,ni oite/ni okeru,"in; at (place); regarding~; as for~; in relation to~
+Noun + において... /における + Noun",1,"私は全てにおいて頑張ります。
+車内における携帯電話のご利用はご遠慮ください。
+中学校における英語教育は今でも問題だらけだ。",,#7cfc00
+N3,https://jlptsensei.com/,に従って,にしたがって,ni shitagatte,"as; therefore; in accordance with; according to; consequently
+Verb (dictionary form)	+ に従って/にしたがって/に従い/にしたがい
+Noun + に従って/にしたがって/に従い/にしたがい",1,"暗くなるにしたがって、だんだん寒くなってきました。
+年をとるにしたがって、病気になりやすくなります。
+寒くなるに従って風邪を引く人が多くなります。",,#7cfc00
+N3,https://jlptsensei.com/,にしても,,ni shite mo,"even if; even though; regardless of~
+Verb (casual) + にしても
+Noun + (である) + にしても
+な-adjective + (である) + にしても
+い-adjective + にしても",1,"それにしても、日本は良い国ですね！
+何をするにしても、よく考えてから行動しなさい。
+どちらにしても賛成できない。",,#7cfc00
+N3,https://jlptsensei.com/,にしては,,ni shite wa,"for; considering it’s (something or someone)
+Verb (casual) + にしては
+Noun + にしては",1,"今４月にしては、ちょっと暑いですね。
+初めてケーキを作ったにしては、上手にできましたね。
+あの人は５０歳にしては、ずいぶん若く見える。",,#7cfc00
+N3,https://jlptsensei.com/,に対して,にたいして,ni taishite,"towards; against; regarding; in contrast with
+Noun + に対して",1,"彼は女性に対しては優しい。
+お客さんに対して、そのような言葉遣いをしてはいけません。
+私の先生は男の子に対して厳しいが、女の子に対しては優しい。",,#7cfc00
+N3,https://jlptsensei.com/,にとって,,ni totte,"to; for; concerning; as far as ... is concerned; regarding~
+Noun + にとって（は/も）",1,"私にとって、漢字の勉強はとても楽しい。
+家族は私にとって、一番大切な物です。
+水は人間の体にとって必要なものだ。",,#7cfc00
+N3,https://jlptsensei.com/,について,,ni tsuite,"concerning; regarding; about; on~
+Noun + について",1,"この問題についてどう思いますか。
+あなたの国についていろいろと教えてください。
+その事件について、知っていることを全部話してください。",,#7cfc00
+N3,https://jlptsensei.com/,につれて,,ni tsurete,"as; in proportion to; with; as… then~
+Verb (dictionary form) + につれて/につれ
+Noun + につれて/につれ",1,"台風が近づくにつれて、どんどん風が強くなってきた。
+日本語が上手になるにつれて、日本での生活が楽しくなってきた。
+年をとるにつれて、髪の色が白くなるのは普通だ。",,#7cfc00
+N3,https://jlptsensei.com/,には,,ni wa,"for the purpose of; in order to~
+Verb (dictionary form) + には",1,"日本語が上手になるには、どうしたらいいですか。
+図書館の本を借りるには、このカードが必要です。
+JLPT N1に合格するには、どんな勉強が必要でしょうか。",,#7cfc00
+N3,https://jlptsensei.com/,によると /によれば,,ni yoru to/ni yoreba,"according to~
+Noun + によると/によれば",1,"天気予報によると、明日は雨だそうです。
+私の聞いたところによると、彼らは別れそうだ。
+ニュースによれば、近頃物価が上がるそうです。",,#7cfc00
+N3,https://jlptsensei.com/,によって / による,,ni yotte/ni yoru,"by means of; due to; owing to; because of~
+Noun + によって/により/による",1,"関東地方から台風にかけて北海道による被害が広がっています。
+人によって考え方が違う。
+これは有名な作家によって書かれた小説です。",,#7cfc00
+N3,https://jlptsensei.com/,のでしょうか,,no deshou ka,"ask a question in a polite way
+Verb (casual) + のでしょうか/んでしょうか
+Noun + な + のでしょうか/んでしょうか
+な-adjective + な + のでしょうか/んでしょうか
+い-adjective + のでしょうか/んでしょうか",1,"明日は晴れるのでしょうか。
+彼らはそれをどうするつもりなのでしょうか。
+私はそれを待てば良いのでしょうか。",,#7cfc00
+N3,https://jlptsensei.com/,を中心に,をちゅうしんに,o chuushin ni,"focused on; centered on
+Noun + を中心に/を中心とする",1,"文法を中心に、日本語を勉強する。
+私の人生はすべて、家族を中心に回っている。
+午前中は文法を勉強します。午後は会話を中心に勉強することになっています。","
+",#0000ff
+N3,https://jlptsensei.com/,をはじめ,,o hajime,"for example; starting with
+Noun + をはじめ/をはじめとする",1,"東京には東京タワーをはじめ多くの観光地がある。
+この野菜には、ビタミンＣをはじめ、たくさんの栄養素が含まれています。
+東京をはじめ、全国の主要都市で新製品の発売が決まった。",,#0000ff
+N3,https://jlptsensei.com/,を込めて,をこめて,o komete,"filled with; full of
+Noun + を込めて/をこめて",1,"彼女に愛を込めて手紙を書きました。
+平和への願いを込めて、この歌を作りました。
+私は夫のために毎日愛情を込めてお弁当を作っています。",,#0000ff
+N3,https://jlptsensei.com/,を通じて /を通して,をつうじて /をとおして,o tsuujite/o tooshite,"through; via; throughout; by
+Noun + を通じて/を通して",1,"そのことは新聞を通じて知った。
+この駅前広場では年間を通じて様々なイベントが催される。
+二人は大学のサークル活動を通して知り合った。",,#0000ff
+N3,https://jlptsensei.com/,おかげで,,okage de,"thanks to; owing to; because of~
+Verb (casual) + おかげで
+Noun + の + おかげで
+な-adjective + な + おかげで
+い-adjective + おかげで",1,"彼女のおかげで、私は毎日幸せだ。
+日本へ来たおかげで、日本語が上手になりました。
+先生のおかげでJLPT N3に合格できました。",,#0000ff
+N3,https://jlptsensei.com/,っぱなし,,ppanashi,"leaving (something) on; leaving (something) still in use
+Verb #ます# (stem form) + っぱなし",1,"このドアはいつも開けっぱなしだ。
+水を出しっぱなしにしないでください。
+窓を開けっぱなしで出てきた。",,#ff1493
+N3,https://jlptsensei.com/,っぽい,,ppoi,"seems like; somewhat~; -ish; easily does~; often does~
+Verb #ます# (stem form) + っぽい
+Noun + っぽい
+い-adjective #い# + っぽい",1,"油っぽい食事は好きじゃない。
+私はあなたの子供っぽいところが好きです。
+あの小学生は、大人っぽい。",,#ff1493
+N3,https://jlptsensei.com/,さえ,,sae,"even; so much as; not even
+Noun + (で) さえ (も)",1,"そんなこと、子供でさえ知っている。
+忙しすぎて、ご飯を食べる時間さえない。
+のどが痛くて、水さえ飲めない。",,#8a2be2
+N3,https://jlptsensei.com/,さえ～ば,,sae~ba,"if only; as long as
+Verb #ます# (stem form) + さえすれば/さえいれば/さえ + Verb (ば form)
+Verb (て form) + さえすれば/さえいれば/さえ + Verb (ば form)
+Noun + さえすれば/さえいれば/さえ + Verb (ば form)",0,,,#8a2be2
+N3,https://jlptsensei.com/,際に,さいに,sai ni,"when; at the time of; in the case of~
+Verb (dictionary form) + 際に (は)/際は
+Verb (た form) + 際に (は)/際は
+Noun + の + 際に (は)/際は
+この・その・あの + 際に (は)/際は",1,"あなたが日本へ来る際には連絡ください。
+お帰りの際には忘れ物のないようご注意ください。
+お困りの際は、いつでもご連絡ください。",,#8a2be2
+N3,https://jlptsensei.com/,最中に,さいちゅうに,saichuu ni,"while; during; in the middle of~
+Verb (ている form) + 最中に/最中だ
+Noun + の + 最中に/最中だ",1,"食事の最中に大きな地震が起こった。
+私はテニスの最中に自分で怪我をしてしまった。
+私はパリを旅行している最中に彼女に会いました。",,#8a2be2
+N3,https://jlptsensei.com/,さて,,sate,"conjunction: well; now; then~
+さて + clause",1,"さて本論に戻りたいと思います。
+さてさて、やっかいな事になったものだ。
+さてやってみるとなるとなかなか難しいものだ。",,#8a2be2
+N3,https://jlptsensei.com/,せいで,,sei de,"because of; due to; as a result of~
+Verb (casual) + せい (で/に)
+Noun + の + せい (で/に)
+Adjective + せい (で/に)",1,"さっきコーヒーを飲んだせいで、なかなか寝られません。
+頭が痛い。疲れたせいかな。
+バスが遅れたせいで、授業に遅れてしまった。",,#8a2be2
+N3,https://jlptsensei.com/,しかない,,shikanai,"have no choice but~
+Verb (dictionary form) + しかない",1,"卒業できなかったから、バイトをするしかない。
+パソコンが直せないから、新しいのを買うしかなかった。
+電車もバスも止まってしまったから、歩くしかない。",,#8a2be2
+N3,https://jlptsensei.com/,そうもない /そうにない,,sou mo nai/sou ni nai,"very unlikely to~; showing no signs of~
+Verb #ます# (stem form) +そうもない/そうにない",1,"先生、明日までに宿題ができそうにないんですが、もう少し待っていただけませんか。
+そんなことは起りそうもないですね。
+このプロジェクトは一人のカでは完成できそうにない。",,#8a2be2
+N3,https://jlptsensei.com/,たものだ,,ta mono da,"used to do; would often do
+Verb (た form) + ものだ",1,"若いころはゲームセンターによく行ったものだけど、最近は行かなくなった。
+高校生の時は、よく友達とサッカーをしたものだ。
+子供の頃は寝る前に母はいつも本を読んでくれたものだ。",,#ff7f50
+N3,https://jlptsensei.com/,たとたん,,ta totan,"as soon as; just as~
+Verb (た form) + とたん",1,"家を出たとたん、雨が降ってきた。
+旅行から帰ってきたとたん、風邪を引いてしまった。
+その二人は、出会ったとたんに、恋に落ちたそうです。",,#ff7f50
+N3,https://jlptsensei.com/,たびに,,tabi ni,"whenever; every time~
+Noun + の + たびに
+Verb (dictionary form) + たびに",1,"この曲を聞くたびに、家族を思い出す。
+友人は旅行のたびにお土産を買ってきてくれます。
+あの人を会うたびに用事を頼まれる。",,#ff7f50
+N3,https://jlptsensei.com/,ために,,tame ni,"for; in order to; for the benefit of; because of; as a result of~
+Verb + ため (に)
+Noun + の + ため (に)
+な-adjective + な + ため (に)
+い-adjective + ため (に)",1,"日本へ旅行をするために、貯金しています。
+私の父は東京に行ったため、ここにはいない。
+今度の面接のために、このスーツを買いました。",,#ff7f50
+N3,https://jlptsensei.com/,たて,,tate,"just done; freshly done; newly done
+Verb #ます# (stem form) + たて",1,"焼きたてのパンは美味しいよ。ちょっと食べてみる？
+あのスーパーは取りたての新鮮な野菜を売っている。
+やっぱり料理はできたてが美味しいね。",,#ff7f50
+N3,https://jlptsensei.com/,たとえ～ても,,tatoe~temo,"even if… is the case
+たとえ + Verb (て form) + も
+たとえ + Noun + でも
+たとえ + な-adjective + でも
+たとえ + い-adjective #い# + くても",1,"たとえ彼は忙しくても来るよ。
+たとえ明日雨が降っても私は出かけるつもりです。
+たとえ君が何を言っても私の気持ちは変わらない。",,#ff7f50
+N3,https://jlptsensei.com/,たって,,tatte,"even if; even though; no matter how~
+Verb (casual, past) + って
+Noun + だ + って
+な-adjective + だ + って
+い-adjective + いく（っ）た + って",1,"タクシーに乗ったって間に合わないよ。
+いくら広くたって、駅から遠い部屋には住みたくない。
+今回のテストは失敗したって、また次のテストを頑張ればいいだよ。",,#ff7f50
+N3,https://jlptsensei.com/,てばかりいる,,te bakari iru,"only; nothing but~
+Verb (て form) + ばかりいる",1,"この猫は寝てばかりいます。
+最近彼はコンピューターを使ってばかりいる。
+息子は仕事もしないで遊んでばかりいます。",,#ff7f50
+N3,https://jlptsensei.com/,てごらん,,te goran,"(please) try to; (please) look
+Verb (て form) + ごらん(なさい)",1,"その言葉を辞書で調べてごらんなさい。
+苦くないからちょっと飲んでごらん。
+分からなかったら、先生に聞いてごらん。",,#ff7f50
+N3,https://jlptsensei.com/,てはじめて,,te hajimete,"not until; only after [x] did I
+Verb (てform) + はじめて",1,"日本に来てはじめてラーメンを食べた。
+日本語を勉強してはじめて、勉強の楽しさが分かった。
+試験に落ちてはじめて、ちゃんと勉強しないといけないと思った。",,#ff7f50
+N3,https://jlptsensei.com/,てからでないと,,te kara de nai to,"must first do; cannot do without first doing~
+Verb (て form) + からでないと/からでなければ",1,"手続きしてからでないと、図書館の本は借りられない。
+親の許可をもらってからでなければ、日本への留学が出来ない。
+この資料を完成させてからでなければ、今日は帰ることができません。",,#ff7f50
+N3,https://jlptsensei.com/,てしょうがない・てしかたがない,,te shou ga nai/te shikata ga nai,"can't help but~; very; extremely
+Verb (て form) + しょうがない/しかたがない
+な-adjective + で + しょうがない/しかたがない
+い-adjective + #い#くて + しょうがない/しかたがない",1,"そこへ行ってもしかたがない。
+こんなことをしていても仕方がないだろう。
+どうにもならないことを、悩んでいてもしょうがないよ。",,#ff7f50
+N3,https://jlptsensei.com/,て済む,てすむ,te sumu,"sufficient by; no problem to; resolve by~
+Verb (て form) + 済む
+Noun + で + 済む
+な-adjective + で + 済む
+い-adjective + #い#くて + 済む",1,"その夜は何の事故もなくて済んだ。
+金で済む事ならいくらでも出す。
+少しお時間いただけませんか、５分で済みますから。",,#ff7f50
+N3,https://jlptsensei.com/,てはいけないから,,te wa ikenai kara,"in order to not~; to prevent a negative situation
+Verb (て form) + は + いけないから
+Verb (dictionary form) ＋と + いけないから",1,"雨が降るといけないから傘を持って行きなさい。
+彼が怒ってはいけないから本当の事は言わなかった。
+風邪を引くといけないから、マフラーをして出かけなさい。",,#ff7f50
+N3,https://jlptsensei.com/,ている場合じゃない,ているばあいじゃない,teiru baai janai,"this is no time to be doing~
+Verb (て form) + いる	+ 場合じゃない/場合ではない",1,"今は笑っている場合ではない。
+今、ゆっくり休んでいる場合じゃないぞ！やることがたくさんあるんだ。
+もうすぐ大学の試験でしょう。今は遊んでいる場合じゃないよ。",,#ff7f50
+N3,https://jlptsensei.com/,的,てき,teki,"change noun into na-adjective (-ish; -like; -ish)
+Noun + 的/てき",1,"これは政治的な集会だ。
+彼女は金銭的な理由で退学しました。
+健康的にこういう食べ物は体に良くないよ。",A-NA rule cant be found by teki name,#ff7f50
+N3,https://jlptsensei.com/,ても始まらない,てもはじまらない,temo hajimaranai,"even if you... it’s no use; there is no point to~
+Verb (て form) + も + 始まらない",1,"今さらそんなことを言っても始まらない。
+待っていても始まらないので、もう帰りましょう。
+その件は話し合っても始まらない。",,#ff7f50
+N3,https://jlptsensei.com/,てもかまわない,,temo kamawanai,"it doesn't matter if ~
+Verb (て form) + もかまわない
+い-adjective #い# + くて + もかまわない
+な-adjective + で + もかまわない
+Noun + で + もかまわない",1,"雨が降っても構わない。
+今帰っても構いませんか？
+間違いをしても構わない。",,#ff7f50
+N3,https://jlptsensei.com/,てもしょうがない / ても仕方がない,てもしょうがない / てもしかたがない,temo shou ga nai/temo shikata ga nai,"there's no point to~; it's no use to~; it cannot be helped
+Verb (て form) + も + しょうがない/しかたがない
+な-adjective + でも + しょうがない/しかたがない
+い-adjective + #い#く + しょうがない/しかたがない",1,"そこへ行ってもしかたがない。
+こんなことをしていても仕方がないだろう。
+どうにもならないことを、悩んでいてもしょうがないよ。",,#ff7f50
+N3,https://jlptsensei.com/,と言えば,といえば,to ieba,"speaking of; when you talk of; when you say; if it were the case that~
+Noun + と言えば/といえば",1,"ベトナムと言えば、バイクが多いですね。
+大阪の食べ物と言えば、たこ焼きです。
+本と言えばこれを読んだか？",,#ff7f50
+N3,https://jlptsensei.com/,といい / たらいい,,to ii/tara ii,"it would be nice if; should; I hope~
+Verb (casual) + と + いい
+Verb (た form) + ら + いい",1,"勉強に疲れたら、チョコレートを食べるといいですよ。
+もう少し給料を上げてくれたらいいのだが。
+ダイエットをしてから少し痩せてきたが、もっと体重が減ったらいいのに。",,#ff7f50
+N3,https://jlptsensei.com/,といっても,,to ittemo,"although I say; although one might say~
+Verb (casual form) + と言っても/といっても
+Noun + (だ) + と言っても/といっても
+な-adjective + (だ) + と言っても/といっても
+い-adjective + と言っても/といっても",1,"今週は忙しい、といっても先週ほどじゃない。
+私は料理ができるといっても、卵焼きぐらいです。
+会社の社長といっても、社員は４人だけですよ。",,#ff7f50
+N3,https://jlptsensei.com/,ということだ,,to iu koto da,"I heard~; it means that~; in other words~
+Verb (dictionary form) + ということだ/とのことだ/ってことだ
+Noun + (だ) + ということだ/とのことだ/ってことだ
+な-adjective + (だ) + ということだ/とのことだ/ってことだ
+い-adjective + い + ということだ/とのことだ/ってことだ",1,"ニュースによると、明日は雨が降るということだ。
+先ほど、山田さんから電話があって、少し遅れるとのことです。
+彼の姿は今日も見えない。つまりまたサボったってことだ。",,#ff7f50
+N3,https://jlptsensei.com/,というのは,,to iu nowa,"this means; the meaning of … is; because; that is to say~
+Phrase + というのは + reason/explanation/definition
+Noun + というのは + reason/explanation/definition",1,"「コンビニ」というのはコンビニエンスストアのことだ。
+「パソコン」というのはパーソナルコンピューターの略だ。
+禁煙というのはたばこを吸ってはいけないということです。",,#ff7f50
+N3,https://jlptsensei.com/,と言うと,というと,to iu to,"speaking of; when you talk of; when you say~
+Noun + と言うと/というと",1,"桜というと、花見だ。
+人気があるアニメというと、ワンピースだ。
+日本料理というと、すしが一番有名だ。",,#ff7f50
+N3,https://jlptsensei.com/,というより,,to iu yori,"rather than~
+Verb (casual) + というより (も/は)
+Noun + というより (も/は)
+な-adjective + というより (も/は)
+い-adjective + というより (も/は)",1,"彼はかっこいいというよりかわいい。
+私はあなたが許せないというよりは、自分が許せない。
+うちの子はこれができないというより、やる気がないと思う。",,#ff7f50
+N3,https://jlptsensei.com/,とみえる / とみえて,,to mieru/to miete,"it seems that~
+Verb (casual) + と見える/とみえる/とみえて
+Noun + だ + と見える/とみえる/とみえて
+な-adjective + だ + と見える/とみえる/とみえて
+い-adjective + と見える/とみえる/とみえて",0,,,#ff7f50
+N3,https://jlptsensei.com/,とすれば・としたら・とすると,,to sureba/to shitara/to suru to,"in the case of~; assuming~; if A then B
+Verb (casual) + とすれば/としたら/とすると
+Noun + だ + とすれば/としたら/とすると
+な-adjective + だ + とすれば/としたら/とすると
+い-adjective + とすれば/としたら/とすると",0,,,#ff7f50
+N3,https://jlptsensei.com/,と共に,とともに,to tomo ni,"together with; at the same time as; as well as~
+Verb (dictionary form) + と共に
+Noun + と共に",1,"私の人生は、ギターと共にある。
+春が近づくと共に、少しずつ暖かくなってきた。
+私は政府と共に仕事をする。",,#ff7f50
+N3,https://jlptsensei.com/,途中で/途中に,とちゅうで/とちゅうに,tochuu de/tochuu ni,"on the way; in the middle of~
+Verb (dictionary form) + 途中 + で/に
+Noun + の + 途中 + で/に",1,"ごはんを食べている途中に電話がかかってきた。
+私は駅から学校に行く途中で先生に会った。
+彼女はテーブルまで行く途中で転んでしまった。",,#ff7f50
+N3,https://jlptsensei.com/,ところで,,tokoro de,"by the way~
+ところで + new topic",1,"ところで、今どこにいるの？
+ところで大阪に行ったことある？
+もうすぐ卒業ですね。ところで、就職はどうしますか。",,#ff7f50
+N3,https://jlptsensei.com/,ところが,,tokoro ga,"even so; however; even though~
+Expectation + ところが + result",1,"今日は晴れだと思っている。ところが、雨だ。
+昨夜はコンサートに行くつもりだった。ところが病気で行けなくなった。
+私はチームの勝利を信じていた。ところが、負けてしまった。",,#ff7f50
+N3,https://jlptsensei.com/,とおりに,,toori ni,"in the same way as; in the way; as~
+Verb (dictionary form) + とおりに
+Verb (casual past) + とおりに
+Noun + どおりに/のとおりに",1,"彼は言われたとおりにした。
+すべてはスケジュールどおりに進んでいる。
+じゃあ、先生が書くとおりに、一緒に漢字を書いてください。",,#ff7f50
+N3,https://jlptsensei.com/,通す（とおす）,,toosu,"to do until the end; to continually do; through~
+Verb #ます# (stem form) + 通す/とおす",1,"やると決めたことは最後までやり通すべきだ。
+終電を出てしまったので、１時間かけて家まで歩き通した。
+50メートル以上前方を見通すことが難しかった。",,#ff7f50
+N3,https://jlptsensei.com/,として,,toshite,"as~; in the role of~
+Noun + として",1,"彼は教師として働いている。
+僕の友人としては君ばかりだ。
+彼女は、歌手として最近活躍しています。",,#ff7f50
+N3,https://jlptsensei.com/,とても～ない,,totemo~nai,"cannot possibly be; hardly~
+とても + Verb (ない form)",1,"そんなこと、私にはとても出来ない。
+この本の漢字は難しいので私にはとても読めない。
+20万円の携帯電話など、とても買えない。",,#ff7f50
+N3,https://jlptsensei.com/,とは限らない,とはかぎらない,towa kagiranai,"not necessarily so; is not always true
+Verb (casual) + とは限らない
+Noun + だ + とは限らない
+な-adjective + だ + とは限らない
+い-adjective + とは限らない",1,"先生の答えがいつも正しいとは限りません。
+こういう音楽は誰でも好きだとは限らない。
+お金持ちになれば、必ず幸せになるとは限りません。",,#ff7f50
+N3,https://jlptsensei.com/,ついでに,,tsuide ni,"while, incidentally, at the same time, on the way~
+Verb (dictionary form)	+ ついでに
+Verb (た form) + ついでに
+Noun + の + ついでに",1,"買い物のついでに、本屋に寄りました。
+引っ越しのついでに、新しい家具を買いたいです。
+仕事へ行くついでに駅まで送ってあげるよ。",,#ff7f50
+N3,https://jlptsensei.com/,つもりだった,,tsumori datta,"I thought I~; I believe I~; was planning to~; was intending to~
+Verb (ている form) + つもりだった/つもりなのに
+Verb (た form) + つもりだった/つもりなのに
+Noun + の + つもりだった/つもりなのに",1,"あれ、カバンの中に入れたつもりなのに、弁当がない。
+私はそのメールを送ったつもりだった。
+コーヒーを注文したつもりだった。",,#ff7f50
+N3,https://jlptsensei.com/,つもりで,,tsumori de,"with the intention of doing~
+Verb (た form) + つもりで
+Noun + の + つもりで",1,"冗談のつもりで言ったのです。
+私は死んだつもりで働いた。
+練習だと思うから真剣にできないんだ。練習だと思わないで、本番のつもりでやってみろ！",,#ff7f50
+N3,https://jlptsensei.com/,うちに,,uchi ni,"while; before~
+Verb (casual form) + うちに
+Noun + の + うちに
+な-adjective + な + うちに
+い-adjective + うちに",1,"明るいうちに、帰りましょう。
+独身のうちに、たくさん遊んでおきたい。
+桜がきれいなうちにお花見に行きましょう。",,#00fa9a
+N3,https://jlptsensei.com/,上で,うえで,ue de,"upon; after; when; for; in order to
+Verb (dictionary form) + 上で
+Verb (た form) + 上で
+Noun + の + 上で",1,"外国語を勉強する上で辞書はなくてはならないものだ。
+この薬は説明書をよく読んだ上で、ご使用ください。
+実物を見た上で買うかどうか決めるつもりだ。",,#00fa9a
+N3,https://jlptsensei.com/,上に,うえに,ue ni,"as well; besides; in addition to; not only… but also~
+Verb (casual) + 上(に)
+Noun + の + 上(に)
+な-adjective + な + 上(に)
+い-adjective + 上(に)",1,"今日は曇っている上に風が強いので、とても寒く感じられる。
+この手続きは、面倒な上に時間もかかるので、皆がいやがっている。
+このパソコンは安い上に、機能も多いので、最近とても売れている。",,#00fa9a
+N3,https://jlptsensei.com/,は別として,はべつとして,wa betsu toshite,"aside from; apart from; except for; whether or not~
+Noun + は別として/はべつとして
+Verb (casual) + かどうか + は別として/はべつとして
+な-adjective + かどうか + は別として/はべつとして
+い-adjective + かどうか + は別として/はべつとして",1,"彼女の料理は見た目は別として、味はとても美味しい。
+合格できるかどうかは別として、チャレンジしてみることは大切だ。
+この会社の給料は別として、職場環境は本当に良い。",,#ee82ee
+N3,https://jlptsensei.com/,は～で有名,は～でゆうめい,wa~de yuumei,"famous for~
+Verb (dictionary) + こと + で有名だ
+Noun + で有名だ
+な-adjective + で有名だ
+い-adjective + いこと + で有名だ",1,"この学校はフットボールが強いことで有名です。
+京都は古いお寺があることで有名だ。
+日本は電子製品で有名です。",,#ee82ee
+N3,https://jlptsensei.com/,わけだ,,wake da,"for that reason; no wonder; as you’d expect; the fact is; so you mean~
+Verb (casual) + わけだ
+Noun + である + わけだ
+な-adjective + な + わけだ
+い-adjective + わけだ",1,"毎日ギターを弾くから上手に弾けるわけだ。
+暑いわけだ。気温が36度もある。
+あんなに食べたら太るわけだ。",,#ee82ee
+N3,https://jlptsensei.com/,わけではない,,wake dewa nai,"it doesn’t mean that; it is not the case that; I don’t mean that; it is not true that~
+Verb (casual) + わけ + ではない/じゃない
+Noun + (だ)という + わけ + ではない/じゃない
+な-adjective + な + わけ + ではない/じゃない
+い-adjective + わけ + ではない/じゃない",1,"料理が作れないわけではないが、忙しいからあまり作らない。
+先生は何でも知っているわけではありません。
+そんなに遠いわけじゃないんですよ。",janai nich implementiert,#ee82ee
+N3,https://jlptsensei.com/,わけがない,,wake ga nai,"there is no way that~; it is impossible to~
+Verb (casual, non-past ) + わけがない
+Noun + である + わけがない
+な-adjective + な + わけがない
+い-adjective + わけがない",1,"彼はお金がないですから、家を買えるわけがない。
+私がそんなものを食べられるわけがない。
+こんな安いものがいいもののわけがない。すぐ壊れてしまうだろう。",,#ee82ee
+N3,https://jlptsensei.com/,わけにはいかない,,wake niwa ikanai,"must not; cannot afford to; must, have no choice but to~
+Verb (casual, non-past) + わけにはいかない/わけにはいきません
+Verb (ない form) + わけにはいかない/わけにはいきません",0,,,#ee82ee
+N3,https://jlptsensei.com/,割に（わりに）,,wari ni,"considering; comparatively; relatively; unexpectedly; unusually~
+Verb (casual form) + 割に (は)
+Noun + の + 割に (は)
+な-adjective + 割に (は)
+い-adjective + 割に (は)",1,"このカメラは高いわりに、よく売れる。
+このコンピューター、中古のわりに高くない？
+彼女は年の割には若く見える。",,#ee82ee
+N3,https://jlptsensei.com/,よりも,,yorimo,"in comparison to; rather than~; more than~
+Verb (casual) + よりも
+Noun + よりも",1,"兄は私よりも大きい。
+量よりも質だ。
+実際の年齢よりも若く見えます。",,grey
+N3,https://jlptsensei.com/,ようがない,,you ga nai,"there is no way to; it’s impossible to~
+Verb #ます# (stem form) + ようがない/ようもない",1,"どうにもしようがない。
+お礼の申し上げようもない。
+何とも言いようがないなあ。",,grey
+N3,https://jlptsensei.com/,ような気がする,ようなきがする,you na ki ga suru,"have a feeling that; feels like; seems like; think that~
+Verb (casual) + ような + 気がする
+Noun + のような + 気がする
+な-adjective + な + 気がする
+い-adjective + ような + 気がする",0,,,grey
+N3,https://jlptsensei.com/,ように見える,ようにみえる,you ni mieru,"to look; to seem; to appear~
+Verb (casual form) + ように見える/ようにみえる
+Noun + の + ように見える/ようにみえる
+な-adjective + な + ように見える/ようにみえる
+い-adjective + ように見える/ようにみえる",0,,,grey
+N3,https://jlptsensei.com/,ようとしない,,you to shinai,"not try to; not make an effort to~
+Verb (volitional form) + としない",0,,,grey
+N3,https://jlptsensei.com/,ようとする,,you to suru,"try to; attempt to; be about to~
+Verb (volitional form) + とする",1,"ドアを開けようとしたが、鍵がかかっていました。
+お風呂に入ろうとしたら、電話が掛かってきた。
+会社からまさに出ようとした時、雨が降ってきた。",,grey
+N3,https://jlptsensei.com/,ずに,,zuni,"without doing~
+Verb (ない form) #ない# + ず (に)
+する changes to	せず（に）",1,"今朝、私は朝ごはんを食べずに学校に来ました。
+私のことは気にせずに先に行ってください。
+夕食を食べずに私を待っていてくれたんですか？",,#add8e6
+N3,https://jlptsensei.com/,ずにはいられない,,zuni wa irarenai,"can’t help but feel; can’t help but do; must do~
+Verb (ない form) #ない# + ずにはいられない",1,"あの本を読まずにはいられない。
+友達がいじめられているところを見たので、何か言わずにはいられなかった。
+テレビを見ずにはいられない人。",,#add8e6
+N3,https://jlptsensei.com/,ずつ,,zutsu,"apiece; each; at a time
+Noun (measurable) + ずつ",1,"私たちは一歩ずつ進みましょう。
+彼女はお客さんのメールを一個ずつ返事しています。
+私は毎日、単語を五つずつ覚えています。",,#add8e6
+N4,https://jlptsensei.com/,間,あいだ,aida,"while; during; between
+Verb (dictionary form) + 間
+Noun + の + 間",1,"バスに乗っている間、ずっと寝ていました。
+食事の間、彼女と一緒に映画を見ました。
+昨日は、家にいる間、ずっとテレビを見ていました。",,#800000
+N4,https://jlptsensei.com/,間に,あいだに,aida ni,"while/during~ something happened
+Verb (casual, non-past) + 間に
+Noun + の + 間に
+い-adjective + い + 間に
+な-adjective + な + 間に",1,"夜の間に火事が起こった。
+知らない間に寝ていた。
+夏休みの間に、復習しておいてくださいね。","
+",#800000
+N4,https://jlptsensei.com/,あまり～ない,,amari~nai,"not very, not much~
+あまり + い-adjective + #い#くない
+あまり + な-adjective + じゃない
+あまり + Verb (ない form)",1,"私はあまり運動しない。
+日本語があまり分からない。
+ホラー映画はあまり見ない。",,#800000
+N4,https://jlptsensei.com/,後で,あとで,ato de,"after~; later
+Verb (た form) + 後で/あとで
+Noun + の + 後で/あとで",1,"晩ご飯の後でアイスを食べた。
+授業が終わった後で、部活に行く。
+お酒を飲んだ後で、運転してはダメですよ！",,#800000
+N4,https://jlptsensei.com/,ば,,ba,if… then (ば conditional),1,"便利ならば
+便利であれば 
+便利じゃなければ
+便利でなければ
+日本人ならば",,#808000
+N4,https://jlptsensei.com/,場合は,ばあいは,baai wa,"in the event of; in the case that
+Verb (casual) + 場合は/ばあいは
+Noun + の + 場合は/ばあいは
+な-adjective + な + 場合は/ばあいは
+い-adjective + い + 場合は/ばあいは",1,"パスワードをわすれたばあいは、こちらからごれんらくください。
+火事の場合は、119をかけます。
+授業に間に合わない場合は、連絡してください。
+ファクスの調子が悪い場合は、どうしたらいいですか。",,#808000
+N4,https://jlptsensei.com/,ばかり,,bakari,"only; nothing but~
+Noun + ばかり
+Verb (て form) + ばかり
+
+about, approximately~
+Noun (indicates time or distance) + ばかり",1,"娘はテレビばかり見ている。
+彼はお金ばかり考えている。
+甘いものばかり食べると太ります。",,#808000
+N4,https://jlptsensei.com/,"だけで
+",,dake de,"just by; just by doing
+Verb (casual) + だけで
+Noun + だけで",1,"あなたに会うだけで元気になる。
+二人だけで少し話がしたい。
+一目見ただけで、俺に必要なことはすべてわかった。",,#008000
+N4,https://jlptsensei.com/,出す,だす,dasu,"to begin to; to start to; to burst into; ... out (e.g. to jump out, to carry out)
+Verb #ます# (stem form) + 出す/だす",1,"そのファンはアイドルに会えた喜びのあまり、泣き出した。
+彼は店から飛び出した。
+彼を呼び出しても良いですか？",,#008000
+N4,https://jlptsensei.com/,ではないか,,dewa nai ka,"right?; isn't it?
+Phrase + ではないか
+Phrase + ではありませんか",1,"トムではないか。
+タクシーに乗ろうではないか。
+本当のことではないかと思うよ。",,#008000
+N4,https://jlptsensei.com/,が必要,がひつよう,ga hitsuyou,"need; necessary
+Noun + が/は + 必要",1,"サッカーを練習する場所が必要です。
+私は少し考える時間が必要です。
+試合が近い。練習が必要だよ！",macht noun vielleicht?,#000080
+N4,https://jlptsensei.com/,がする,,ga suru,"to smell; hear; taste
+Noun + がする
+Noun + がします
+Noun + がしている",1,"ガスの匂いがする。
+それは雷のような音がした。
+このピザは変な味がします。",,#000080
+N4,https://jlptsensei.com/,がり,,gari,"someone tends to; has a tendency to; has a sensitivity to~
+い-adjective #い# + がり
+な-adjective + がり",1,"彼女は怖がりだからホラー映画はダメだ。
+私は寒がりなので、冬はあまり好きじゃない。
+このバンドが解散したらファンが悲しがりだろう。",,#000080
+N4,https://jlptsensei.com/,がる・がっている,,garu/gatteiru,"to show signs of; to appear; to feel, to think
+い-adjective #い# + がる
+い-adjective #い# + がっている
+な-adjective + がる
+な-adjective + がっている",1,"怖がらないでください。
+試合に負けて悔しがる。
+弟は来られなくて、とても残念がっていました。",,#000080
+N4,https://jlptsensei.com/,始める,はじめる,hajimeru,"to start; to begin to~
+Verb #ます# (stem form) + はじめる",1,"私は今年から働き始めたばかりです。
+いったん話し始めると、彼女を止めることは出来ない。
+私はまだ走り始めていない。",,#9acd32
+N4,https://jlptsensei.com/,はずだ,,hazu da,"it must be; it should be (expectation)
+Verb (dictionary form) + はずだ
+Noun + の + はずだ
+な-adjective + な + はずだ
+い-adjective + い + はずだ",1,"あなたなら分かるはずだ。
+今日は祝日だから、銀行は休みのはずだ。
+それは明らかなはずだ。",,#9acd32
+N4,https://jlptsensei.com/,はずがない,,hazu ga nai,"cannot be (impossible)
+Verb (dictionary form) + はずがない
+Noun + の + はずがない
+な-adjective + な  + はずがない
+い-adjective + い + はずがない",1,"そんなはずがない。
+彼はそんなことを言うはずがない。
+彼は今事務所にいるはずがありません。",macht verb vielleicht?,#9acd32
+N4,https://jlptsensei.com/,必要がある,ひつようがある,hitsuyou ga aru,"need to; it is necessary to
+Verb (dictionary form) + 必要がある",1,"私は大丈夫ですよ。あなたには何もする必要がありません。
+もっと勉強する必要がある。
+私の弟は今日学校に行く必要がない。",,#9acd32
+N4,https://jlptsensei.com/,意向形,いこうけい,ikou kei,volitional form; let's do~,1,,,#8fbc8f
+N4,https://jlptsensei.com/,じゃないか,,janai ka,"right? isn't it? let's~; confirmation
+Phrase + じゃないか",1,"行こうじゃないか。
+ダメじゃないか。
+だから言ったじゃないか！",,#8b008b
+N4,https://jlptsensei.com/,かどうか,,ka dou ka,"whether or not~
+Verb (casual form) + かどうか
+Noun + かどうか
+な-adjective + かどうか
+い-adjective + い + かどうか",1,"明日晴れるかどうか知らない。
+弱いかどうかとはまったく関係ない。
+田中さんが大学を卒業できたかどうか知っていますか。",,#b03060
+N4,https://jlptsensei.com/,かい,,kai,"turns a sentence into a yes/no question
+Sentence + かい",1,"歩けるかい？
+コーヒーいるかい？
+一緒にくるかい。",,#b03060
+N4,https://jlptsensei.com/,かもしれない,,kamo shirenai,"might; perhaps; indicates possibility
+Verb (casual form) + かも/かもしれない
+Noun + かも/かもしれない
+な-adjective + かも/かもしれない
+い-adjective + かも/かもしれない",1,"来週、台風が来るかもしれない。
+転職するかもしれません。
+病気かもしれない。",macht verb vielleicht?,#b03060
+N4,https://jlptsensei.com/,かな,,kana,"I wonder; should I?
+Verb (dictionary form) + かな
+Noun + かな
+な-adjective + かな
+い-adjective + い + かな",1,"彼女は元気かな。
+外は寒いかな。
+雨が降るかな。",,#b03060
+N4,https://jlptsensei.com/,から作る,からつくる,kara tsukuru,"made from; made with
+Noun + から/で + 作る",1,"ワインはブドウから作る。
+紙は木から作られる。
+チーズは牛乳から作られますか？
+このつくえは木で作られています。",,#b03060
+N4,https://jlptsensei.com/,かしら,,kashira,"I wonder~
+Phrase + かしら",1,"彼は本気かしら。
+明日は晴れるかしら。
+この本は売れるかしら？",,#b03060
+N4,https://jlptsensei.com/,頃,ころ / ごろ,koro/goro,"around; about; when
+Noun (time) + ごろ (around; about)
+Verb (casual) + ころ (when)
+Noun + の + ころ (when)
+Adjective + ころ (when)",1,"私はこのころとても忙しいのです。
+私は若いころ初めての一人旅をしました。
+あなたは子供のころ、いじめにあったことはある？
+夕食は何時ごろになさいますか？",macht daraus time,#b03060
+N4,https://jlptsensei.com/,ことがある,,koto ga aru,"there are times when
+Verb (casual, non-past) + ことがある/こともある",1,"たまに彼女と一緒にテニスをしに行くことがある。
+私は会議中でも、寝てしまうことがある。
+時々仕事をやめたいと思うことがある。",,#b03060
+N4,https://jlptsensei.com/,ことができる,,koto ga dekiru,"can; able to
+Verb (dictionary form) + ことができる",1,"私は日本語を話すことができる。
+何も言うことができない。
+このナイフはどんなものでも切ることができるよ。",,#b03060
+N4,https://jlptsensei.com/,ことになる,,koto ni naru,"It has been decided that..; it turns out that..
+Verb (dictionary form) + ことになる
+Verb (ない form) + ことになる",1,"入学式は4月1日に行うことになりました。
+私の母が入院することになった。
+大阪に転勤することになりました。",,#b03060
+N4,https://jlptsensei.com/,ことにする,,koto ni suru,"to decide on
+Verb (dictionary form) + ことにする
+Verb (ない form) + ことにする",1,"これから毎日ランニングをすることにする。
+タバコをやめることにした。
+春休みに彼女と一緒に台湾に行くことにします。",,#b03060
+N4,https://jlptsensei.com/,こと,,koto1,"Verb nominalizer
+Verb (casual, non-past) + こと",1,"本を読むことが好きです。
+私はゲームをすることが大好きです。
+私には考えることがたくさんある。",,#b03060
+N4,https://jlptsensei.com/,くする,,ku suru,"to make something ~
+い-adjective #い# + くする",1,"音楽でもっと良くする。
+あと５００円安くしてくれたら、買いますよ。
+彼女は声を大きくした。",,#b03060
+N4,https://jlptsensei.com/,までに,,made ni,"by; by the time; indicates time limit
+Verb (dictionary form) + までに
+Noun + までに",1,"8時までに来てください。
+レポートは金曜日までに出してください。
+それはいつまでに終わりますか？",,#ffa500
+N4,https://jlptsensei.com/,まま,,mama,"as it is; current state; without changing~
+Noun + の + まま
+Verb (た form) + まま
+Verb (ない form) + まま
+な-adjective + な + まま
+い-adjective + い + まま",1,"この町は昔のまま変わっていない。
+昨夜は、勉強したまま寝てしまった。
+鍵をかけないまま出かけてしまった。","
+",#ffa500
+N4,https://jlptsensei.com/,または,,matawa,"both; or; otherwise; choice between [A] or [B]
+Noun-1 + 又は/または + Noun-2",1,"コーヒーまたはお茶からお選びください。
+日本語または英語で話せます。
+会場には駐車場がありません。電車又はバスをご利用ください。",,#ffa500
+N4,https://jlptsensei.com/,みたいだ,,mitai da,"like, similar to, resembling
+Verb (casual) + みたい（だ）
+Noun + (だった) + みたい（だ）
+な-adjective + (だった) + みたい（だ）
+い-adjective + みたい（だ）",1,"夢みたいだ。
+外は、夏みたいだよ。
+何となく雨みたいだ。
+どうやら食べすぎたみたいだ。",,#ffa500
+N4,https://jlptsensei.com/,みたいな,,mitai na,"like, similar to~
+Noun + みたいな + Noun
+Verb (casual form) + みたいな + Noun",1,"あなたみたいな人はすごいと思う。
+彼が持っているみたいなパソコンが欲しい。
+毎日、仕事ばかりで、夢の中でも働いているみたいな気になる。",,#ffa500
+N4,https://jlptsensei.com/,みたいに,,mitai ni,"like; similar to~
+Noun +  みたいに + Verb / Adjective
+Verb (casual) + みたいに + Verb / Adjective",1,"彼女は男の子みたいに元気がいい。
+あなたみたいに美しい人は初めてだ。
+バカみたいに見えるのは分かってる。",,#ffa500
+N4,https://jlptsensei.com/,な,,na,"don’t ~ (order somebody to not do something)
+Verb (dictionary form) + な",1,"晩ごはんの前にデザートを食べるな。
+ここは危ないから来るな！
+運転をするなら飲むな。",,#7cfc00
+N4,https://jlptsensei.com/,など,,nado,"such as, things like~
+Noun + など",1,"私は小説や映画などが好きです。
+この動物園では好きな動物がたくさんいます。馬やイルカなどいます。
+兄の部屋にはラジオやテレビなどがたくさんあります。",,#7cfc00
+N4,https://jlptsensei.com/,ながら,,nagara,"while; during; as; simultaneously
+Verb #ます# (stem form) + ながら + [B]",1,"話を聞きながらメモします。
+テレビを見ながら晩ごはんを食べます。
+勉強をしながら音楽を聞きます。",,#7cfc00
+N4,https://jlptsensei.com/,なかなか～ない,,nakanaka~nai,"not easy to; struggling to; not able to~
+なかなか + Verb (negative form)",1,"カゼがなかなか治らない。
+この会議はなかなか終わらない。
+火がなかなか燃えない。",,#7cfc00
+N4,https://jlptsensei.com/,なければいけない,,nakereba ikenai,"must do something; have to do something
+Verb (ない form) な#い# + ければいけない",1,"早く寝なければいけない。
+学ばなければいけないことが実に多かった。
+あなた、彼にあなたの夢のことを話さなければいけませんよ。",,#7cfc00
+N4,https://jlptsensei.com/,なければならない,,nakereba naranai,"must do something; have to do something
+Verb (ない form) な#い# + ければならない",1,"薬を飲まなければなりません。
+宿題をしなければならない。
+今そこに行かなければなりませんか。",,#7cfc00
+N4,https://jlptsensei.com/,なら,,nara,"if; in the case that~
+Noun + なら
+Verb (casual form) + (の) + なら
+な-adjective + (の) + なら
+い-adjective + (の) + なら",1,"やるなら今しかない。
+あの店なら何を食べても美味しい。
+図書館なら案内してあげます。",,#7cfc00
+N4,https://jlptsensei.com/,なさい,,nasai,"do this (soft/firm command)
+Verb #ます# (stem form) + なさい/な (conversation)",1,"まず、質問に答えなさい。
+明日、学校に行くから、早く寝なさい！
+うるさいだよ。静かにしなさい！",,#7cfc00
+N4,https://jlptsensei.com/,に気がつく,にきがつく,ni ki ga tsuku,"to notice; to realize
+Verb (casual) + こと + に気がつく
+Noun  + に気がつく",1,"彼が自分の間違いに気がつくのは時間をかからないだろう。
+空港に着いたときにフライトのチケットを忘れたことに気がついた。
+ドアを閉めてから、ベッドに携帯電話を置いていたことに気がついた。",,#7cfc00
+N4,https://jlptsensei.com/,にみえる,,ni mieru,"to look; to seem; to appear
+Verb (て form) + に見える/にみえる
+Noun + に見える/にみえる
+な-adjective + に見える/にみえる
+い-adjective + #い#く + に見える/にみえる",1,"同じに見える。
+彼はアメリカ人に見える。
+彼女は先生にみえる。",,#7cfc00
+N4,https://jlptsensei.com/,にする,,ni suru2,"to make something ~
+な-adjective + にする",1,"もう少し、静かにしてください。
+このしゃしんをたいせつにする。
+歯科医は私の歯をきれいにした。",,#7cfc00
+N4,https://jlptsensei.com/,にくい,,nikui,"difficult to do~
+Verb #ます# (stem form) + にくい",1,"この本は字が小さくて読みにくいです。
+彼女はつき合いにくい人だ。
+魚は骨が多くて食べにくいだ。",,#7cfc00
+N4,https://jlptsensei.com/,のに,,noni1,"although, in spite of, even though~
+Verb (casual form)	 + のに
+Noun + な + のに
+な-adjective + な + のに
+い-adjective + のに",1,"薬を飲んだのに、ねつがまだ下がりません。
+今日は日曜日なのに、働かなければなりません。
+約束をしたのに、彼女は来ませんでした。",,#7cfc00
+N4,https://jlptsensei.com/,のに,,noni2,"to (do something); in order to~
+Verb (dictionary form) + のに",1,"始めるのに遅すぎることはない。
+家に帰るのに3時間かかりました。
+本を読むのに時間がかかる。",,#7cfc00
+N4,https://jlptsensei.com/,のは〜だ,,nowa~da,"[A] is [B]; the reason for [A] is [B]
+Verb (casual) + のは + ～だ
+Noun + な + のは + ～だ
+な-adjective + な + のは + ～だ
+い-adjective + のは + ～だ",1,"毎日、新しい単語を覚えるのは大変です。
+日本語を勉強するとき、一番難しいのは漢字だ。
+私が生まれたのは北海道の小さな村です。",,#7cfc00
+N4,https://jlptsensei.com/,お～ください,,o~kudasai,"please do (honorific)
+お + Verb #ます# (stem form) + ください
+お/ご + Noun (action) + ください",1,"ここでお待ちください。
+それを水と一緒にお飲みください。
+閉まるドアにご注意ください。",,#0000ff
+N4,https://jlptsensei.com/,お～になる,,o~ni naru,"to do (honorific)
+お + Verb #ます# (stem form) + になる
+お/ご + Noun + になる",1,"お座りになりませんか。
+先生は何時ごろお戻りになりますか?
+何をお食べになるのですか。",,#0000ff
+N4,https://jlptsensei.com/,おきに,,oki ni,"repeated at intervals, every~
+Noun (measurable) + おきに",1,"電車は5分おきに走っています。
+このバスは15分おきに出ている
+彼は数日おきに来る。",,#0000ff
+N4,https://jlptsensei.com/,終わる,おわる,owaru,"to finish; to end~
+Verb #ます# (stem form) + 終わる",1,"みんなが朝食を食べ終わるまで待ちましょう。
+そのゲームをやり終わるまでに5時間くらいかかる。
+彼が話し終わるとみんな黙っていた。",,#0000ff
+N4,https://jlptsensei.com/,られる,,rareru,"potential form; ability or inability to do something
+Ru-verb: る => られる
+U-verb: change ""u"" to ""e"" + る
+やる: やれる
+する: できる
+くる: こられる",1,,funktioniert nicht für U verben da tokenizer,#ff1493
+N4,https://jlptsensei.com/,らしい,,rashii,"it seems like; I heard; apparently~
+Verb (casual form) + らしい
+Noun + らしい
+な-adjective + らしい
+い-adjective + らしい",1,"今日は君らしくないな。
+遅刻するなんて彼らしくない。
+寝すぎるのは、体に悪いらしいです。",,#ff1493
+N4,https://jlptsensei.com/,さ,,sa,"-ness; nominalizer for adjective
+な-adjective + さ
+い-adjective + #い# + さ",1,"背の高さはどれぐらいですか？
+私は、ワサビの辛さが大好きです。
+この池の深さはどのぐらいですか？",,#8a2be2
+N4,https://jlptsensei.com/,させられる,,saserareru,"causative-passive; to be made to do something
+Verb (causative form させ#る#) + られる
+くる: こさせられる
+やる: やらせられる",1,"彼女に2時間も待たされた。
+その映画は考えさせられる。
+毎日母に野菜を食べさせられる。",,#8a2be2
+N4,https://jlptsensei.com/,させる,,saseru,"causative form; to make/let somebody do something
+Ru-verb: る => させる
+U-verb: (ない form) ない => せる
+する: させる
+やる: やらせる
+くる: こさせる",1,"母は私に自分の部屋を片付けさせた。
+この仕事は部下にやらせます。
+君を泣かせるつもりはなかった！",,#8a2be2
+N4,https://jlptsensei.com/,させてください,,sasete kudasai,"please let me do
+Verb (causative て form) + ください",0,,,#8a2be2
+N4,https://jlptsensei.com/,さすが,,sasuga,"as one would expect; as is to be expected; even~
+さすが + の + Noun
+さすが + に + Verb",1,"私はさすがにビックリした。
+さすがの彼も年には勝てなかった。
+さすがに大都市だけあって、いい本屋がたくさんあります。",,#8a2be2
+N4,https://jlptsensei.com/,し,,shi,"and; and what’s more; emphasis~
+Verb (casual)	 + し
+Noun + だ + し
+な-adjective + だ + し
+い-adjective + し",1,"このコートは色がきれいだし、好きなデザインだし。買いたいですよ。
+今日は週末だったし、天気が良かったので、公園は人が多かったです。
+彼は勉強ができるしスポーツも上手だし、私の好きなタイプだ。",,#8a2be2
+N4,https://jlptsensei.com/,そんなに,,sonna ni,"so much; so; like that
+そんなに + Verb
+そんなに + な-adjective
+そんなに + い-adjective",1,"昨日はそんなに忙しくなかった。
+そんなに知りたいのなら教えるよ。
+肉はそんなに好きではありません。","sonnani Verb nara
+Wiederum Verb",#8a2be2
+N4,https://jlptsensei.com/,それでも,,sore demo,"but still; and yet; even so~
+Phrase 1 + それでも + Phrase 2",1,"それでもいいですか？
+それでもあなたのことが好き。
+外は大雨だ。それでも出かけないといけない。",,#8a2be2
+N4,https://jlptsensei.com/,それに,,sore ni,"besides; in addition; also; moreover~
+それに + Phrase",1,"チーズバーガー、それにフライドポテトをお願いします。
+このアニメはとても人気がある。それに、音楽がいい。
+それに、私は日本語をあまり話せません。",,#8a2be2
+N4,https://jlptsensei.com/,そうだ,,sou da1,"I heard that; it is said that~
+Verb (casual form) + そうだ
+Noun + だ + そうだ
+な-adjective + だ + そうだ
+い-adjective + そうだ",1,"彼女の妹は英語が得意だそうです。
+彼女は有名だそうです。
+先生によると、来週の試験はむずかしいそうだ。",,#8a2be2
+N4,https://jlptsensei.com/,そうだ,,sou da2,"looks like; appears like; seeming~
+Verb ます (stem form) + そうだ
+な-adjective + そうだ
+い-adjective #い# + そうだ",1,"いまにも、雨が降りそうだ。
+その人は倒れそうです。
+わぁ、おいしそうな料理がたくさんありますね。",wird zu ADJ-NA,#8a2be2
+N4,https://jlptsensei.com/,そうに・そうな,,sou ni/sou na,"seems like; looks like~
+Verb #ます# (stem form) + そうに + Noun/Verb/そうな + Noun/Verb
+な-adjective + だ + そうに + Noun/Verb/そうな + Noun/Verb
+い-adjective + い + そうに + Noun/Verb/そうな + Noun/Verb",,,,#8a2be2
+N4,https://jlptsensei.com/,たばかり,,ta bakari,"just finished; something just occurred
+Verb (た form) + ばかり",1,"私は今起きたばかりです。
+さっき昼ごはんを食べたばかりです。
+このパソコンを買ったばかりなのにとても遅い！",Bakarinanoni-heißt NOUN,#ff7f50
+N4,https://jlptsensei.com/,たところ,,ta tokoro,"just finished doing, was just doing
+Verb (た form) + ところ",1,"今起きたところです。
+昼ごはんを食べたところです。
+アメリカから日本に戻ったところです。",auch noun?? wie bakari?,#ff7f50
+N4,https://jlptsensei.com/,たがる,,tagaru,"wants to do~ (third person)
+Verb た#い# + がる",0,,,#ff7f50
+N4,https://jlptsensei.com/,たら,,tara,"if; after; when~
+Verb (た form) + ら
+Noun + だった + ら
+な-adjective + だった + ら
+い-adjective + いかった + ら",1,"時間がなかったら、テレビを見ません。
+安かったら、パソコンを買いたいです。
+暇だったら、手伝ってください。",,#ff7f50
+N4,https://jlptsensei.com/,たらどう,,tara dou,"why don't you (used to give advice)
+Verb (た form) + らどう",1,"一緒に来たらどうですか？
+先生に聞いてみたらどうですか？
+彼に電話したらどうですか。",,#ff7f50
+N4,https://jlptsensei.com/,たらいいですか,,tara ii desu ka,"what should I do?; speaker seeking instructions from listener
+Verb (た form) + らいいですか",1,"この本はいつまでに返したらいいですか。
+私はどの駅で降りたらいいですか？
+ホテルの予約をキャンセルしたいんですが、どうしたらいいですか。",,#ff7f50
+N4,https://jlptsensei.com/,てあげる,,te ageru,"to do for; to do a favor
+Verb (て form) + あげる",0,,,#ff7f50
+N4,https://jlptsensei.com/,てほしい,,te hoshii,"I want you to; need you to~
+Verb (て form) + ほしい/欲しい
+Verb (ないで form) + ほしい/欲しい",1,"あなたに見てほしい写真を持っています。
+私に何をしてほしいのですか?
+それを忘れないで欲しい。",,#ff7f50
+N4,https://jlptsensei.com/,ていく,,te iku,"to start; to continue; to go on
+Verb (て form) + いく",1,"彼は毎日駅まで歩いていきます。
+船は港を出ていった。
+彼は京都へ引っ越していった。",,#ff7f50
+N4,https://jlptsensei.com/,ていた,,te ita,"was doing something (past continuous)
+Verb (て form) + いた",1,"彼女はオレンジを食べていた。
+今日は家でゆっくりしていました。
+私は一晩中泣いていた。",,#ff7f50
+N4,https://jlptsensei.com/,ていただけませんか,,te itadakemasen ka,"could you please~
+Verb (て form) + いただけませんか",1,"写真を取っていただけませんか。
+ちょっと待っていただけませんか。
+もう少しゆっくり話していただけませんか。",,#ff7f50
+N4,https://jlptsensei.com/,てくれる,,te kureru,"to do a favor; do something for someone
+Verb (て form) + くれる",0,,,#ff7f50
+N4,https://jlptsensei.com/,てくる,,te kuru,"to do… and come back; to become; to continue; to start~
+Verb (て form) + くる",0,,,#ff7f50
+N4,https://jlptsensei.com/,てみる,,te miru,"try doing
+Verb (て form) + みる",0,,,#ff7f50
+N4,https://jlptsensei.com/,てもらう,,te morau,"to get somebody to do something
+Verb (て form) + もらう",0,,,#ff7f50
+N4,https://jlptsensei.com/,ておく,,te oku,"to do something in advance
+Verb (て form) + おく",0,,,#ff7f50
+N4,https://jlptsensei.com/,てしまう / ちゃう,,te shimau/chau,"to do something by accident, to finish completely
+Verb (て form) + しまう
+Verb (#て# form) + ちゃう
+Verb (#で# form) + じゃう",0,,,#ff7f50
+N4,https://jlptsensei.com/,てすみません,,te sumimasen,"I’m sorry for
+Verb (て form) + すみません",1,"電話に出れなくてすみません。
+返事が遅くなってすみませんでした。
+宿題をするのを忘れてすみません。",,#ff7f50
+N4,https://jlptsensei.com/,てやる,,te yaru,"to do for; to do a favor (casual)
+Verb (て form) + やる",1,"手伝ってやる。
+あなたにそれを教えてやらない。
+あなたがそれを読んだら別の本を貸してやる。",,#ff7f50
+N4,https://jlptsensei.com/,てよかった,,te yokatta,"I’m glad that..
+Verb (て form) + よかった",1,"君と連絡できてよかった。2時間遅れて心配したよ。
+あなたは元気になってよかったです。ずっと心配したよ。
+この世に生まれてよかった。",,#ff7f50
+N4,https://jlptsensei.com/,ているところ,,teiru tokoro,"in the process of doing
+Verb (て form) + いるところ",1,"彼女はお茶を飲みながら雑誌を読んでいるところです。
+子どもを産んだばかりなので、うちで休んでいるところです。
+姉は電話をかけているところだ。",,#ff7f50
+N4,https://jlptsensei.com/,ても,,temo,"even; even if; even though~
+Verb (て form) + も
+Noun + で + も
+な-adjective + で + も
+い-adjective + #い#くて + も
+
+…or something
+Noun + でも",1,"たくさん食べても、お腹が空きます。
+日曜日でも、働きます。
+子どもでもできることよ。
+水でも飲みますか？
+牛丼でもしましょうか？
+寒いから、暖かいものでも飲みませんか。",,#ff7f50
+N4,https://jlptsensei.com/,と言ってもいい,といってもいい,to ittemo ii,"you could say; one might say; I'd say~
+Phrase + と言ってもいい/といっても",1,"それはよい買い物だったといってもいいでしょう。
+彼はやさしいが，だまされやすいといってもいい。
+それはいい考えだ。いや，すばらしいといってもいいだろう。",,#ff7f50
+N4,https://jlptsensei.com/,という,,to iu,"called; named; that~
+Noun + と言う/という
+Phrase + と言う/という",1,"この犬はバディーという名前です。
+昨日、トムという人に会いました。
+英語で「宿題」は、なんといいますか？",,#ff7f50
+N4,https://jlptsensei.com/,ということ,,to iu koto,"convert phrase into noun
+Verb (casual) + ということ
+Noun + だ + ということ
+な-adjective + だ + ということ
+い-adjective + ということ",1,"あなたが私の声が好きだということがとても嬉しいです。
+彼は怖いということを知らない。
+つまり、あなたは同じ本をまた読みたいということ？",,#ff7f50
+N4,https://jlptsensei.com/,と言われている,といわれている,to iwarete iru,"it is said that~
+Verb (casual, past) + と言われている
+Adjective (standard, past) + と言われている
+Noun + だ + と言われている",1,"彼は天才だと言われている。
+13日の金曜日は不吉な日だと言われている。
+健康ほど大切なものはないと言われている。",,#ff7f50
+N4,https://jlptsensei.com/,と聞いた,ときいた,to kiita,"I heard…
+Phrase + と聞いた/ときいた",1,"私はアメリカ人は誰でもこの映画を知っていると聞いた。
+私はそのイベントがとつぜん中止になったと聞いた。
+あれはとても良い街だと聞いたことがあります。",,#ff7f50
+N4,https://jlptsensei.com/,と思う,とおもう,to omou,"to think…; I think…; you think…
+Verb + と思う
+Noun + だ + と思う
+な-adjective + だ + と思う
+い-adjective + と思う",1,"きれいだと思わない？
+それはかなりむずかしいと思います。
+仕事を続けるのはむりだと思う。",,#ff7f50
+N4,https://jlptsensei.com/,とか～とか,,toka~toka,"among other things; such as; like~
+Verb (dictionary form) + とか + Verb (dictionary form) + とか
+Noun + とか + Noun + とか",1,"私はおすしとかラーメンとか日本料理が好きです。
+このイベントでは、バーベキューとかゲームとかをします。
+毎日、5分とか、10分とかでもいいので、運動をしたほうがいいですよ。",,#ff7f50
+N4,https://jlptsensei.com/,ところ,,tokoro,"just about to; on the verge of doing something
+Verb (casual, non-past) + ところ",1,"今、出かけるところです。
+これから料理を作るところです。
+もう少しで信じるところだった。",,#ff7f50
+N4,https://jlptsensei.com/,続ける,つづける,tsuzukeru,"continue to; keen on~
+Verb #ます# (stem form) + 続ける",1,"父からもらった自転車を今も使い続けています。
+彼女は彼氏の話をしゃべり続けた。
+どんなに大変だったとしても、やり続けることが大切です。",,#ff7f50
+N4,https://jlptsensei.com/,って,,tte,"named; called~
+Noun + って/っていう",1,"みんなの日本語って教科書がだれでも知っているね。
+これは日本語でじゃんけんっていうゲームだよ。
+ドラゴンボールっていうマンガが一番好きだ。",,#ff7f50
+N4,https://jlptsensei.com/,受身形,うけみけい,ukemi kei,"passive form; passive voice
+Ru-verb: る => られる
+U-verb: (ない form) ない => れる
+する: される
+くる: こられる",0,,,#00fa9a
+N4,https://jlptsensei.com/,は〜が… は,,wa~ga... wa,"[A] but [B]; however; comparison
+Noun-1 + は... + ～が + Noun-2 + は…",0,,,#ee82ee
+N4,https://jlptsensei.com/,やすい,,yasui,"easy to; likely to; prone to; have a tendency to~
+Verb #ます# (stem form) + やすい",1,"日本語は分かりやすいです。
+先生の声が聞きやすいです。
+彼女はカゼを引きやすいです。",,grey
+N4,https://jlptsensei.com/,より,,yori,"than; rather than; more than~
+[A]より[B]
+より + adjective",1,"今日は昨日より暑いです。
+最近、円はドルより安い。
+今は恋愛より仕事だ。",,grey
+N4,https://jlptsensei.com/,予定だ,よていだ,yotei da,"plan to, intend to
+Verb (dictionary form) + 予定/よてい + だ
+Noun + の + 予定/よてい + だ",1,"私はデートに行く予定だ。
+6時に起きる予定だった。
+7月の終わりにドイツへ出張する予定です。",,grey
+N4,https://jlptsensei.com/,ようだ,,you da,"appears; seems; looks as if~
+Verb (casual) + ようだ
+Noun + の + ようだ
+な-adjective + な + ようだ
+い-adjective + ようだ",1,"だいぶ変わったようだな。
+教室に来たけど誰もいない。今日は授業がないようだ。
+それは本当に夢のようだ。",,grey
+N4,https://jlptsensei.com/,ようになる,,you ni naru,"to reach the point that; to come to be that; to turn into~
+Verb (dictionary form) + ようになる
+Verb (ない form) + ようになる",1,"大きくなったら分かるようになるよ。
+毎日練習すれば、泳げるようになります。
+やっと自転車に乗れるようになりました。",,grey
+N4,https://jlptsensei.com/,ようにする,,you ni suru,"to try to; to make sure that~
+Verb (dictionary form) + ようにする
+Verb (ない form) + ようにする",1,"明日早く起きるようにする。
+明日から仕事に行く前に毎日ラニングをするようにします。
+毎日歩くようにしている。",,grey
+N4,https://jlptsensei.com/,ように / ような,,you ni/you na,"like; as; similar to~
+Verb (casual) + よう + に/な
+Noun + の + よう + に/な
+
+in order to, so that~
+Verb (dictionary form) + ように
+Verb (ない form) + ように",1,"バスに乗り遅れないように早く出ました。
+先生の話を忘れないように、メモしておきます。
+単語が覚えられるように、フラッシュカードを作りました。
+バスに乗り遅れないように早く出ました。
+先生の話を忘れないように、メモしておきます。
+単語が覚えられるように、フラッシュカードを作りました。",,grey
+N4,https://jlptsensei.com/,ようと思う,ようとおもう,you to omou,"thinking of doing; planning to~
+Verb (volitional form)(よう form) + と思う",1,"今度の休みに海へ行こうと思う。
+子どもができたからタバコを辞めようと思う。
+今から書店へ行こうと思っています。",,grey
+N4,https://jlptsensei.com/,全然～ない,ぜんぜん～ない,zenzen~nai,"(not) at all
+全然/ぜんぜん + Verb (ない form)",1,"私は日本語がぜんぜん話せない。
+ケーキを作るなんて全然できない。
+日本の新聞は漢字が多くて、全然読めません。",,#add8e6
+N4,https://jlptsensei.com/,づらい,,zurai,"difficult to do~
+Verb #ます# (stem form) + づらい",1,"この質問には答えづらいです。
+この本は字が小さくて読みづらいです。
+彼女はつき合いづらい人だ。",,#add8e6
+N5,https://jlptsensei.com/,ちゃいけない/やいけない,,cha ikenai/ja ikenai,"must not do (spoken Japanese)
+Verb #て# + ちゃ/じゃ + だめ
+Verb #て# + ちゃ/じゃ + いけない
+Verb #て# + ちゃ/じゃ + いけません",1,"寝る前にスマホを見ちゃダメよ。
+ここはきけんなので、入っちゃダメだよ。
+やっちゃいけないことをやっちゃった。",,#483d8b
+N5,https://jlptsensei.com/,だけ,,dake,"as much as
+Verb (dictionary form) + だけ
+な-adjective + なだけ
+い-adjective + だけ
+Noun + だけ",1,"その女の子はただ泣くだけだった。
+彼女が信頼できるのは彼だけだ。
+出来るだけ新しい漢字を勉強したい。",,#008000
+N5,https://jlptsensei.com/,だろう,,darou,"I think; it seems; probably; right?
+Verb (dictionary form) + だろう
+Noun + だろう
+な-adjective + だろう
+い-adjective + だろう",1,"そうだろうと思ったよ。
+間違いないだろう。
+どうして日本の夏はこんなに暑いんだろう。",,#008000
+N5,https://jlptsensei.com/,で,,de,"in; at; on; by; with; via
+Noun + で",1,"みんなで行こう！
+なにかの理由で彼は虫が怖いんだ。
+たまに一人でカラオケに行きます。",,#008000
+N5,https://jlptsensei.com/,でも,,demo,"but; however; though~
+でも + 、",1,"今朝学校に行きました。でも、休みでした。
+日本人ともっと話したいです。でも、私の日本語はあまり上手ではありません。
+スーパーに行きました。でも、財布を忘れました！",,#008000
+N5,https://jlptsensei.com/,でしょう,,deshou,"Verb (dictionary form) + でしょう
+Noun + でしょう
+な-adjective + でしょう
+い-adjective + でしょう",1,"明日は雨が降るでしょう。
+先生はまもなく来るでしょう。
+それは何でしょう。",,#008000
+N5,https://jlptsensei.com/,どんな,,donna,"I think; it seems; probably; right?
+どんな + Noun",1,"ベトナムはどんな国ですか。
+どんな仕事をするのですか。
+どんな食べ物が好きですか。",,#008000
+N5,https://jlptsensei.com/,がある,,ga aru,"there is; is (non-living things)
+Noun + がある",1,"先月お金がぜんぜんなかった。
+このマンションにはへやが三つあります。
+彼は金があるから新車が買える。",,#000080
+N5,https://jlptsensei.com/,がほしい,,ga hoshii,"to want something
+Noun + がほしい
+Noun + が欲しい",1,"もっとお金が欲しいです。
+彼女がほしい。
+お金がたくさんほしい。",,#000080
+N5,https://jlptsensei.com/,がいる,,ga iru,"there is; to be; is (living things)
+Noun + がいる",1,"テーブルの下に猫がいる。
+私には兄弟がいないんだ。
+弟一人妹一人がいます。",,#000080
+N5,https://japanesetest4you.com/,方がいい,ほうがいい,hou ga ii,"had better; it'd be better to; should~
+Verb (casual form) + ほうがいい",1,"そろそろ帰ったほうがいいみたいね。
+仕事は早く進めたほうがいい。
+もう一度電話してきいたほうがいいよ。",,#9acd32
+N5,https://japanesetest4you.com/,一番,いちばん,ichiban,"the most, the best
+Noun + は/が一番 + adjective + だ
+Verb (dictionary form) + のは/のが一番 + adjective + だ",1,"一番好きな漫画って何？
+人生でいちばん長い夜になったわ。
+あれは世界でいちばん退屈な町だ。",,#8fbc8f
+N5,https://jlptsensei.com/,か〜か,,ka~ka,"or
+Verb + か
+い-adjective + か
+な-adjective + か
+Noun + か",1,"明日は雨かどうか分からない。
+お茶かコーヒーが飲みたい。
+当たるかはずれるか。",,#b03060
+N5,https://jlptsensei.com/,から,,kara1,"from, ever since
+Noun + から",1,"このシャツは彼女からもらった。
+生まれた時からアメリカに住んでいる。
+17時からアルバイトがある。",,#b03060
+N5,https://jlptsensei.com/,から,,kara2,"since, because
+Verb + から
+い-adjective + から
+な-adjective + だから
+Noun +　だから",1,"暑いから、窓を開けてください。
+あの人はいつもとてもしずかだから、一度も話したことがない。
+大事なしけんだから、がんばる！",,#b03060
+N5,https://jlptsensei.com/,方,かた,kata,"the way of doing something; how to do
+Verb #ます# (stem form) + 方/かた",1,"パソコンの使いかたがわかりません。
+ケーキの作り方を知っていますか？
+おはしの使い方が上手ですね。",,#b03060
+N5,https://jlptsensei.com/,けど/けれど/けれども,,kedo/keredo/keredomo,"but; however; although
+Sentence + けど/けれど/けれども
+
+however; but
+Clause-1 + だけど + clause-2",1,"仕事は辛いけど楽しい。
+金はないけど夢はある。
+たくさん勉強したけど、テストの点はよくないでした。
+宿題をしたんだけど、学校に持ってくるのを忘れました。
+このケーキは美味しそうだけどお腹一杯だからいらない。
+風邪ひいちゃった。早く良くなるといいんだけど。",,#b03060
+N5,https://jlptsensei.com/,まだ,,mada,"still; not yet
+まだ + Verb (ている)
+まだ + Noun",1,"もう10時ですが弟がまだ寝ている。
+まだ1時間もあるよ。
+あきらめるのはまだ早い！",,#ffa500
+N5,https://jlptsensei.com/,まで,,made,"until; till; to; as far as; to (an extent); even
+Noun + まで",1,"昨日までお休みでした。
+ここからそこまでは遠いですよ。
+駅まで行きたいんですが、どう行ったらいいですか。",,#ffa500
+N5,https://jlptsensei.com/,前に,まえに,mae ni,"before, in front of
+Verb (dictionary form) + 前に
+Noun + の前に",1,"コンビニの前にじてんしゃがたくさんあります。
+ドアを開ける前にノックぐらいしてください。
+旅行の前に切符を買っておきます。",,#ffa500
+N5,https://jlptsensei.com/,ませんか,,masen ka,"let’s, won’t you, wouldn’t you
+Verb (polite negative form) + ませんか",1,"今日一緒に食べませんか？
+お茶にしませんか？
+日曜日にテニスをしませんか。",,#ffa500
+N5,https://jlptsensei.com/,ましょう,,mashou,"let's ~; shall we ~
+Verb #ます# (stem form) + ましょう",1,"行きましょう！
+駅で会いましょう！
+帰る前に教室をきれいにしましょう。",,#ffa500
+N5,https://jlptsensei.com/,ましょうか,,mashou ka,"shall I ~; used to offer help to the listener
+Verb #ます# (stem form) + ましょうか",1,"マドを開けましょうか。
+手伝いましょうか。
+荷物を持ちましょうか。",,#ffa500
+N5,https://jlptsensei.com/,も,,mo,"also, too, as well
+Noun + も
+
+as many as; as much as; up to; nearly~
+number + も
+Time counter + も",1,"私もできる。
+甘いものも辛いものも好きです。
+私は日本語も英語もベトナム語も話せます。
+土曜日は12時間も寝てしまいました。
+田中さんは１日に５回も食事をするそうだ。
+どうしたの？2時間も駅で待っていたよ。",,#ffa500
+N5,https://jlptsensei.com/,ないで,,naide,"without doing…; don’t
+Verb (ない form) + で + 2nd action",1,"コーヒーには、いつもさとうを入れないで飲みます。
+彼女はカサを持たないで出てしまった。
+昨日は疲れていて、電気を消さないで寝てしまった。",,#7cfc00
+N5,https://jlptsensei.com/,ないでください,,naide kudasai,"please don't do
+Verb (ない form) + でください",1,"それを食べないでください。
+行かないでください。
+泣かないでください。",,#7cfc00
+N5,https://jlptsensei.com/,ないといけない,,naito ikenai,"must do; have an obligation to do
+Verb (ない form) + と + いけない
+Verb (ない form) + と + ダメです",1,"そろそろ寝ないといけない。
+私は家に帰らないといけない。
+今から勉強をしないといけない。",macht verb vielleicht?,#7cfc00
+N5,https://jlptsensei.com/,なくてもいい,,naku temo ii,"don't have to
+Verb (ない form) #ない# + くてもいい",1,"明日は休みだから、学校に行かなくてもいい。
+空港まで来なくてもいいよ。
+好きじゃないなら、食べなくてもいいですよ。",macht verb vielleicht?,#7cfc00
+N5,https://jlptsensei.com/,なくちゃ,,nakucha,"must do; need to; gotta do
+Verb (ない form) #ない# + くちゃ
+Verb (ない form) #ない# + くちゃダメ
+Verb (ない form) #ない# + くちゃいけない
+Verb (ない form) #ない# + くちゃならない",1,"すぐに警察に連絡しなくちゃいけません。
+よく考えなくちゃダメだよ。
+ごめんなさい。早く帰らなくちゃなりません。
+世話しなくちゃならない子供がいる。",macht verb vielleicht?,#7cfc00
+N5,https://jlptsensei.com/,なくてはいけない,,nakute wa ikenai,"must do; need to do
+Verb (ない form) #ない# + くてはいけない
+Verb (ない form) #ない# +くてはいけません",1,"本当にすぐ行かなくてはいけない。
+急がなくてはいけない。
+もう10時だ。寝なくてはいけない。",macht verb vielleicht?,#7cfc00
+N5,https://jlptsensei.com/,なくてはならない,,nakute wa naranai,"must do; need to do
+Verb (ない form) #ない# + くてはならない
+Verb (ない form) #ない# + くてはなりません",1,"急がなくてはならない。
+本当にすぐ行かなくてはならない。
+花の水やりをしなくてはなりません。",macht verb vielleicht?,#7cfc00
+N5,https://jlptsensei.com/,んです/のです,,ndesu/no desu,"to explain something; show emphasis
+Verb (casual) + んです/んだ
+い-adjective + い + んです/んだ
+な-adjective + な + んです/んだ
+Noun + な+ んです/んだ (only with questions)",1,"何を飲みたいんですか。
+お茶を飲みたいんです。
+今からバイトに行くんだ。",,#7cfc00
+N5,https://jlptsensei.com/,ね,,ne,"isn't it? right? Eh?
+End of sentence particle",1,"そうですね。
+またあとでね！
+それは大変ですね。",,#7cfc00
+N5,https://jlptsensei.com/,に行く,にいく,ni iku,"go to do
+Verb #ます# (stem form)  + に行く",1,"日本に勉強しに行くつもりなのです。
+東京へなにしに行くの？
+私たちは公園にサッカーをしに行くつもりだ。",,#7cfc00
+N5,https://jlptsensei.com/,なる,,ni naru/ku naru,"Noun + になる
+な-adjective + になる
+い-adjective #い# + く + なる",1,"今日は暑くなるようだ。
+今年、私は２０歳になります。
+もっと強くなるために、毎日運動しています。","
+",#7cfc00
+N5,https://jlptsensei.com/,にする,,ni suru1,"to decide on
+Noun + にする",1,"どれにする?
+飲み物は何にする？
+お茶にする。",,#7cfc00
+N5,https://jlptsensei.com/,に/へ,,ni/e,"to (indicates direction / destination)
+Noun + に/へ
+
+destination particle; in; at; on; to
+Noun + に",1,"どうやって学校に通っていますか？
+今日は仕事に行きたくない。
+どこへ行ったんですか？",,#7cfc00
+N5,https://jlptsensei.com/,の,,no,"possessive particle
+Noun + の + [B]
+[A]の[B] would mean [B] belong’s to [A]",1,"私の一番好きな季節は秋だ。
+このカメラは私のではなく、友だちのです。
+夏の暑さのせいで私は寝不足です。","No desu??    no toki??
+NO: {<.*:NOUN><の:.*>}",#7cfc00
+N5,https://jlptsensei.com/,のが下手,のがへた,no ga heta,"to be bad at doing something
+Verb (dictionary form)	+ のが下手/のがへた",1,"彼はおはしを使うのが下手だ。
+母は料理をするのが下手だ。
+私は人としゃべるのが下手だ。","no ga heta da shi
+Adjective??",#7cfc00
+N5,https://jlptsensei.com/,のが上手,のがじょうず,no ga jouzu,"to be good at
+Verb (dictionary form)	のが上手/のがじょうず",1,"あなたは教えるのが上手です。
+あなたはお箸を使うのが上手ですね。
+私はそんなに日本語を話すのが上手ではない。","no ga heta da shi
+Adjective??",#7cfc00
+N5,https://jlptsensei.com/,のが好き,のがすき,no ga suki,"to like doing something
+Verb (dictionary form)	+ のが好き/のがすき",1,"私は寝るのが好きです。
+漫画を読むのが好きだ。
+彼女は野球の試合を見るのが好きです。","no ga heta da shi
+Adjective??",#7cfc00
+N5,https://japanesetest4you.com/,の中で,のなかで,no naka de,"in; among
+Noun + の中で",1,"彼の心の中では世界は二つに分けられているのです。
+六頭の牛が、あたたかな夜気のなかで寝ていた。
+彼は私の会った人の中でももっとも年老いた人だった。",,#7cfc00
+N5,https://jlptsensei.com/,ので,,node,"because of; given that; since
+Verb + ので
+い-adjective  + ので
+な-adjective + な + ので
+Noun + な + ので",1,"ちょっと用事があるので、先に帰ります。
+あつかったのでプールに行った。
+ちょっと寒いので、窓を閉めてもいいですか。",,#7cfc00
+N5,https://jlptsensei.com/,をください,,o kudasai,"please give me~
+Noun + をください",1,"すみません、お水をください。
+コーヒーを二つください。
+少し時間をください。",,#0000ff
+N5,https://jlptsensei.com/,お/ご,,o/go,"polite marker; honorific prefix particle
+お/ご + Noun
+お/ご + Adjective",1,"金曜日はおひまですか？
+今日のご気分はどうですか。
+お兄さんと一緒に行った。","Verben?
+Oyasumi",#0000ff
+N5,https://jlptsensei.com/,すぎる,,sugiru,"too much
+Verb #ます# (stem form) + すぎる
+な-adjective) + すぎる
+い-adjective #い# + すぎる",1,"このシャツは大きすぎる。
+今年の夏は暑すぎた。
+この問題は簡単すぎます。","Adj stamm
+Sugiru, sugimasu",#8a2be2
+N5,https://jlptsensei.com/,たことがある,,ta koto ga aru,"to have done something before
+Verb (た form) + ことがある",1,"これを見たことがある。
+フランスに行ったことある。
+一度だけカラオケをやったことがあります。","aru, arimasu",#ff7f50
+N5,https://jlptsensei.com/,たい,,tai,"want to do something
+Verb #ます# (stem form) + たい
+Verb #ます# (stem form) + たくない
+Verb #ます# (stem form) + たかった",1,"先生、聞きたいことがありますが。
+すしを食べたくない。
+子どものころから、ずっと日本に行きたかった。",,#ff7f50
+N5,https://jlptsensei.com/,たり～たり,,tari~tari,"do such things like A and B
+Verb (た form) + り ～ Verb-た + り + する
+Noun + だったり ～ Noun + だったり
+い-adjective #い# + かったり ～ い-adj + いかったり
+な-adjective + だったり ～ な-adj + だったり",1,"休みの日は水曜日だったり、日曜日だったりです。
+日曜日は買い物したり、映画を見たりした。
+私の店は忙しかったり暇だったりです。",,#ff7f50
+N5,https://jlptsensei.com/,てある,,te aru,"is/has been done (resulting state)
+Verb (て form) + ある",1,"明日の弁当はもう作ってある。
+ここには私の名前が書いてあります。
+ドアがわざと開けてある。",,#ff7f50
+N5,https://jlptsensei.com/,てから,,te kara,"after doing~
+Verb (て form) + から",1,"トイレを使ってから、手を洗わないといけません。
+買い物をしてから家に帰ります。
+ご飯を食べてから散歩しました。","
+",#ff7f50
+N5,https://jlptsensei.com/,てください,,te kudasai,"please do
+Verb (てform) + ください",1,"やってみてください。
+静かにしてください。
+先生、この問題分かりません。もう一回説明してください。","
+",#ff7f50
+N5,https://jlptsensei.com/,てわいけない,,te wa ikenai,"must not; may not; cannot
+Verb (て form) + はいけない",1,"窓を開けてはいけない。
+嘘をついてはいけない。
+今日試験があるから、遅刻してはいけない。","
+",#ff7f50
+N5,https://jlptsensei.com/,ている,,teiru,"ongoing action or current state
+Verb (て form) + いる",1,"お母さんと電話をしています。
+ドアが開いている。
+彼はお父さんと似ている。",,#ff7f50
+N5,https://jlptsensei.com/,てもいいです,,temo ii desu,"is OK to..; is alright to..; may I..?
+Verb (て form) + もいい（です）
+い-adjective #い#くて + もいい（です）
+な-adjective + で + もいい（です）
+Noun + で + もいい（です）",1,"トイレに行ってもいいですか？
+それを食べてもいいですか。
+今話してもいいですか。","
+",#ff7f50
+N5,https://jlptsensei.com/,と,,to,"and
+Phrase + と",1,"お母さんと買い物に行った。
+彼女と仲がいいです。
+あなたと話したくない。",,#ff7f50
+N5,https://jlptsensei.com/,時,とき,toki,"when; at this time
+Verb (casual form) + とき
+Noun + の + とき
+な-adjective + な + とき
+い-adjective + い + とき",1,"分からないときは、早く先生に聞きましょうね。
+体の調子が悪いとき、温かいお茶を飲みます。
+妻が病気のとき、会社を休みました。",,#ff7f50
+N5,https://japanesetest4you.com/,つもり,,tsumori,"plan to ~; intend to ~
+Verb-casual + つもりです/つもりはない
+な-adjective + なつもりです/つもりはない
+い-adjective + つもりです/つもりはない
+Noun + のつもりです/つもりはない",1,"今夜カラオケへ行くつもりだ。
+あなたたちも行くつもりですか？
+もしJLPTに受かったら日本の会社で働くつもりだ。",,#ff7f50
+N5,https://jlptsensei.com/,はどうですか,,wa dou desu ka,"how about; how is
+Noun + はどうですか",1,"明日はどうですか。
+日本はどうですか？
+天気はどうですか。",,#ee82ee
+N5,https://jlptsensei.com/,は〜より・・・です,,wa~yori~desu,"[1] is more ~ than [2]
+Noun-1 + は + Noun-2 + より + Adj +です",1,"本は映画より面白いです。
+今日は昨日より忙しいです。
+電車はバスより速いです。",,#ee82ee
+N5,https://jlptsensei.com/,や,,ya,"and; or; connecting particle
+Noun + や + Noun",1,"毎朝、パンやベーコンなどを食べています。
+スーパーで肉や野菜を買いました。
+あなたのおすすめの音楽や本を私に教えてください。",,grey
+N5,https://jlptsensei.com/,よ,,yo,"you know; emphasis (ending particle)
+end of sentence + よ",1,"ちょっと、待ってよ！
+元気を出せよ。
+愛してるよ。",,grey
+N5,https://jlptsensei.com/,より〜方が,より〜ほうが,yori~hou~ga,"[2] is more ~ than [1]
+Noun 1 + より + Noun 2 + の方が　…
+Verb 1 + より + Verb 2 + 方が　…
+い-adjective 1 + より + い-adjective 2 + 方が　…
+な-adjective 1 + より + い-adjective 2 + な方が　…",1,"私は猫より、犬のほうが好きです。
+日本語を読むより、話す方が上手だ。
+遅く寝るより、早く寝た方がいいですよ。",,grey

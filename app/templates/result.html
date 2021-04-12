@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>YAPAN</title>
+  <link rel="stylesheet" type="text/css" href="../static/styles.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+</head>
+<body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script type="text/javascript" src="../static/main.js"></script>
+  <!--                header                               -->
+  <!--                mutedblues Design                    -->
+  <header class="header">
+    <a href="#" onclick="history.go(-1)" class="logo">YAPAN Bunpou</a>
+    <input class="menu-btn" type="checkbox" id="menu-btn" />
+    <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+    <ul class="menu">
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+      <!--                pop up                               -->
+      <!--                FruitMe Design                       -->
+    <div id="about" class="popup">
+      <a href="#" onclick="history.go(-1)" class="close">&times;</a>
+      <h2>About</h2>
+      <p>YAPAN is a Grammar Visualization Tool for Japanese, which covers around 620 JLPT grammar rules. It was developed as a part of a master's thesis. The code, the rules covered and more information can be found on gitlab.</p>
+    </div>
+<a href="#" onclick="history.go(-1)" class="close-popup"></a>
+    <div id="contact" class="popup">
+      <a href="#" onclick="history.go(-1)" class="close">&times;</a>
+      <h2>Contact</h2>
+        <ul class="social">
+          <li><a class="linkedin" href="https://www.linkedin.com/in/leduvu"></a></li>
+          <li><a class="github" href="https://github.com/leduvu"></a></li>
+          <li><a class="cv" href="https://www.lvu.io/files/CV.pdf"></a></li>
+        </ul>
+    </div>
+ <a href="#" onclick="history.go(-1)" class="close-popup"></a>
+  </header>
+      <!--                search list                          -->
+      <!--                Zach Richard Design                  -->
+    <div class="container">
+    <main>
+      <h2>Rules</h2>
+      <div class="sort-btn">
+      	<span onclick="$('ul#rule-list').sortList();">Sort By Level</span>
+      </div>
+      <div class="sort-btn">
+      	<span onclick="$('ul#rule-list').sortListRule();">Sort By Rule</span>
+      </div>
+    	<div id="searchDir">Search The List:</div>
+
+    	<ul id="rule-list" class="rule-list">
+        	{{ htmlRules|safe }}
+    	</ul>
+    </main>
+        <section class="result">
+        	{{ htmlText|safe }}
+		</section>
+
+  <form>
+    <div class="container">
+    <!--                button                               -->
+    <!--                Dronca Raul Design                   -->
+      <input class="btn" value="Back" onclick="history.go(-1)"/>
+    </div>
+    
+  </form>
+
+    </div>
+
+</body>
+</html>

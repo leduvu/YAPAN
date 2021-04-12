@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>YAPAN</title>
+  <link rel="stylesheet" type="text/css" href="../static/styles.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+</head>
+<body>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script type="text/javascript" src="../static/main.js"></script>
+  <!--                header                               -->
+  <!--                mutedblues Design                    -->
+  <header class="header">
+    <a href="" class="logo">YAPAN Bunpou</a>
+    <input class="menu-btn" type="checkbox" id="menu-btn" />
+    <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+    <ul class="menu">
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+      <!--                pop up                               -->
+      <!--                FruitMe Design                       -->
+    <div id="about" class="popup">
+      <a href="#" onclick="history.go(-1)" class="close">&times;</a>
+      <h2>About</h2>
+      <p>YAPAN is a Grammar Visualization Tool for Japanese, which covers around 620 JLPT grammar rules. It was developed as a part of a master's thesis. The code, the rules covered and more information can be found on gitlab.</p>
+    </div>
+<a href="#" onclick="history.go(-1)" class="close-popup"></a>
+    <div id="contact" class="popup">
+      <a href="#" onclick="history.go(-1)" class="close">&times;</a>
+      <h2>Contact</h2>
+        <ul class="social">
+          <li><a class="linkedin" href="https://www.linkedin.com/in/leduvu"></a></li>
+          <li><a class="github" href="https://github.com/leduvu"></a></li>
+          <li><a class="cv" href="https://www.lvu.io/files/CV.pdf"></a></li>
+        </ul>
+    </div>
+ <a href="#" onclick="history.go(-1)" class="close-popup"></a>
+  </header>
+
+      <h2>Japanese Grammar Visualisation</h2>
+    	<p>Paste the Japanese text you want to read into the text field, YAPAN will highlight grammar structures in the given text.  </p>
+    	<p>Hover over the highlighted words to see explanations and grammar construction rules. </p>
+
+      <div style="text-align: center;">
+      <div style="text-align: center;"><details><summary><em>Click me - to see an example</em></summary>
+
+              <!--                search list                          -->
+      <!--                Zach Richard Design                  -->
+    <div class="container">
+    <main>
+      <h2>Rules</h2>
+      <div class="sort-btn">
+        <span onclick="$('ul#rule-list').sortList();">Sort By Level</span>
+      </div>
+      <div class="sort-btn">
+        <span onclick="$('ul#rule-list').sortListRule();">Sort By Rule</span>
+      </div>
+      <div id="searchDir">Search The List:</div>
+
+      <ul id="rule-list" class="rule-list">
+          <li>N5&nbsp;<span class="pop-up-text" value="ni/e">に/へ<div class="pop-up">
+to (indicates direction / destination) <br />
+Noun + に/へ <br />
+ <br />
+destination particle; in; at; on; to <br />
+Noun + に
+</div></span></li>
+<li>N4&nbsp;<span class="pop-up-text" value="you ni/you na">ように / ような<div class="pop-up">
+like; as; similar to~ <br />
+Verb (casual) + よう + に/な <br />
+Noun + の + よう + に/な <br />
+ <br />
+in order to, so that~ <br />
+Verb (dictionary form) + ように <br />
+Verb (ない form) + ように
+</div></span></li>
+<li>N2&nbsp;<span class="pop-up-text" value="kara miru to">から見ると<div class="pop-up">
+from the point of view of; by the look of; judging from~ <br />
+Noun + から見ると/から見れば/から見て
+</div></span></li>
+<li>N2&nbsp;<span class="pop-up-text" value="koto da">ことだ<div class="pop-up">
+should do~ (used for suggestions or giving advice) <br />
+Verb (dictionary form) + ことだ <br />
+Verb (ない form) + ことだ
+</div></span></li>
+<li>N5&nbsp;<span class="pop-up-text" value="no">の<div class="pop-up">
+possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]
+</div></span></li>
+<li>N3&nbsp;<span class="pop-up-text" value="tatte">たって<div class="pop-up">
+even if; even though; no matter how~ <br />
+Verb (casual, past) + って <br />
+Noun + だ + って <br />
+な-adjective + だ + って <br />
+い-adjective + いく（っ）た + って
+</div></span></li>
+<li>N4&nbsp;<span class="pop-up-text" value="to iu">という<div class="pop-up">
+called; named; that~ <br />
+Noun + と言う/という <br />
+Phrase + と言う/という
+</div></span></li>
+<li>N4&nbsp;<span class="pop-up-text" value="rareru">られる<div class="pop-up">
+potential form; ability or inability to do something <br />
+Ru-verb: る => られる <br />
+U-verb: change "u" to "e" + る <br />
+やる: やれる <br />
+する: できる <br />
+くる: こられる
+</div></span></li>
+<li>N5&nbsp;<span class="pop-up-text" value="to">と<div class="pop-up">
+and <br />
+Phrase + と
+</div></span></li>
+<li>N4&nbsp;<span class="pop-up-text" value="yori">より<div class="pop-up">
+than; rather than; more than~ <br />
+[A]より[B] <br />
+より + adjective
+</div></span></li>
+<li>N3&nbsp;<span class="pop-up-text" value="sei de">せいで<div class="pop-up">
+because of; due to; as a result of~ <br />
+Verb (casual) + せい (で/に) <br />
+Noun + の + せい (で/に) <br />
+Adjective + せい (で/に)
+</div></span></li>
+
+      </ul>
+    </main>
+        <section class="result">
+        Text excerpt from Harry Potter and the Philosopher's Stone <br /> <br />
+          プリベット通り四番地<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>住人ダーズリー夫妻は、「おかげさまで、私どもは<span class="pop-up-text" style="color:#b03060">どこからみて<div class="pop-up">
+(kara miru to N2) from the point of view of; by the look of; judging from~ <br />
+Noun + から見ると/から見れば/から見て</div></span>もまともな人間です」<span class="pop-up-text" style="color:#ff7f50">と言う<div class="pop-up">
+(to iu N4) called; named; that~ <br />
+Noun + と言う/という <br />
+Phrase + と言う/という</div></span>のが自慢だった。不思議とか神秘とかそんな非常識はまるっきり認めない人種で、まか不思議な出来事が彼ら<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>周辺で起こるなんて、とうてい<span class="pop-up-text" style="color:#ff1493">考えられなかった<div class="pop-up">
+(rareru N4) potential form; ability or inability to do something <br />
+Ru-verb: る => られる <br />
+U-verb: change "u" to "e" + る <br />
+やる: やれる <br />
+する: できる <br />
+くる: こられる</div></span>。ダーズリー氏は、穴あけドリルを製造しているグラニングズ社<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>社長だ。ずんぐり<span class="pop-up-text" style="color:#ff7f50">と<div class="pop-up">
+(to N5) and <br />
+Phrase + と</div></span>肉づきがよい<span class="pop-up-text" style="color:#8a2be2">体型のせいで<div class="pop-up">
+(sei de N3) because of; due to; as a result of~ <br />
+Verb (casual) + せい (で/に) <br />
+Noun + の + せい (で/に) <br />
+Adjective + せい (で/に)</div></span>、首がほとんどない。そのかわり巨大な口ひげが目立っていた。奥さん<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>方はやせて、金髪で、なんと首<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>長さが普通<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>人<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>二倍はある。<span class="pop-up-text" style="color:#26bf2e">垣根越しに<div class="pop-up">
+(ni/e N5) to (indicates direction / destination) <br />
+Noun + に/へ <br />
+ <br />
+destination particle; in; at; on; to <br />
+Noun + に</div></span>ご近所<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>様子を詮索するのが趣味だったので、<span class="pop-up-text" style="color:grey">鶴のような<div class="pop-up">
+(you ni/you na N4) like; as; similar to~ <br />
+Verb (casual) + よう + に/な <br />
+Noun + の + よう + に/な <br />
+ <br />
+in order to, so that~ <br />
+Verb (dictionary form) + ように <br />
+Verb (ない form) + ように</div></span>首は実に便利だった。ダーズリー<span class="pop-up-text" style="color:#26bf2e">夫妻に<div class="pop-up">
+(ni/e N5) to (indicates direction / destination) <br />
+Noun + に/へ <br />
+ <br />
+destination particle; in; at; on; to <br />
+Noun + に</div></span>はダドリー<span class="pop-up-text" style="color:#ff7f50">という<div class="pop-up">
+(to iu N4) called; named; that~ <br />
+Noun + と言う/という <br />
+Phrase + と言う/という</div></span>男の子がいた。どこを<span class="pop-up-text" style="color:#ff7f50">探したって<div class="pop-up">
+(tatte N3) even if; even though; no matter how~ <br />
+Verb (casual, past) + って <br />
+Noun + だ + って <br />
+な-adjective + だ + って <br />
+い-adjective + いく（っ）た + って</div></span>こんなにでき<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>いい子はいやしない、<span class="pop-up-text" style="color:#ff7f50">という<div class="pop-up">
+(to iu N4) called; named; that~ <br />
+Noun + と言う/という <br />
+Phrase + と言う/という</div></span>のが二人<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>親バカ<span class="pop-up-text" style="color:#26bf2e">の<div class="pop-up">
+(no N5) possessive particle <br />
+Noun + の + [B] <br />
+[A]の[B] would mean [B] belong’s to [A]</div></span>意見だった。そんな<span class="pop-up-text" style="color:#26bf2e">絵に<div class="pop-up">
+(ni/e N5) to (indicates direction / destination) <br />
+Noun + に/へ <br />
+ <br />
+destination particle; in; at; on; to <br />
+Noun + に</div></span>描措<span class="pop-up-text" style="color:grey">いたように<div class="pop-up">
+(you ni/you na N4) like; as; similar to~ <br />
+Verb (casual) + よう + に/な <br />
+Noun + の + よう + に/な <br />
+ <br />
+in order to, so that~ <br />
+Verb (dictionary form) + ように <br />
+Verb (ない form) + ように</div></span>満ち足りたダーズリー<span class="pop-up-text" style="color:#26bf2e">家に<div class="pop-up">
+(ni/e N5) to (indicates direction / destination) <br />
+Noun + に/へ <br />
+ <br />
+destination particle; in; at; on; to <br />
+Noun + に</div></span>も、たった一つ秘密があった。なに<span class="pop-up-text" style="color:grey">より怖い<div class="pop-up">
+(yori N4) than; rather than; more than~ <br />
+[A]より[B] <br />
+より + adjective</div></span>のは、誰かにその秘密を嗅ぎつけ<span class="pop-up-text" style="color:#b03060">られることだった<div class="pop-up">
+(koto da N2) should do~ (used for suggestions or giving advice) <br />
+Verb (dictionary form) + ことだ <br />
+Verb (ない form) + ことだ</div></span>。
+    </section>
+
+	  </details></div>
+
+      <form action="{{ url_for('predict')}}" method="POST">
+      <!-- <input type="text" name="comment"/> -->
+      <textarea placeholder="Paste your japanese text here.&#13;&#10;&#13;&#10;#kanji #hiragana #katakana" name="message" rows="4" cols="50"></textarea>
+      <!--                checkbox                             -->
+      <!--                Adam Quinlan Design                  -->
+      <div class="container">
+        <p>Choose your level:</p>
+        <ul class="ks-cboxtags">
+          <li><input type="checkbox" id="checkboxOne" name="check" value="N5" checked><label for="checkboxOne">JLPT 5</label></li>
+          <li><input type="checkbox" id="checkboxTwo" name="check" value="N4" checked><label for="checkboxTwo">JLPT 4</label></li>
+          <li><input type="checkbox" id="checkboxThree" name="check" value="N3" checked><label for="checkboxThree">JLPT 3</label></li>
+          <li><input type="checkbox" id="checkboxFour" name="check" value="N2" checked><label for="checkboxFour">JLPT 2</label></li>
+          <li><input type="checkbox" id="checkboxFive" name="check" value="N1" checked><label for="checkboxFive">JLPT 1</label></li>
+        </ul>
+      </div>
+    <!--                button                               -->
+    <!--                Dronca Raul Design                   -->
+      <input type="submit" class="btn" value="Go">
+    </div>
+    
+  </form>
+
+  
+  
+
+</body>
+</html>

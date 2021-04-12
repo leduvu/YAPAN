@@ -1,0 +1,45 @@
+not found in any sentence:  biru
+not found in any sentence:  dewa aru mai ka
+not found in any sentence:  kare~kare
+not found in any sentence:  nai mono ka
+not found in any sentence:  ni shite
+not found in any sentence:  samonaito
+not found in any sentence:  te kara to iu mono
+not found in any sentence:  to areba
+not found in any sentence:  to iu tokoro da
+not found in any sentence:  to iu wake da
+not found in any sentence:  to iu wake dewa nai
+not found in any sentence:  to shitatte
+not found in any sentence:  you ni yotte wa
+not found in any sentence:  kara koso
+not found in any sentence:  mono dakara
+not found in any sentence:  sou ieba
+not found in any sentence:  sou suru to
+not found in any sentence:  tewa naranai
+not found in any sentence:  to iu mono da
+not found in any sentence:  to iu mono dewa nai
+not found in any sentence:  yori hoka nai
+not found in any sentence:  ageru
+not found in any sentence:  au
+not found in any sentence:  ba yokatta
+not found in any sentence:  te shou ga nai/te shikata ga nai
+not found in any sentence:  temo shou ga nai/temo shikata ga nai
+not found in any sentence:  to iu nowa
+not found in any sentence:  towa kagiranai
+not found in any sentence:  wa~de yuumei
+not found in any sentence:  you ga nai
+not found in any sentence:  ato de
+not found in any sentence:  ba
+not found in any sentence:  hazu ga nai
+not found in any sentence:  koto ga dekiru
+not found in any sentence:  koto ni naru
+not found in any sentence:  koto ni suru
+not found in any sentence:  koto1
+not found in any sentence:  made ni
+not found in any sentence:  ni ki ga tsuku
+not found in any sentence:  te iku
+not found in any sentence:  te ita
+not found in any sentence:  te itadakemasen ka
+not found in any sentence:  kata
+
+yes:  1532    no:  341
