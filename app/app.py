@@ -29,12 +29,7 @@ def predict():
 
 		return render_template('result.html', htmlRules=rules, htmlText=text)
 	else:
-		return redirect(url_for('predict'))
-
-def redirect():
-    return request.referrer
-
-
+		return render_template('result.html')
 
 if __name__ == '__main__':
-	app.run(host='0.0.0.0', port=2000, debug=True)
+	app.run(host='0.0.0.0', port=2000, debug=False)
