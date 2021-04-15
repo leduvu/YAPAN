@@ -4,7 +4,7 @@ $(function() {
           ww = $(window).outerWidth(),
           tl = $(this).offset().left;
 
-      if((tl * 2) > ww) tooltip.css({ 'right': '5px' });
+      if((tl * 2) > ww) tooltip.css({ 'right': $(this).outerWidth() + 5 });
       if((tl * 2) < ww) tooltip.css({ 'right': 'auto' });
   });
 });
