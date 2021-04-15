@@ -50,25 +50,22 @@ section {
 	margin: auto;
   /*border: 12px solid #B22222;
   border-radius: 10px;*/
-  overflow: hidden;
+  overflow: scroll;
 }
-
 
 .pop-up-text {
   position: relative;
   cursor: pointer;
   border-bottom: 1px dotted;
-  color:black;
+  overflow: visible;
 }
 
-.pop-up {
+.pop-up{
   line-height: 1.5;
   font-size: 14px;
   width: max-content;
   background-color: white;
-  position: absolute;
-  top:100%;
-  left:22px;
+  position:absolute;
   border: 2px solid black;
   padding: 10px;
   display: none;

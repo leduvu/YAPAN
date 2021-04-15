@@ -1,5 +1,16 @@
-/* search list Zach Richard Design https://codepen.io/zrichard/pen/bymrI */
+$(function() {
+  $(".pop-up-text").hover(function(){
+    var tooltip = $('.pop-up'),
+          ww = $(window).outerWidth(),
+          tl = $(this).offset().left;
 
+      if((tl * 2) > ww) tooltip.css({ 'right': '5px' });
+      if((tl * 2) < ww) tooltip.css({ 'right': 'auto' });
+  });
+});
+
+
+/* search list Zach Richard Design https://codepen.io/zrichard/pen/bymrI */
 
 
   //Sort by level
